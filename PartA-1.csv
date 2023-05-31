@@ -1,0 +1,3250 @@
+item_i_index,item_j_index,item_i,item_j,distance,d_ij,c_j
+0,0,Start Node,Start Node,0,0.0,0
+0,1,Start Node,Coffee Beans,15,1.5,6.99
+0,2,Start Node,K-Cups,35,3.5,10.99
+0,3,Start Node,Capt. Crunch,65,6.5,3.99
+0,4,Start Node,Chewy Bars,90,9.0,3.69
+0,5,Start Node,Granola,100,10.0,5.49
+0,6,Start Node,Hershey's,95,9.5,2.69
+0,7,Start Node,Flour,75,7.5,4.99
+0,8,Start Node,Syrup,65,6.5,2.49
+0,9,Start Node,Brownie Mix,35,3.5,2.29
+0,10,Start Node,Seasoning,20,2.0,3.99
+0,11,Start Node,Soup,45,4.5,1.99
+0,12,Start Node,Mac & Cheese,65,6.5,2.69
+0,13,Start Node,Ketchup,95,9.5,3.49
+0,14,Start Node,Pickles,100,10.0,2.99
+0,15,Start Node,Italian Dressing,105,10.5,3.99
+0,16,Start Node,Soy Sauce,125,12.5,2.49
+0,17,Start Node,Penne,120,12.0,3.49
+0,18,Start Node,CapriSun,115,11.5,2.49
+0,19,Start Node,Tortillas,75,7.5,1.99
+0,20,Start Node,Tomato Sauce,45,4.5,2.99
+0,21,Start Node,Ibuprofen,60,6.0,5.49
+0,22,Start Node,Diapers,75,7.5,25.99
+0,23,Start Node,Tootpaste,135,13.5,3.99
+0,24,Start Node,Tampons,125,12.5,5.29
+0,25,Start Node,Shampoo,140,14.0,8.99
+0,26,Start Node,Toilet Paper,65,6.5,7.99
+0,27,Start Node,Paper Towels,75,7.5,9.99
+0,28,Start Node,Napkins,95,9.5,3.29
+0,29,Start Node,Solo Cups,115,11.5,5.69
+0,30,Start Node,Trash Bags,145,14.5,8.99
+0,31,Start Node,Dish Soap,75,7.5,2.99
+0,32,Start Node,Detergent,80,8.0,12.99
+0,33,Start Node,Broom,95,9.5,13.99
+0,34,Start Node,Dog Treats,125,12.5,3.99
+0,35,Start Node,Air Freshner,135,13.5,6.99
+0,36,Start Node,Oreos,155,15.5,3.99
+0,37,Start Node,Popcorn,125,12.5,3.49
+0,38,Start Node,Gatorade (12),105,10.5,6.99
+0,39,Start Node,Redbull (4),100,10.0,7.99
+0,40,Start Node,Ritz,85,8.5,3.99
+0,41,Start Node,Coca Cola (12),95,9.5,5.99
+0,42,Start Node,LaCroix (12),105,10.5,5.49
+0,43,Start Node,Pepsi (12),100,10.0,5.99
+0,44,Start Node,Seltzer (6),165,16.5,3.99
+0,45,Start Node,Bottled Water (24),180,18.0,4.99
+0,46,Start Node,Milk Gallon,105,10.5,3.79
+0,47,Start Node,Butter Sticks,135,13.5,2.99
+0,48,Start Node,Cookie Dough,140,14.0,3.99
+0,49,Start Node,Chobani (4),155,15.5,4.49
+0,50,Start Node,Eggs (12),185,18.5,3.99
+0,51,Start Node,Waffles,185,18.5,3.79
+0,52,Start Node,Taquitos,145,14.5,6.99
+0,53,Start Node,Breyer's Ice Cream,135,13.5,4.99
+0,54,Start Node,Lasagna,155,15.5,9.99
+0,55,Start Node,Bagel Bites,165,16.5,2.79
+0,56,Start Node,"Pizza (12"")",195,19.5,8.99
+1,0,Coffee Beans,Start Node,15,1.5,0
+1,1,Coffee Beans,Coffee Beans,0,0.0,6.99
+1,2,Coffee Beans,K-Cups,20,2.0,10.99
+1,3,Coffee Beans,Capt. Crunch,50,5.0,3.99
+1,4,Coffee Beans,Chewy Bars,75,7.5,3.69
+1,5,Coffee Beans,Granola,85,8.5,5.49
+1,6,Coffee Beans,Hershey's,110,11.0,2.69
+1,7,Coffee Beans,Flour,90,9.0,4.99
+1,8,Coffee Beans,Syrup,80,8.0,2.49
+1,9,Coffee Beans,Brownie Mix,50,5.0,2.29
+1,10,Coffee Beans,Seasoning,35,3.5,3.99
+1,11,Coffee Beans,Soup,60,6.0,1.99
+1,12,Coffee Beans,Mac & Cheese,80,8.0,2.69
+1,13,Coffee Beans,Ketchup,110,11.0,3.49
+1,14,Coffee Beans,Pickles,115,11.5,2.99
+1,15,Coffee Beans,Italian Dressing,120,12.0,3.99
+1,16,Coffee Beans,Soy Sauce,140,14.0,2.49
+1,17,Coffee Beans,Penne,135,13.5,3.49
+1,18,Coffee Beans,CapriSun,130,13.0,2.49
+1,19,Coffee Beans,Tortillas,90,9.0,1.99
+1,20,Coffee Beans,Tomato Sauce,60,6.0,2.99
+1,21,Coffee Beans,Ibuprofen,75,7.5,5.49
+1,22,Coffee Beans,Diapers,90,9.0,25.99
+1,23,Coffee Beans,Tootpaste,150,15.0,3.99
+1,24,Coffee Beans,Tampons,140,14.0,5.29
+1,25,Coffee Beans,Shampoo,145,14.5,8.99
+1,26,Coffee Beans,Toilet Paper,80,8.0,7.99
+1,27,Coffee Beans,Paper Towels,90,9.0,9.99
+1,28,Coffee Beans,Napkins,110,11.0,3.29
+1,29,Coffee Beans,Solo Cups,130,13.0,5.69
+1,30,Coffee Beans,Trash Bags,160,16.0,8.99
+1,31,Coffee Beans,Dish Soap,90,9.0,2.99
+1,32,Coffee Beans,Detergent,95,9.5,12.99
+1,33,Coffee Beans,Broom,110,11.0,13.99
+1,34,Coffee Beans,Dog Treats,140,14.0,3.99
+1,35,Coffee Beans,Air Freshner,150,15.0,6.99
+1,36,Coffee Beans,Oreos,170,17.0,3.99
+1,37,Coffee Beans,Popcorn,140,14.0,3.49
+1,38,Coffee Beans,Gatorade (12),120,12.0,6.99
+1,39,Coffee Beans,Redbull (4),115,11.5,7.99
+1,40,Coffee Beans,Ritz,100,10.0,3.99
+1,41,Coffee Beans,Coca Cola (12),110,11.0,5.99
+1,42,Coffee Beans,LaCroix (12),120,12.0,5.49
+1,43,Coffee Beans,Pepsi (12),115,11.5,5.99
+1,44,Coffee Beans,Seltzer (6),180,18.0,3.99
+1,45,Coffee Beans,Bottled Water (24),185,18.5,4.99
+1,46,Coffee Beans,Milk Gallon,120,12.0,3.79
+1,47,Coffee Beans,Butter Sticks,150,15.0,2.99
+1,48,Coffee Beans,Cookie Dough,155,15.5,3.99
+1,49,Coffee Beans,Chobani (4),170,17.0,4.49
+1,50,Coffee Beans,Eggs (12),200,20.0,3.99
+1,51,Coffee Beans,Waffles,200,20.0,3.79
+1,52,Coffee Beans,Taquitos,160,16.0,6.99
+1,53,Coffee Beans,Breyer's Ice Cream,150,15.0,4.99
+1,54,Coffee Beans,Lasagna,170,17.0,9.99
+1,55,Coffee Beans,Bagel Bites,180,18.0,2.79
+1,56,Coffee Beans,"Pizza (12"")",210,21.0,8.99
+2,0,K-Cups,Start Node,35,3.5,0
+2,1,K-Cups,Coffee Beans,20,2.0,6.99
+2,2,K-Cups,K-Cups,0,0.0,10.99
+2,3,K-Cups,Capt. Crunch,30,3.0,3.99
+2,4,K-Cups,Chewy Bars,55,5.5,3.69
+2,5,K-Cups,Granola,65,6.5,5.49
+2,6,K-Cups,Hershey's,110,11.0,2.69
+2,7,K-Cups,Flour,110,11.0,4.99
+2,8,K-Cups,Syrup,100,10.0,2.49
+2,9,K-Cups,Brownie Mix,70,7.0,2.29
+2,10,K-Cups,Seasoning,55,5.5,3.99
+2,11,K-Cups,Soup,80,8.0,1.99
+2,12,K-Cups,Mac & Cheese,100,10.0,2.69
+2,13,K-Cups,Ketchup,130,13.0,3.49
+2,14,K-Cups,Pickles,125,12.5,2.99
+2,15,K-Cups,Italian Dressing,120,12.0,3.99
+2,16,K-Cups,Soy Sauce,120,12.0,2.49
+2,17,K-Cups,Penne,125,12.5,3.49
+2,18,K-Cups,CapriSun,130,13.0,2.49
+2,19,K-Cups,Tortillas,110,11.0,1.99
+2,20,K-Cups,Tomato Sauce,80,8.0,2.99
+2,21,K-Cups,Ibuprofen,95,9.5,5.49
+2,22,K-Cups,Diapers,110,11.0,25.99
+2,23,K-Cups,Tootpaste,130,13.0,3.99
+2,24,K-Cups,Tampons,140,14.0,5.29
+2,25,K-Cups,Shampoo,125,12.5,8.99
+2,26,K-Cups,Toilet Paper,100,10.0,7.99
+2,27,K-Cups,Paper Towels,110,11.0,9.99
+2,28,K-Cups,Napkins,130,13.0,3.29
+2,29,K-Cups,Solo Cups,150,15.0,5.69
+2,30,K-Cups,Trash Bags,140,14.0,8.99
+2,31,K-Cups,Dish Soap,110,11.0,2.99
+2,32,K-Cups,Detergent,115,11.5,12.99
+2,33,K-Cups,Broom,130,13.0,13.99
+2,34,K-Cups,Dog Treats,160,16.0,3.99
+2,35,K-Cups,Air Freshner,170,17.0,6.99
+2,36,K-Cups,Oreos,170,17.0,3.99
+2,37,K-Cups,Popcorn,160,16.0,3.49
+2,38,K-Cups,Gatorade (12),140,14.0,6.99
+2,39,K-Cups,Redbull (4),135,13.5,7.99
+2,40,K-Cups,Ritz,120,12.0,3.99
+2,41,K-Cups,Coca Cola (12),130,13.0,5.99
+2,42,K-Cups,LaCroix (12),140,14.0,5.49
+2,43,K-Cups,Pepsi (12),135,13.5,5.99
+2,44,K-Cups,Seltzer (6),180,18.0,3.99
+2,45,K-Cups,Bottled Water (24),165,16.5,4.99
+2,46,K-Cups,Milk Gallon,140,14.0,3.79
+2,47,K-Cups,Butter Sticks,170,17.0,2.99
+2,48,K-Cups,Cookie Dough,175,17.5,3.99
+2,49,K-Cups,Chobani (4),190,19.0,4.49
+2,50,K-Cups,Eggs (12),180,18.0,3.99
+2,51,K-Cups,Waffles,200,20.0,3.79
+2,52,K-Cups,Taquitos,180,18.0,6.99
+2,53,K-Cups,Breyer's Ice Cream,170,17.0,4.99
+2,54,K-Cups,Lasagna,190,19.0,9.99
+2,55,K-Cups,Bagel Bites,200,20.0,2.79
+2,56,K-Cups,"Pizza (12"")",190,19.0,8.99
+3,0,Capt. Crunch,Start Node,65,6.5,0
+3,1,Capt. Crunch,Coffee Beans,50,5.0,6.99
+3,2,Capt. Crunch,K-Cups,30,3.0,10.99
+3,3,Capt. Crunch,Capt. Crunch,0,0.0,3.99
+3,4,Capt. Crunch,Chewy Bars,25,2.5,3.69
+3,5,Capt. Crunch,Granola,35,3.5,5.49
+3,6,Capt. Crunch,Hershey's,80,8.0,2.69
+3,7,Capt. Crunch,Flour,100,10.0,4.99
+3,8,Capt. Crunch,Syrup,110,11.0,2.49
+3,9,Capt. Crunch,Brownie Mix,100,10.0,2.29
+3,10,Capt. Crunch,Seasoning,85,8.5,3.99
+3,11,Capt. Crunch,Soup,110,11.0,1.99
+3,12,Capt. Crunch,Mac & Cheese,130,13.0,2.69
+3,13,Capt. Crunch,Ketchup,100,10.0,3.49
+3,14,Capt. Crunch,Pickles,95,9.5,2.99
+3,15,Capt. Crunch,Italian Dressing,90,9.0,3.99
+3,16,Capt. Crunch,Soy Sauce,90,9.0,2.49
+3,17,Capt. Crunch,Penne,95,9.5,3.49
+3,18,Capt. Crunch,CapriSun,100,10.0,2.49
+3,19,Capt. Crunch,Tortillas,140,14.0,1.99
+3,20,Capt. Crunch,Tomato Sauce,110,11.0,2.99
+3,21,Capt. Crunch,Ibuprofen,125,12.5,5.49
+3,22,Capt. Crunch,Diapers,140,14.0,25.99
+3,23,Capt. Crunch,Tootpaste,100,10.0,3.99
+3,24,Capt. Crunch,Tampons,110,11.0,5.29
+3,25,Capt. Crunch,Shampoo,95,9.5,8.99
+3,26,Capt. Crunch,Toilet Paper,130,13.0,7.99
+3,27,Capt. Crunch,Paper Towels,140,14.0,9.99
+3,28,Capt. Crunch,Napkins,160,16.0,3.29
+3,29,Capt. Crunch,Solo Cups,140,14.0,5.69
+3,30,Capt. Crunch,Trash Bags,110,11.0,8.99
+3,31,Capt. Crunch,Dish Soap,140,14.0,2.99
+3,32,Capt. Crunch,Detergent,145,14.5,12.99
+3,33,Capt. Crunch,Broom,160,16.0,13.99
+3,34,Capt. Crunch,Dog Treats,150,15.0,3.99
+3,35,Capt. Crunch,Air Freshner,140,14.0,6.99
+3,36,Capt. Crunch,Oreos,140,14.0,3.99
+3,37,Capt. Crunch,Popcorn,170,17.0,3.49
+3,38,Capt. Crunch,Gatorade (12),170,17.0,6.99
+3,39,Capt. Crunch,Redbull (4),165,16.5,7.99
+3,40,Capt. Crunch,Ritz,150,15.0,3.99
+3,41,Capt. Crunch,Coca Cola (12),160,16.0,5.99
+3,42,Capt. Crunch,LaCroix (12),170,17.0,5.49
+3,43,Capt. Crunch,Pepsi (12),165,16.5,5.99
+3,44,Capt. Crunch,Seltzer (6),150,15.0,3.99
+3,45,Capt. Crunch,Bottled Water (24),135,13.5,4.99
+3,46,Capt. Crunch,Milk Gallon,170,17.0,3.79
+3,47,Capt. Crunch,Butter Sticks,200,20.0,2.99
+3,48,Capt. Crunch,Cookie Dough,195,19.5,3.99
+3,49,Capt. Crunch,Chobani (4),180,18.0,4.49
+3,50,Capt. Crunch,Eggs (12),150,15.0,3.99
+3,51,Capt. Crunch,Waffles,170,17.0,3.79
+3,52,Capt. Crunch,Taquitos,210,21.0,6.99
+3,53,Capt. Crunch,Breyer's Ice Cream,200,20.0,4.99
+3,54,Capt. Crunch,Lasagna,200,20.0,9.99
+3,55,Capt. Crunch,Bagel Bites,190,19.0,2.79
+3,56,Capt. Crunch,"Pizza (12"")",160,16.0,8.99
+4,0,Chewy Bars,Start Node,90,9.0,0
+4,1,Chewy Bars,Coffee Beans,75,7.5,6.99
+4,2,Chewy Bars,K-Cups,55,5.5,10.99
+4,3,Chewy Bars,Capt. Crunch,25,2.5,3.99
+4,4,Chewy Bars,Chewy Bars,0,0.0,3.69
+4,5,Chewy Bars,Granola,10,1.0,5.49
+4,6,Chewy Bars,Hershey's,55,5.5,2.69
+4,7,Chewy Bars,Flour,75,7.5,4.99
+4,8,Chewy Bars,Syrup,85,8.5,2.49
+4,9,Chewy Bars,Brownie Mix,115,11.5,2.29
+4,10,Chewy Bars,Seasoning,110,11.0,3.99
+4,11,Chewy Bars,Soup,125,12.5,1.99
+4,12,Chewy Bars,Mac & Cheese,105,10.5,2.69
+4,13,Chewy Bars,Ketchup,75,7.5,3.49
+4,14,Chewy Bars,Pickles,70,7.0,2.99
+4,15,Chewy Bars,Italian Dressing,65,6.5,3.99
+4,16,Chewy Bars,Soy Sauce,65,6.5,2.49
+4,17,Chewy Bars,Penne,70,7.0,3.49
+4,18,Chewy Bars,CapriSun,75,7.5,2.49
+4,19,Chewy Bars,Tortillas,115,11.5,1.99
+4,20,Chewy Bars,Tomato Sauce,135,13.5,2.99
+4,21,Chewy Bars,Ibuprofen,150,15.0,5.49
+4,22,Chewy Bars,Diapers,135,13.5,25.99
+4,23,Chewy Bars,Tootpaste,75,7.5,3.99
+4,24,Chewy Bars,Tampons,85,8.5,5.29
+4,25,Chewy Bars,Shampoo,70,7.0,8.99
+4,26,Chewy Bars,Toilet Paper,155,15.5,7.99
+4,27,Chewy Bars,Paper Towels,155,15.5,9.99
+4,28,Chewy Bars,Napkins,135,13.5,3.29
+4,29,Chewy Bars,Solo Cups,115,11.5,5.69
+4,30,Chewy Bars,Trash Bags,85,8.5,8.99
+4,31,Chewy Bars,Dish Soap,165,16.5,2.99
+4,32,Chewy Bars,Detergent,170,17.0,12.99
+4,33,Chewy Bars,Broom,155,15.5,13.99
+4,34,Chewy Bars,Dog Treats,125,12.5,3.99
+4,35,Chewy Bars,Air Freshner,115,11.5,6.99
+4,36,Chewy Bars,Oreos,115,11.5,3.99
+4,37,Chewy Bars,Popcorn,145,14.5,3.49
+4,38,Chewy Bars,Gatorade (12),165,16.5,6.99
+4,39,Chewy Bars,Redbull (4),170,17.0,7.99
+4,40,Chewy Bars,Ritz,175,17.5,3.99
+4,41,Chewy Bars,Coca Cola (12),185,18.5,5.99
+4,42,Chewy Bars,LaCroix (12),185,18.5,5.49
+4,43,Chewy Bars,Pepsi (12),190,19.0,5.99
+4,44,Chewy Bars,Seltzer (6),125,12.5,3.99
+4,45,Chewy Bars,Bottled Water (24),110,11.0,4.99
+4,46,Chewy Bars,Milk Gallon,195,19.5,3.79
+4,47,Chewy Bars,Butter Sticks,175,17.5,2.99
+4,48,Chewy Bars,Cookie Dough,170,17.0,3.99
+4,49,Chewy Bars,Chobani (4),155,15.5,4.49
+4,50,Chewy Bars,Eggs (12),125,12.5,3.99
+4,51,Chewy Bars,Waffles,145,14.5,3.79
+4,52,Chewy Bars,Taquitos,185,18.5,6.99
+4,53,Chewy Bars,Breyer's Ice Cream,195,19.5,4.99
+4,54,Chewy Bars,Lasagna,175,17.5,9.99
+4,55,Chewy Bars,Bagel Bites,165,16.5,2.79
+4,56,Chewy Bars,"Pizza (12"")",135,13.5,8.99
+5,0,Granola,Start Node,100,10.0,0
+5,1,Granola,Coffee Beans,85,8.5,6.99
+5,2,Granola,K-Cups,65,6.5,10.99
+5,3,Granola,Capt. Crunch,35,3.5,3.99
+5,4,Granola,Chewy Bars,10,1.0,3.69
+5,5,Granola,Granola,0,0.0,5.49
+5,6,Granola,Hershey's,45,4.5,2.69
+5,7,Granola,Flour,65,6.5,4.99
+5,8,Granola,Syrup,75,7.5,2.49
+5,9,Granola,Brownie Mix,105,10.5,2.29
+5,10,Granola,Seasoning,120,12.0,3.99
+5,11,Granola,Soup,115,11.5,1.99
+5,12,Granola,Mac & Cheese,95,9.5,2.69
+5,13,Granola,Ketchup,65,6.5,3.49
+5,14,Granola,Pickles,60,6.0,2.99
+5,15,Granola,Italian Dressing,55,5.5,3.99
+5,16,Granola,Soy Sauce,55,5.5,2.49
+5,17,Granola,Penne,60,6.0,3.49
+5,18,Granola,CapriSun,65,6.5,2.49
+5,19,Granola,Tortillas,105,10.5,1.99
+5,20,Granola,Tomato Sauce,135,13.5,2.99
+5,21,Granola,Ibuprofen,140,14.0,5.49
+5,22,Granola,Diapers,125,12.5,25.99
+5,23,Granola,Tootpaste,65,6.5,3.99
+5,24,Granola,Tampons,75,7.5,5.29
+5,25,Granola,Shampoo,60,6.0,8.99
+5,26,Granola,Toilet Paper,155,15.5,7.99
+5,27,Granola,Paper Towels,145,14.5,9.99
+5,28,Granola,Napkins,125,12.5,3.29
+5,29,Granola,Solo Cups,105,10.5,5.69
+5,30,Granola,Trash Bags,75,7.5,8.99
+5,31,Granola,Dish Soap,165,16.5,2.99
+5,32,Granola,Detergent,160,16.0,12.99
+5,33,Granola,Broom,145,14.5,13.99
+5,34,Granola,Dog Treats,115,11.5,3.99
+5,35,Granola,Air Freshner,105,10.5,6.99
+5,36,Granola,Oreos,105,10.5,3.99
+5,37,Granola,Popcorn,135,13.5,3.49
+5,38,Granola,Gatorade (12),155,15.5,6.99
+5,39,Granola,Redbull (4),160,16.0,7.99
+5,40,Granola,Ritz,175,17.5,3.99
+5,41,Granola,Coca Cola (12),185,18.5,5.99
+5,42,Granola,LaCroix (12),175,17.5,5.49
+5,43,Granola,Pepsi (12),180,18.0,5.99
+5,44,Granola,Seltzer (6),115,11.5,3.99
+5,45,Granola,Bottled Water (24),100,10.0,4.99
+5,46,Granola,Milk Gallon,195,19.5,3.79
+5,47,Granola,Butter Sticks,165,16.5,2.99
+5,48,Granola,Cookie Dough,160,16.0,3.99
+5,49,Granola,Chobani (4),145,14.5,4.49
+5,50,Granola,Eggs (12),115,11.5,3.99
+5,51,Granola,Waffles,135,13.5,3.79
+5,52,Granola,Taquitos,175,17.5,6.99
+5,53,Granola,Breyer's Ice Cream,185,18.5,4.99
+5,54,Granola,Lasagna,165,16.5,9.99
+5,55,Granola,Bagel Bites,155,15.5,2.79
+5,56,Granola,"Pizza (12"")",125,12.5,8.99
+6,0,Hershey's,Start Node,95,9.5,0
+6,1,Hershey's,Coffee Beans,110,11.0,6.99
+6,2,Hershey's,K-Cups,110,11.0,10.99
+6,3,Hershey's,Capt. Crunch,80,8.0,3.99
+6,4,Hershey's,Chewy Bars,55,5.5,3.69
+6,5,Hershey's,Granola,45,4.5,5.49
+6,6,Hershey's,Hershey's,0,0.0,2.69
+6,7,Hershey's,Flour,20,2.0,4.99
+6,8,Hershey's,Syrup,30,3.0,2.49
+6,9,Hershey's,Brownie Mix,60,6.0,2.29
+6,10,Hershey's,Seasoning,75,7.5,3.99
+6,11,Hershey's,Soup,120,12.0,1.99
+6,12,Hershey's,Mac & Cheese,100,10.0,2.69
+6,13,Hershey's,Ketchup,70,7.0,3.49
+6,14,Hershey's,Pickles,65,6.5,2.99
+6,15,Hershey's,Italian Dressing,60,6.0,3.99
+6,16,Hershey's,Soy Sauce,60,6.0,2.49
+6,17,Hershey's,Penne,65,6.5,3.49
+6,18,Hershey's,CapriSun,70,7.0,2.49
+6,19,Hershey's,Tortillas,110,11.0,1.99
+6,20,Hershey's,Tomato Sauce,120,12.0,2.99
+6,21,Hershey's,Ibuprofen,135,13.5,5.49
+6,22,Hershey's,Diapers,130,13.0,25.99
+6,23,Hershey's,Tootpaste,70,7.0,3.99
+6,24,Hershey's,Tampons,80,8.0,5.29
+6,25,Hershey's,Shampoo,65,6.5,8.99
+6,26,Hershey's,Toilet Paper,140,14.0,7.99
+6,27,Hershey's,Paper Towels,150,15.0,9.99
+6,28,Hershey's,Napkins,130,13.0,3.29
+6,29,Hershey's,Solo Cups,110,11.0,5.69
+6,30,Hershey's,Trash Bags,80,8.0,8.99
+6,31,Hershey's,Dish Soap,150,15.0,2.99
+6,32,Hershey's,Detergent,155,15.5,12.99
+6,33,Hershey's,Broom,150,15.0,13.99
+6,34,Hershey's,Dog Treats,120,12.0,3.99
+6,35,Hershey's,Air Freshner,110,11.0,6.99
+6,36,Hershey's,Oreos,110,11.0,3.99
+6,37,Hershey's,Popcorn,140,14.0,3.49
+6,38,Hershey's,Gatorade (12),160,16.0,6.99
+6,39,Hershey's,Redbull (4),165,16.5,7.99
+6,40,Hershey's,Ritz,160,16.0,3.99
+6,41,Hershey's,Coca Cola (12),170,17.0,5.99
+6,42,Hershey's,LaCroix (12),180,18.0,5.49
+6,43,Hershey's,Pepsi (12),175,17.5,5.99
+6,44,Hershey's,Seltzer (6),120,12.0,3.99
+6,45,Hershey's,Bottled Water (24),105,10.5,4.99
+6,46,Hershey's,Milk Gallon,180,18.0,3.79
+6,47,Hershey's,Butter Sticks,170,17.0,2.99
+6,48,Hershey's,Cookie Dough,165,16.5,3.99
+6,49,Hershey's,Chobani (4),150,15.0,4.49
+6,50,Hershey's,Eggs (12),120,12.0,3.99
+6,51,Hershey's,Waffles,140,14.0,3.79
+6,52,Hershey's,Taquitos,180,18.0,6.99
+6,53,Hershey's,Breyer's Ice Cream,190,19.0,4.99
+6,54,Hershey's,Lasagna,170,17.0,9.99
+6,55,Hershey's,Bagel Bites,160,16.0,2.79
+6,56,Hershey's,"Pizza (12"")",130,13.0,8.99
+7,0,Flour,Start Node,75,7.5,0
+7,1,Flour,Coffee Beans,90,9.0,6.99
+7,2,Flour,K-Cups,110,11.0,10.99
+7,3,Flour,Capt. Crunch,100,10.0,3.99
+7,4,Flour,Chewy Bars,75,7.5,3.69
+7,5,Flour,Granola,65,6.5,5.49
+7,6,Flour,Hershey's,20,2.0,2.69
+7,7,Flour,Flour,0,0.0,4.99
+7,8,Flour,Syrup,10,1.0,2.49
+7,9,Flour,Brownie Mix,40,4.0,2.29
+7,10,Flour,Seasoning,55,5.5,3.99
+7,11,Flour,Soup,100,10.0,1.99
+7,12,Flour,Mac & Cheese,120,12.0,2.69
+7,13,Flour,Ketchup,90,9.0,3.49
+7,14,Flour,Pickles,85,8.5,2.99
+7,15,Flour,Italian Dressing,80,8.0,3.99
+7,16,Flour,Soy Sauce,80,8.0,2.49
+7,17,Flour,Penne,85,8.5,3.49
+7,18,Flour,CapriSun,90,9.0,2.49
+7,19,Flour,Tortillas,130,13.0,1.99
+7,20,Flour,Tomato Sauce,100,10.0,2.99
+7,21,Flour,Ibuprofen,115,11.5,5.49
+7,22,Flour,Diapers,130,13.0,25.99
+7,23,Flour,Tootpaste,90,9.0,3.99
+7,24,Flour,Tampons,100,10.0,5.29
+7,25,Flour,Shampoo,85,8.5,8.99
+7,26,Flour,Toilet Paper,120,12.0,7.99
+7,27,Flour,Paper Towels,130,13.0,9.99
+7,28,Flour,Napkins,150,15.0,3.29
+7,29,Flour,Solo Cups,130,13.0,5.69
+7,30,Flour,Trash Bags,100,10.0,8.99
+7,31,Flour,Dish Soap,130,13.0,2.99
+7,32,Flour,Detergent,135,13.5,12.99
+7,33,Flour,Broom,150,15.0,13.99
+7,34,Flour,Dog Treats,140,14.0,3.99
+7,35,Flour,Air Freshner,130,13.0,6.99
+7,36,Flour,Oreos,130,13.0,3.99
+7,37,Flour,Popcorn,160,16.0,3.49
+7,38,Flour,Gatorade (12),160,16.0,6.99
+7,39,Flour,Redbull (4),155,15.5,7.99
+7,40,Flour,Ritz,140,14.0,3.99
+7,41,Flour,Coca Cola (12),150,15.0,5.99
+7,42,Flour,LaCroix (12),160,16.0,5.49
+7,43,Flour,Pepsi (12),155,15.5,5.99
+7,44,Flour,Seltzer (6),140,14.0,3.99
+7,45,Flour,Bottled Water (24),125,12.5,4.99
+7,46,Flour,Milk Gallon,160,16.0,3.79
+7,47,Flour,Butter Sticks,190,19.0,2.99
+7,48,Flour,Cookie Dough,185,18.5,3.99
+7,49,Flour,Chobani (4),170,17.0,4.49
+7,50,Flour,Eggs (12),140,14.0,3.99
+7,51,Flour,Waffles,160,16.0,3.79
+7,52,Flour,Taquitos,200,20.0,6.99
+7,53,Flour,Breyer's Ice Cream,190,19.0,4.99
+7,54,Flour,Lasagna,190,19.0,9.99
+7,55,Flour,Bagel Bites,180,18.0,2.79
+7,56,Flour,"Pizza (12"")",150,15.0,8.99
+8,0,Syrup,Start Node,65,6.5,0
+8,1,Syrup,Coffee Beans,80,8.0,6.99
+8,2,Syrup,K-Cups,100,10.0,10.99
+8,3,Syrup,Capt. Crunch,110,11.0,3.99
+8,4,Syrup,Chewy Bars,85,8.5,3.69
+8,5,Syrup,Granola,75,7.5,5.49
+8,6,Syrup,Hershey's,30,3.0,2.69
+8,7,Syrup,Flour,10,1.0,4.99
+8,8,Syrup,Syrup,0,0.0,2.49
+8,9,Syrup,Brownie Mix,30,3.0,2.29
+8,10,Syrup,Seasoning,45,4.5,3.99
+8,11,Syrup,Soup,90,9.0,1.99
+8,12,Syrup,Mac & Cheese,110,11.0,2.69
+8,13,Syrup,Ketchup,100,10.0,3.49
+8,14,Syrup,Pickles,95,9.5,2.99
+8,15,Syrup,Italian Dressing,90,9.0,3.99
+8,16,Syrup,Soy Sauce,90,9.0,2.49
+8,17,Syrup,Penne,95,9.5,3.49
+8,18,Syrup,CapriSun,100,10.0,2.49
+8,19,Syrup,Tortillas,120,12.0,1.99
+8,20,Syrup,Tomato Sauce,90,9.0,2.99
+8,21,Syrup,Ibuprofen,105,10.5,5.49
+8,22,Syrup,Diapers,120,12.0,25.99
+8,23,Syrup,Tootpaste,100,10.0,3.99
+8,24,Syrup,Tampons,110,11.0,5.29
+8,25,Syrup,Shampoo,95,9.5,8.99
+8,26,Syrup,Toilet Paper,110,11.0,7.99
+8,27,Syrup,Paper Towels,120,12.0,9.99
+8,28,Syrup,Napkins,140,14.0,3.29
+8,29,Syrup,Solo Cups,140,14.0,5.69
+8,30,Syrup,Trash Bags,110,11.0,8.99
+8,31,Syrup,Dish Soap,120,12.0,2.99
+8,32,Syrup,Detergent,125,12.5,12.99
+8,33,Syrup,Broom,140,14.0,13.99
+8,34,Syrup,Dog Treats,150,15.0,3.99
+8,35,Syrup,Air Freshner,140,14.0,6.99
+8,36,Syrup,Oreos,140,14.0,3.99
+8,37,Syrup,Popcorn,170,17.0,3.49
+8,38,Syrup,Gatorade (12),150,15.0,6.99
+8,39,Syrup,Redbull (4),145,14.5,7.99
+8,40,Syrup,Ritz,130,13.0,3.99
+8,41,Syrup,Coca Cola (12),140,14.0,5.99
+8,42,Syrup,LaCroix (12),150,15.0,5.49
+8,43,Syrup,Pepsi (12),145,14.5,5.99
+8,44,Syrup,Seltzer (6),150,15.0,3.99
+8,45,Syrup,Bottled Water (24),135,13.5,4.99
+8,46,Syrup,Milk Gallon,150,15.0,3.79
+8,47,Syrup,Butter Sticks,180,18.0,2.99
+8,48,Syrup,Cookie Dough,185,18.5,3.99
+8,49,Syrup,Chobani (4),180,18.0,4.49
+8,50,Syrup,Eggs (12),150,15.0,3.99
+8,51,Syrup,Waffles,170,17.0,3.79
+8,52,Syrup,Taquitos,190,19.0,6.99
+8,53,Syrup,Breyer's Ice Cream,180,18.0,4.99
+8,54,Syrup,Lasagna,200,20.0,9.99
+8,55,Syrup,Bagel Bites,190,19.0,2.79
+8,56,Syrup,"Pizza (12"")",160,16.0,8.99
+9,0,Brownie Mix,Start Node,35,3.5,0
+9,1,Brownie Mix,Coffee Beans,50,5.0,6.99
+9,2,Brownie Mix,K-Cups,70,7.0,10.99
+9,3,Brownie Mix,Capt. Crunch,100,10.0,3.99
+9,4,Brownie Mix,Chewy Bars,115,11.5,3.69
+9,5,Brownie Mix,Granola,105,10.5,5.49
+9,6,Brownie Mix,Hershey's,60,6.0,2.69
+9,7,Brownie Mix,Flour,40,4.0,4.99
+9,8,Brownie Mix,Syrup,30,3.0,2.49
+9,9,Brownie Mix,Brownie Mix,0,0.0,2.29
+9,10,Brownie Mix,Seasoning,15,1.5,3.99
+9,11,Brownie Mix,Soup,60,6.0,1.99
+9,12,Brownie Mix,Mac & Cheese,80,8.0,2.69
+9,13,Brownie Mix,Ketchup,110,11.0,3.49
+9,14,Brownie Mix,Pickles,115,11.5,2.99
+9,15,Brownie Mix,Italian Dressing,120,12.0,3.99
+9,16,Brownie Mix,Soy Sauce,120,12.0,2.49
+9,17,Brownie Mix,Penne,125,12.5,3.49
+9,18,Brownie Mix,CapriSun,130,13.0,2.49
+9,19,Brownie Mix,Tortillas,90,9.0,1.99
+9,20,Brownie Mix,Tomato Sauce,60,6.0,2.99
+9,21,Brownie Mix,Ibuprofen,75,7.5,5.49
+9,22,Brownie Mix,Diapers,90,9.0,25.99
+9,23,Brownie Mix,Tootpaste,130,13.0,3.99
+9,24,Brownie Mix,Tampons,140,14.0,5.29
+9,25,Brownie Mix,Shampoo,125,12.5,8.99
+9,26,Brownie Mix,Toilet Paper,80,8.0,7.99
+9,27,Brownie Mix,Paper Towels,90,9.0,9.99
+9,28,Brownie Mix,Napkins,110,11.0,3.29
+9,29,Brownie Mix,Solo Cups,130,13.0,5.69
+9,30,Brownie Mix,Trash Bags,140,14.0,8.99
+9,31,Brownie Mix,Dish Soap,90,9.0,2.99
+9,32,Brownie Mix,Detergent,95,9.5,12.99
+9,33,Brownie Mix,Broom,110,11.0,13.99
+9,34,Brownie Mix,Dog Treats,140,14.0,3.99
+9,35,Brownie Mix,Air Freshner,150,15.0,6.99
+9,36,Brownie Mix,Oreos,170,17.0,3.99
+9,37,Brownie Mix,Popcorn,140,14.0,3.49
+9,38,Brownie Mix,Gatorade (12),120,12.0,6.99
+9,39,Brownie Mix,Redbull (4),115,11.5,7.99
+9,40,Brownie Mix,Ritz,100,10.0,3.99
+9,41,Brownie Mix,Coca Cola (12),110,11.0,5.99
+9,42,Brownie Mix,LaCroix (12),120,12.0,5.49
+9,43,Brownie Mix,Pepsi (12),115,11.5,5.99
+9,44,Brownie Mix,Seltzer (6),180,18.0,3.99
+9,45,Brownie Mix,Bottled Water (24),165,16.5,4.99
+9,46,Brownie Mix,Milk Gallon,120,12.0,3.79
+9,47,Brownie Mix,Butter Sticks,150,15.0,2.99
+9,48,Brownie Mix,Cookie Dough,155,15.5,3.99
+9,49,Brownie Mix,Chobani (4),170,17.0,4.49
+9,50,Brownie Mix,Eggs (12),180,18.0,3.99
+9,51,Brownie Mix,Waffles,200,20.0,3.79
+9,52,Brownie Mix,Taquitos,160,16.0,6.99
+9,53,Brownie Mix,Breyer's Ice Cream,150,15.0,4.99
+9,54,Brownie Mix,Lasagna,170,17.0,9.99
+9,55,Brownie Mix,Bagel Bites,180,18.0,2.79
+9,56,Brownie Mix,"Pizza (12"")",190,19.0,8.99
+10,0,Seasoning,Start Node,20,2.0,0
+10,1,Seasoning,Coffee Beans,35,3.5,6.99
+10,2,Seasoning,K-Cups,55,5.5,10.99
+10,3,Seasoning,Capt. Crunch,85,8.5,3.99
+10,4,Seasoning,Chewy Bars,110,11.0,3.69
+10,5,Seasoning,Granola,120,12.0,5.49
+10,6,Seasoning,Hershey's,75,7.5,2.69
+10,7,Seasoning,Flour,55,5.5,4.99
+10,8,Seasoning,Syrup,45,4.5,2.49
+10,9,Seasoning,Brownie Mix,15,1.5,2.29
+10,10,Seasoning,Seasoning,0,0.0,3.99
+10,11,Seasoning,Soup,45,4.5,1.99
+10,12,Seasoning,Mac & Cheese,65,6.5,2.69
+10,13,Seasoning,Ketchup,95,9.5,3.49
+10,14,Seasoning,Pickles,100,10.0,2.99
+10,15,Seasoning,Italian Dressing,105,10.5,3.99
+10,16,Seasoning,Soy Sauce,125,12.5,2.49
+10,17,Seasoning,Penne,120,12.0,3.49
+10,18,Seasoning,CapriSun,115,11.5,2.49
+10,19,Seasoning,Tortillas,75,7.5,1.99
+10,20,Seasoning,Tomato Sauce,45,4.5,2.99
+10,21,Seasoning,Ibuprofen,60,6.0,5.49
+10,22,Seasoning,Diapers,75,7.5,25.99
+10,23,Seasoning,Tootpaste,135,13.5,3.99
+10,24,Seasoning,Tampons,125,12.5,5.29
+10,25,Seasoning,Shampoo,140,14.0,8.99
+10,26,Seasoning,Toilet Paper,65,6.5,7.99
+10,27,Seasoning,Paper Towels,75,7.5,9.99
+10,28,Seasoning,Napkins,95,9.5,3.29
+10,29,Seasoning,Solo Cups,115,11.5,5.69
+10,30,Seasoning,Trash Bags,145,14.5,8.99
+10,31,Seasoning,Dish Soap,75,7.5,2.99
+10,32,Seasoning,Detergent,80,8.0,12.99
+10,33,Seasoning,Broom,95,9.5,13.99
+10,34,Seasoning,Dog Treats,125,12.5,3.99
+10,35,Seasoning,Air Freshner,135,13.5,6.99
+10,36,Seasoning,Oreos,155,15.5,3.99
+10,37,Seasoning,Popcorn,125,12.5,3.49
+10,38,Seasoning,Gatorade (12),105,10.5,6.99
+10,39,Seasoning,Redbull (4),100,10.0,7.99
+10,40,Seasoning,Ritz,85,8.5,3.99
+10,41,Seasoning,Coca Cola (12),95,9.5,5.99
+10,42,Seasoning,LaCroix (12),105,10.5,5.49
+10,43,Seasoning,Pepsi (12),100,10.0,5.99
+10,44,Seasoning,Seltzer (6),165,16.5,3.99
+10,45,Seasoning,Bottled Water (24),180,18.0,4.99
+10,46,Seasoning,Milk Gallon,105,10.5,3.79
+10,47,Seasoning,Butter Sticks,135,13.5,2.99
+10,48,Seasoning,Cookie Dough,140,14.0,3.99
+10,49,Seasoning,Chobani (4),155,15.5,4.49
+10,50,Seasoning,Eggs (12),185,18.5,3.99
+10,51,Seasoning,Waffles,185,18.5,3.79
+10,52,Seasoning,Taquitos,145,14.5,6.99
+10,53,Seasoning,Breyer's Ice Cream,135,13.5,4.99
+10,54,Seasoning,Lasagna,155,15.5,9.99
+10,55,Seasoning,Bagel Bites,165,16.5,2.79
+10,56,Seasoning,"Pizza (12"")",195,19.5,8.99
+11,0,Soup,Start Node,45,4.5,0
+11,1,Soup,Coffee Beans,60,6.0,6.99
+11,2,Soup,K-Cups,80,8.0,10.99
+11,3,Soup,Capt. Crunch,110,11.0,3.99
+11,4,Soup,Chewy Bars,125,12.5,3.69
+11,5,Soup,Granola,115,11.5,5.49
+11,6,Soup,Hershey's,120,12.0,2.69
+11,7,Soup,Flour,100,10.0,4.99
+11,8,Soup,Syrup,90,9.0,2.49
+11,9,Soup,Brownie Mix,60,6.0,2.29
+11,10,Soup,Seasoning,45,4.5,3.99
+11,11,Soup,Soup,0,0.0,1.99
+11,12,Soup,Mac & Cheese,20,2.0,2.69
+11,13,Soup,Ketchup,50,5.0,3.49
+11,14,Soup,Pickles,55,5.5,2.99
+11,15,Soup,Italian Dressing,60,6.0,3.99
+11,16,Soup,Soy Sauce,110,11.0,2.49
+11,17,Soup,Penne,115,11.5,3.49
+11,18,Soup,CapriSun,120,12.0,2.49
+11,19,Soup,Tortillas,80,8.0,1.99
+11,20,Soup,Tomato Sauce,50,5.0,2.99
+11,21,Soup,Ibuprofen,65,6.5,5.49
+11,22,Soup,Diapers,80,8.0,25.99
+11,23,Soup,Tootpaste,120,12.0,3.99
+11,24,Soup,Tampons,130,13.0,5.29
+11,25,Soup,Shampoo,115,11.5,8.99
+11,26,Soup,Toilet Paper,70,7.0,7.99
+11,27,Soup,Paper Towels,80,8.0,9.99
+11,28,Soup,Napkins,100,10.0,3.29
+11,29,Soup,Solo Cups,120,12.0,5.69
+11,30,Soup,Trash Bags,130,13.0,8.99
+11,31,Soup,Dish Soap,80,8.0,2.99
+11,32,Soup,Detergent,85,8.5,12.99
+11,33,Soup,Broom,100,10.0,13.99
+11,34,Soup,Dog Treats,130,13.0,3.99
+11,35,Soup,Air Freshner,140,14.0,6.99
+11,36,Soup,Oreos,160,16.0,3.99
+11,37,Soup,Popcorn,130,13.0,3.49
+11,38,Soup,Gatorade (12),110,11.0,6.99
+11,39,Soup,Redbull (4),105,10.5,7.99
+11,40,Soup,Ritz,90,9.0,3.99
+11,41,Soup,Coca Cola (12),100,10.0,5.99
+11,42,Soup,LaCroix (12),110,11.0,5.49
+11,43,Soup,Pepsi (12),105,10.5,5.99
+11,44,Soup,Seltzer (6),170,17.0,3.99
+11,45,Soup,Bottled Water (24),155,15.5,4.99
+11,46,Soup,Milk Gallon,110,11.0,3.79
+11,47,Soup,Butter Sticks,140,14.0,2.99
+11,48,Soup,Cookie Dough,145,14.5,3.99
+11,49,Soup,Chobani (4),160,16.0,4.49
+11,50,Soup,Eggs (12),170,17.0,3.99
+11,51,Soup,Waffles,190,19.0,3.79
+11,52,Soup,Taquitos,150,15.0,6.99
+11,53,Soup,Breyer's Ice Cream,140,14.0,4.99
+11,54,Soup,Lasagna,160,16.0,9.99
+11,55,Soup,Bagel Bites,170,17.0,2.79
+11,56,Soup,"Pizza (12"")",180,18.0,8.99
+12,0,Mac & Cheese,Start Node,65,6.5,0
+12,1,Mac & Cheese,Coffee Beans,80,8.0,6.99
+12,2,Mac & Cheese,K-Cups,100,10.0,10.99
+12,3,Mac & Cheese,Capt. Crunch,130,13.0,3.99
+12,4,Mac & Cheese,Chewy Bars,105,10.5,3.69
+12,5,Mac & Cheese,Granola,95,9.5,5.49
+12,6,Mac & Cheese,Hershey's,100,10.0,2.69
+12,7,Mac & Cheese,Flour,120,12.0,4.99
+12,8,Mac & Cheese,Syrup,110,11.0,2.49
+12,9,Mac & Cheese,Brownie Mix,80,8.0,2.29
+12,10,Mac & Cheese,Seasoning,65,6.5,3.99
+12,11,Mac & Cheese,Soup,20,2.0,1.99
+12,12,Mac & Cheese,Mac & Cheese,0,0.0,2.69
+12,13,Mac & Cheese,Ketchup,30,3.0,3.49
+12,14,Mac & Cheese,Pickles,35,3.5,2.99
+12,15,Mac & Cheese,Italian Dressing,40,4.0,3.99
+12,16,Mac & Cheese,Soy Sauce,90,9.0,2.49
+12,17,Mac & Cheese,Penne,95,9.5,3.49
+12,18,Mac & Cheese,CapriSun,100,10.0,2.49
+12,19,Mac & Cheese,Tortillas,100,10.0,1.99
+12,20,Mac & Cheese,Tomato Sauce,70,7.0,2.99
+12,21,Mac & Cheese,Ibuprofen,85,8.5,5.49
+12,22,Mac & Cheese,Diapers,100,10.0,25.99
+12,23,Mac & Cheese,Tootpaste,100,10.0,3.99
+12,24,Mac & Cheese,Tampons,110,11.0,5.29
+12,25,Mac & Cheese,Shampoo,95,9.5,8.99
+12,26,Mac & Cheese,Toilet Paper,90,9.0,7.99
+12,27,Mac & Cheese,Paper Towels,100,10.0,9.99
+12,28,Mac & Cheese,Napkins,120,12.0,3.29
+12,29,Mac & Cheese,Solo Cups,140,14.0,5.69
+12,30,Mac & Cheese,Trash Bags,110,11.0,8.99
+12,31,Mac & Cheese,Dish Soap,100,10.0,2.99
+12,32,Mac & Cheese,Detergent,105,10.5,12.99
+12,33,Mac & Cheese,Broom,120,12.0,13.99
+12,34,Mac & Cheese,Dog Treats,150,15.0,3.99
+12,35,Mac & Cheese,Air Freshner,140,14.0,6.99
+12,36,Mac & Cheese,Oreos,140,14.0,3.99
+12,37,Mac & Cheese,Popcorn,150,15.0,3.49
+12,38,Mac & Cheese,Gatorade (12),130,13.0,6.99
+12,39,Mac & Cheese,Redbull (4),125,12.5,7.99
+12,40,Mac & Cheese,Ritz,110,11.0,3.99
+12,41,Mac & Cheese,Coca Cola (12),120,12.0,5.99
+12,42,Mac & Cheese,LaCroix (12),130,13.0,5.49
+12,43,Mac & Cheese,Pepsi (12),125,12.5,5.99
+12,44,Mac & Cheese,Seltzer (6),150,15.0,3.99
+12,45,Mac & Cheese,Bottled Water (24),135,13.5,4.99
+12,46,Mac & Cheese,Milk Gallon,130,13.0,3.79
+12,47,Mac & Cheese,Butter Sticks,160,16.0,2.99
+12,48,Mac & Cheese,Cookie Dough,165,16.5,3.99
+12,49,Mac & Cheese,Chobani (4),180,18.0,4.49
+12,50,Mac & Cheese,Eggs (12),150,15.0,3.99
+12,51,Mac & Cheese,Waffles,170,17.0,3.79
+12,52,Mac & Cheese,Taquitos,170,17.0,6.99
+12,53,Mac & Cheese,Breyer's Ice Cream,160,16.0,4.99
+12,54,Mac & Cheese,Lasagna,180,18.0,9.99
+12,55,Mac & Cheese,Bagel Bites,190,19.0,2.79
+12,56,Mac & Cheese,"Pizza (12"")",160,16.0,8.99
+13,0,Ketchup,Start Node,95,9.5,0
+13,1,Ketchup,Coffee Beans,110,11.0,6.99
+13,2,Ketchup,K-Cups,130,13.0,10.99
+13,3,Ketchup,Capt. Crunch,100,10.0,3.99
+13,4,Ketchup,Chewy Bars,75,7.5,3.69
+13,5,Ketchup,Granola,65,6.5,5.49
+13,6,Ketchup,Hershey's,70,7.0,2.69
+13,7,Ketchup,Flour,90,9.0,4.99
+13,8,Ketchup,Syrup,100,10.0,2.49
+13,9,Ketchup,Brownie Mix,110,11.0,2.29
+13,10,Ketchup,Seasoning,95,9.5,3.99
+13,11,Ketchup,Soup,50,5.0,1.99
+13,12,Ketchup,Mac & Cheese,30,3.0,2.69
+13,13,Ketchup,Ketchup,0,0.0,3.49
+13,14,Ketchup,Pickles,5,0.5,2.99
+13,15,Ketchup,Italian Dressing,10,1.0,3.99
+13,16,Ketchup,Soy Sauce,60,6.0,2.49
+13,17,Ketchup,Penne,65,6.5,3.49
+13,18,Ketchup,CapriSun,70,7.0,2.49
+13,19,Ketchup,Tortillas,110,11.0,1.99
+13,20,Ketchup,Tomato Sauce,100,10.0,2.99
+13,21,Ketchup,Ibuprofen,115,11.5,5.49
+13,22,Ketchup,Diapers,130,13.0,25.99
+13,23,Ketchup,Tootpaste,70,7.0,3.99
+13,24,Ketchup,Tampons,80,8.0,5.29
+13,25,Ketchup,Shampoo,65,6.5,8.99
+13,26,Ketchup,Toilet Paper,120,12.0,7.99
+13,27,Ketchup,Paper Towels,130,13.0,9.99
+13,28,Ketchup,Napkins,130,13.0,3.29
+13,29,Ketchup,Solo Cups,110,11.0,5.69
+13,30,Ketchup,Trash Bags,80,8.0,8.99
+13,31,Ketchup,Dish Soap,130,13.0,2.99
+13,32,Ketchup,Detergent,135,13.5,12.99
+13,33,Ketchup,Broom,150,15.0,13.99
+13,34,Ketchup,Dog Treats,120,12.0,3.99
+13,35,Ketchup,Air Freshner,110,11.0,6.99
+13,36,Ketchup,Oreos,110,11.0,3.99
+13,37,Ketchup,Popcorn,140,14.0,3.49
+13,38,Ketchup,Gatorade (12),160,16.0,6.99
+13,39,Ketchup,Redbull (4),155,15.5,7.99
+13,40,Ketchup,Ritz,140,14.0,3.99
+13,41,Ketchup,Coca Cola (12),150,15.0,5.99
+13,42,Ketchup,LaCroix (12),160,16.0,5.49
+13,43,Ketchup,Pepsi (12),155,15.5,5.99
+13,44,Ketchup,Seltzer (6),120,12.0,3.99
+13,45,Ketchup,Bottled Water (24),105,10.5,4.99
+13,46,Ketchup,Milk Gallon,160,16.0,3.79
+13,47,Ketchup,Butter Sticks,170,17.0,2.99
+13,48,Ketchup,Cookie Dough,165,16.5,3.99
+13,49,Ketchup,Chobani (4),150,15.0,4.49
+13,50,Ketchup,Eggs (12),120,12.0,3.99
+13,51,Ketchup,Waffles,140,14.0,3.79
+13,52,Ketchup,Taquitos,180,18.0,6.99
+13,53,Ketchup,Breyer's Ice Cream,190,19.0,4.99
+13,54,Ketchup,Lasagna,170,17.0,9.99
+13,55,Ketchup,Bagel Bites,160,16.0,2.79
+13,56,Ketchup,"Pizza (12"")",130,13.0,8.99
+14,0,Pickles,Start Node,100,10.0,0
+14,1,Pickles,Coffee Beans,115,11.5,6.99
+14,2,Pickles,K-Cups,125,12.5,10.99
+14,3,Pickles,Capt. Crunch,95,9.5,3.99
+14,4,Pickles,Chewy Bars,70,7.0,3.69
+14,5,Pickles,Granola,60,6.0,5.49
+14,6,Pickles,Hershey's,65,6.5,2.69
+14,7,Pickles,Flour,85,8.5,4.99
+14,8,Pickles,Syrup,95,9.5,2.49
+14,9,Pickles,Brownie Mix,115,11.5,2.29
+14,10,Pickles,Seasoning,100,10.0,3.99
+14,11,Pickles,Soup,55,5.5,1.99
+14,12,Pickles,Mac & Cheese,35,3.5,2.69
+14,13,Pickles,Ketchup,5,0.5,3.49
+14,14,Pickles,Pickles,0,0.0,2.99
+14,15,Pickles,Italian Dressing,5,0.5,3.99
+14,16,Pickles,Soy Sauce,55,5.5,2.49
+14,17,Pickles,Penne,60,6.0,3.49
+14,18,Pickles,CapriSun,65,6.5,2.49
+14,19,Pickles,Tortillas,105,10.5,1.99
+14,20,Pickles,Tomato Sauce,105,10.5,2.99
+14,21,Pickles,Ibuprofen,120,12.0,5.49
+14,22,Pickles,Diapers,125,12.5,25.99
+14,23,Pickles,Tootpaste,65,6.5,3.99
+14,24,Pickles,Tampons,75,7.5,5.29
+14,25,Pickles,Shampoo,60,6.0,8.99
+14,26,Pickles,Toilet Paper,125,12.5,7.99
+14,27,Pickles,Paper Towels,135,13.5,9.99
+14,28,Pickles,Napkins,125,12.5,3.29
+14,29,Pickles,Solo Cups,105,10.5,5.69
+14,30,Pickles,Trash Bags,75,7.5,8.99
+14,31,Pickles,Dish Soap,135,13.5,2.99
+14,32,Pickles,Detergent,140,14.0,12.99
+14,33,Pickles,Broom,145,14.5,13.99
+14,34,Pickles,Dog Treats,115,11.5,3.99
+14,35,Pickles,Air Freshner,105,10.5,6.99
+14,36,Pickles,Oreos,105,10.5,3.99
+14,37,Pickles,Popcorn,135,13.5,3.49
+14,38,Pickles,Gatorade (12),155,15.5,6.99
+14,39,Pickles,Redbull (4),160,16.0,7.99
+14,40,Pickles,Ritz,145,14.5,3.99
+14,41,Pickles,Coca Cola (12),155,15.5,5.99
+14,42,Pickles,LaCroix (12),165,16.5,5.49
+14,43,Pickles,Pepsi (12),160,16.0,5.99
+14,44,Pickles,Seltzer (6),115,11.5,3.99
+14,45,Pickles,Bottled Water (24),100,10.0,4.99
+14,46,Pickles,Milk Gallon,165,16.5,3.79
+14,47,Pickles,Butter Sticks,165,16.5,2.99
+14,48,Pickles,Cookie Dough,160,16.0,3.99
+14,49,Pickles,Chobani (4),145,14.5,4.49
+14,50,Pickles,Eggs (12),115,11.5,3.99
+14,51,Pickles,Waffles,135,13.5,3.79
+14,52,Pickles,Taquitos,175,17.5,6.99
+14,53,Pickles,Breyer's Ice Cream,185,18.5,4.99
+14,54,Pickles,Lasagna,165,16.5,9.99
+14,55,Pickles,Bagel Bites,155,15.5,2.79
+14,56,Pickles,"Pizza (12"")",125,12.5,8.99
+15,0,Italian Dressing,Start Node,105,10.5,0
+15,1,Italian Dressing,Coffee Beans,120,12.0,6.99
+15,2,Italian Dressing,K-Cups,120,12.0,10.99
+15,3,Italian Dressing,Capt. Crunch,90,9.0,3.99
+15,4,Italian Dressing,Chewy Bars,65,6.5,3.69
+15,5,Italian Dressing,Granola,55,5.5,5.49
+15,6,Italian Dressing,Hershey's,60,6.0,2.69
+15,7,Italian Dressing,Flour,80,8.0,4.99
+15,8,Italian Dressing,Syrup,90,9.0,2.49
+15,9,Italian Dressing,Brownie Mix,120,12.0,2.29
+15,10,Italian Dressing,Seasoning,105,10.5,3.99
+15,11,Italian Dressing,Soup,60,6.0,1.99
+15,12,Italian Dressing,Mac & Cheese,40,4.0,2.69
+15,13,Italian Dressing,Ketchup,10,1.0,3.49
+15,14,Italian Dressing,Pickles,5,0.5,2.99
+15,15,Italian Dressing,Italian Dressing,0,0.0,3.99
+15,16,Italian Dressing,Soy Sauce,50,5.0,2.49
+15,17,Italian Dressing,Penne,55,5.5,3.49
+15,18,Italian Dressing,CapriSun,60,6.0,2.49
+15,19,Italian Dressing,Tortillas,100,10.0,1.99
+15,20,Italian Dressing,Tomato Sauce,110,11.0,2.99
+15,21,Italian Dressing,Ibuprofen,125,12.5,5.49
+15,22,Italian Dressing,Diapers,120,12.0,25.99
+15,23,Italian Dressing,Tootpaste,60,6.0,3.99
+15,24,Italian Dressing,Tampons,70,7.0,5.29
+15,25,Italian Dressing,Shampoo,55,5.5,8.99
+15,26,Italian Dressing,Toilet Paper,130,13.0,7.99
+15,27,Italian Dressing,Paper Towels,140,14.0,9.99
+15,28,Italian Dressing,Napkins,120,12.0,3.29
+15,29,Italian Dressing,Solo Cups,100,10.0,5.69
+15,30,Italian Dressing,Trash Bags,70,7.0,8.99
+15,31,Italian Dressing,Dish Soap,140,14.0,2.99
+15,32,Italian Dressing,Detergent,145,14.5,12.99
+15,33,Italian Dressing,Broom,140,14.0,13.99
+15,34,Italian Dressing,Dog Treats,110,11.0,3.99
+15,35,Italian Dressing,Air Freshner,100,10.0,6.99
+15,36,Italian Dressing,Oreos,100,10.0,3.99
+15,37,Italian Dressing,Popcorn,130,13.0,3.49
+15,38,Italian Dressing,Gatorade (12),150,15.0,6.99
+15,39,Italian Dressing,Redbull (4),155,15.5,7.99
+15,40,Italian Dressing,Ritz,150,15.0,3.99
+15,41,Italian Dressing,Coca Cola (12),160,16.0,5.99
+15,42,Italian Dressing,LaCroix (12),170,17.0,5.49
+15,43,Italian Dressing,Pepsi (12),165,16.5,5.99
+15,44,Italian Dressing,Seltzer (6),110,11.0,3.99
+15,45,Italian Dressing,Bottled Water (24),95,9.5,4.99
+15,46,Italian Dressing,Milk Gallon,170,17.0,3.79
+15,47,Italian Dressing,Butter Sticks,160,16.0,2.99
+15,48,Italian Dressing,Cookie Dough,155,15.5,3.99
+15,49,Italian Dressing,Chobani (4),140,14.0,4.49
+15,50,Italian Dressing,Eggs (12),110,11.0,3.99
+15,51,Italian Dressing,Waffles,130,13.0,3.79
+15,52,Italian Dressing,Taquitos,170,17.0,6.99
+15,53,Italian Dressing,Breyer's Ice Cream,180,18.0,4.99
+15,54,Italian Dressing,Lasagna,160,16.0,9.99
+15,55,Italian Dressing,Bagel Bites,150,15.0,2.79
+15,56,Italian Dressing,"Pizza (12"")",120,12.0,8.99
+16,0,Soy Sauce,Start Node,125,12.5,0
+16,1,Soy Sauce,Coffee Beans,140,14.0,6.99
+16,2,Soy Sauce,K-Cups,120,12.0,10.99
+16,3,Soy Sauce,Capt. Crunch,90,9.0,3.99
+16,4,Soy Sauce,Chewy Bars,65,6.5,3.69
+16,5,Soy Sauce,Granola,55,5.5,5.49
+16,6,Soy Sauce,Hershey's,60,6.0,2.69
+16,7,Soy Sauce,Flour,80,8.0,4.99
+16,8,Soy Sauce,Syrup,90,9.0,2.49
+16,9,Soy Sauce,Brownie Mix,120,12.0,2.29
+16,10,Soy Sauce,Seasoning,125,12.5,3.99
+16,11,Soy Sauce,Soup,110,11.0,1.99
+16,12,Soy Sauce,Mac & Cheese,90,9.0,2.69
+16,13,Soy Sauce,Ketchup,60,6.0,3.49
+16,14,Soy Sauce,Pickles,55,5.5,2.99
+16,15,Soy Sauce,Italian Dressing,50,5.0,3.99
+16,16,Soy Sauce,Soy Sauce,0,0.0,2.49
+16,17,Soy Sauce,Penne,5,0.5,3.49
+16,18,Soy Sauce,CapriSun,10,1.0,2.49
+16,19,Soy Sauce,Tortillas,50,5.0,1.99
+16,20,Soy Sauce,Tomato Sauce,80,8.0,2.99
+16,21,Soy Sauce,Ibuprofen,115,11.5,5.49
+16,22,Soy Sauce,Diapers,100,10.0,25.99
+16,23,Soy Sauce,Tootpaste,40,4.0,3.99
+16,24,Soy Sauce,Tampons,50,5.0,5.29
+16,25,Soy Sauce,Shampoo,35,3.5,8.99
+16,26,Soy Sauce,Toilet Paper,130,13.0,7.99
+16,27,Soy Sauce,Paper Towels,120,12.0,9.99
+16,28,Soy Sauce,Napkins,100,10.0,3.29
+16,29,Soy Sauce,Solo Cups,80,8.0,5.69
+16,30,Soy Sauce,Trash Bags,50,5.0,8.99
+16,31,Soy Sauce,Dish Soap,140,14.0,2.99
+16,32,Soy Sauce,Detergent,135,13.5,12.99
+16,33,Soy Sauce,Broom,120,12.0,13.99
+16,34,Soy Sauce,Dog Treats,90,9.0,3.99
+16,35,Soy Sauce,Air Freshner,80,8.0,6.99
+16,36,Soy Sauce,Oreos,80,8.0,3.99
+16,37,Soy Sauce,Popcorn,110,11.0,3.49
+16,38,Soy Sauce,Gatorade (12),130,13.0,6.99
+16,39,Soy Sauce,Redbull (4),135,13.5,7.99
+16,40,Soy Sauce,Ritz,150,15.0,3.99
+16,41,Soy Sauce,Coca Cola (12),160,16.0,5.99
+16,42,Soy Sauce,LaCroix (12),150,15.0,5.49
+16,43,Soy Sauce,Pepsi (12),155,15.5,5.99
+16,44,Soy Sauce,Seltzer (6),90,9.0,3.99
+16,45,Soy Sauce,Bottled Water (24),75,7.5,4.99
+16,46,Soy Sauce,Milk Gallon,170,17.0,3.79
+16,47,Soy Sauce,Butter Sticks,140,14.0,2.99
+16,48,Soy Sauce,Cookie Dough,135,13.5,3.99
+16,49,Soy Sauce,Chobani (4),120,12.0,4.49
+16,50,Soy Sauce,Eggs (12),90,9.0,3.99
+16,51,Soy Sauce,Waffles,110,11.0,3.79
+16,52,Soy Sauce,Taquitos,150,15.0,6.99
+16,53,Soy Sauce,Breyer's Ice Cream,160,16.0,4.99
+16,54,Soy Sauce,Lasagna,140,14.0,9.99
+16,55,Soy Sauce,Bagel Bites,130,13.0,2.79
+16,56,Soy Sauce,"Pizza (12"")",100,10.0,8.99
+17,0,Penne,Start Node,120,12.0,0
+17,1,Penne,Coffee Beans,135,13.5,6.99
+17,2,Penne,K-Cups,125,12.5,10.99
+17,3,Penne,Capt. Crunch,95,9.5,3.99
+17,4,Penne,Chewy Bars,70,7.0,3.69
+17,5,Penne,Granola,60,6.0,5.49
+17,6,Penne,Hershey's,65,6.5,2.69
+17,7,Penne,Flour,85,8.5,4.99
+17,8,Penne,Syrup,95,9.5,2.49
+17,9,Penne,Brownie Mix,125,12.5,2.29
+17,10,Penne,Seasoning,120,12.0,3.99
+17,11,Penne,Soup,115,11.5,1.99
+17,12,Penne,Mac & Cheese,95,9.5,2.69
+17,13,Penne,Ketchup,65,6.5,3.49
+17,14,Penne,Pickles,60,6.0,2.99
+17,15,Penne,Italian Dressing,55,5.5,3.99
+17,16,Penne,Soy Sauce,5,0.5,2.49
+17,17,Penne,Penne,0,0.0,3.49
+17,18,Penne,CapriSun,5,0.5,2.49
+17,19,Penne,Tortillas,45,4.5,1.99
+17,20,Penne,Tomato Sauce,75,7.5,2.99
+17,21,Penne,Ibuprofen,120,12.0,5.49
+17,22,Penne,Diapers,105,10.5,25.99
+17,23,Penne,Tootpaste,45,4.5,3.99
+17,24,Penne,Tampons,55,5.5,5.29
+17,25,Penne,Shampoo,40,4.0,8.99
+17,26,Penne,Toilet Paper,125,12.5,7.99
+17,27,Penne,Paper Towels,125,12.5,9.99
+17,28,Penne,Napkins,105,10.5,3.29
+17,29,Penne,Solo Cups,85,8.5,5.69
+17,30,Penne,Trash Bags,55,5.5,8.99
+17,31,Penne,Dish Soap,135,13.5,2.99
+17,32,Penne,Detergent,140,14.0,12.99
+17,33,Penne,Broom,125,12.5,13.99
+17,34,Penne,Dog Treats,95,9.5,3.99
+17,35,Penne,Air Freshner,85,8.5,6.99
+17,36,Penne,Oreos,85,8.5,3.99
+17,37,Penne,Popcorn,115,11.5,3.49
+17,38,Penne,Gatorade (12),135,13.5,6.99
+17,39,Penne,Redbull (4),140,14.0,7.99
+17,40,Penne,Ritz,145,14.5,3.99
+17,41,Penne,Coca Cola (12),155,15.5,5.99
+17,42,Penne,LaCroix (12),155,15.5,5.49
+17,43,Penne,Pepsi (12),160,16.0,5.99
+17,44,Penne,Seltzer (6),95,9.5,3.99
+17,45,Penne,Bottled Water (24),80,8.0,4.99
+17,46,Penne,Milk Gallon,165,16.5,3.79
+17,47,Penne,Butter Sticks,145,14.5,2.99
+17,48,Penne,Cookie Dough,140,14.0,3.99
+17,49,Penne,Chobani (4),125,12.5,4.49
+17,50,Penne,Eggs (12),95,9.5,3.99
+17,51,Penne,Waffles,115,11.5,3.79
+17,52,Penne,Taquitos,155,15.5,6.99
+17,53,Penne,Breyer's Ice Cream,165,16.5,4.99
+17,54,Penne,Lasagna,145,14.5,9.99
+17,55,Penne,Bagel Bites,135,13.5,2.79
+17,56,Penne,"Pizza (12"")",105,10.5,8.99
+18,0,CapriSun,Start Node,115,11.5,0
+18,1,CapriSun,Coffee Beans,130,13.0,6.99
+18,2,CapriSun,K-Cups,130,13.0,10.99
+18,3,CapriSun,Capt. Crunch,100,10.0,3.99
+18,4,CapriSun,Chewy Bars,75,7.5,3.69
+18,5,CapriSun,Granola,65,6.5,5.49
+18,6,CapriSun,Hershey's,70,7.0,2.69
+18,7,CapriSun,Flour,90,9.0,4.99
+18,8,CapriSun,Syrup,100,10.0,2.49
+18,9,CapriSun,Brownie Mix,130,13.0,2.29
+18,10,CapriSun,Seasoning,115,11.5,3.99
+18,11,CapriSun,Soup,120,12.0,1.99
+18,12,CapriSun,Mac & Cheese,100,10.0,2.69
+18,13,CapriSun,Ketchup,70,7.0,3.49
+18,14,CapriSun,Pickles,65,6.5,2.99
+18,15,CapriSun,Italian Dressing,60,6.0,3.99
+18,16,CapriSun,Soy Sauce,10,1.0,2.49
+18,17,CapriSun,Penne,5,0.5,3.49
+18,18,CapriSun,CapriSun,0,0.0,2.49
+18,19,CapriSun,Tortillas,40,4.0,1.99
+18,20,CapriSun,Tomato Sauce,70,7.0,2.99
+18,21,CapriSun,Ibuprofen,115,11.5,5.49
+18,22,CapriSun,Diapers,110,11.0,25.99
+18,23,CapriSun,Tootpaste,50,5.0,3.99
+18,24,CapriSun,Tampons,60,6.0,5.29
+18,25,CapriSun,Shampoo,45,4.5,8.99
+18,26,CapriSun,Toilet Paper,120,12.0,7.99
+18,27,CapriSun,Paper Towels,130,13.0,9.99
+18,28,CapriSun,Napkins,110,11.0,3.29
+18,29,CapriSun,Solo Cups,90,9.0,5.69
+18,30,CapriSun,Trash Bags,60,6.0,8.99
+18,31,CapriSun,Dish Soap,130,13.0,2.99
+18,32,CapriSun,Detergent,135,13.5,12.99
+18,33,CapriSun,Broom,130,13.0,13.99
+18,34,CapriSun,Dog Treats,100,10.0,3.99
+18,35,CapriSun,Air Freshner,90,9.0,6.99
+18,36,CapriSun,Oreos,90,9.0,3.99
+18,37,CapriSun,Popcorn,120,12.0,3.49
+18,38,CapriSun,Gatorade (12),140,14.0,6.99
+18,39,CapriSun,Redbull (4),145,14.5,7.99
+18,40,CapriSun,Ritz,140,14.0,3.99
+18,41,CapriSun,Coca Cola (12),150,15.0,5.99
+18,42,CapriSun,LaCroix (12),160,16.0,5.49
+18,43,CapriSun,Pepsi (12),155,15.5,5.99
+18,44,CapriSun,Seltzer (6),100,10.0,3.99
+18,45,CapriSun,Bottled Water (24),85,8.5,4.99
+18,46,CapriSun,Milk Gallon,160,16.0,3.79
+18,47,CapriSun,Butter Sticks,150,15.0,2.99
+18,48,CapriSun,Cookie Dough,145,14.5,3.99
+18,49,CapriSun,Chobani (4),130,13.0,4.49
+18,50,CapriSun,Eggs (12),100,10.0,3.99
+18,51,CapriSun,Waffles,120,12.0,3.79
+18,52,CapriSun,Taquitos,160,16.0,6.99
+18,53,CapriSun,Breyer's Ice Cream,170,17.0,4.99
+18,54,CapriSun,Lasagna,150,15.0,9.99
+18,55,CapriSun,Bagel Bites,140,14.0,2.79
+18,56,CapriSun,"Pizza (12"")",110,11.0,8.99
+19,0,Tortillas,Start Node,75,7.5,0
+19,1,Tortillas,Coffee Beans,90,9.0,6.99
+19,2,Tortillas,K-Cups,110,11.0,10.99
+19,3,Tortillas,Capt. Crunch,140,14.0,3.99
+19,4,Tortillas,Chewy Bars,115,11.5,3.69
+19,5,Tortillas,Granola,105,10.5,5.49
+19,6,Tortillas,Hershey's,110,11.0,2.69
+19,7,Tortillas,Flour,130,13.0,4.99
+19,8,Tortillas,Syrup,120,12.0,2.49
+19,9,Tortillas,Brownie Mix,90,9.0,2.29
+19,10,Tortillas,Seasoning,75,7.5,3.99
+19,11,Tortillas,Soup,80,8.0,1.99
+19,12,Tortillas,Mac & Cheese,100,10.0,2.69
+19,13,Tortillas,Ketchup,110,11.0,3.49
+19,14,Tortillas,Pickles,105,10.5,2.99
+19,15,Tortillas,Italian Dressing,100,10.0,3.99
+19,16,Tortillas,Soy Sauce,50,5.0,2.49
+19,17,Tortillas,Penne,45,4.5,3.49
+19,18,Tortillas,CapriSun,40,4.0,2.49
+19,19,Tortillas,Tortillas,0,0.0,1.99
+19,20,Tortillas,Tomato Sauce,30,3.0,2.99
+19,21,Tortillas,Ibuprofen,75,7.5,5.49
+19,22,Tortillas,Diapers,90,9.0,25.99
+19,23,Tortillas,Tootpaste,90,9.0,3.99
+19,24,Tortillas,Tampons,100,10.0,5.29
+19,25,Tortillas,Shampoo,85,8.5,8.99
+19,26,Tortillas,Toilet Paper,80,8.0,7.99
+19,27,Tortillas,Paper Towels,90,9.0,9.99
+19,28,Tortillas,Napkins,110,11.0,3.29
+19,29,Tortillas,Solo Cups,130,13.0,5.69
+19,30,Tortillas,Trash Bags,100,10.0,8.99
+19,31,Tortillas,Dish Soap,90,9.0,2.99
+19,32,Tortillas,Detergent,95,9.5,12.99
+19,33,Tortillas,Broom,110,11.0,13.99
+19,34,Tortillas,Dog Treats,140,14.0,3.99
+19,35,Tortillas,Air Freshner,130,13.0,6.99
+19,36,Tortillas,Oreos,130,13.0,3.99
+19,37,Tortillas,Popcorn,140,14.0,3.49
+19,38,Tortillas,Gatorade (12),120,12.0,6.99
+19,39,Tortillas,Redbull (4),115,11.5,7.99
+19,40,Tortillas,Ritz,100,10.0,3.99
+19,41,Tortillas,Coca Cola (12),110,11.0,5.99
+19,42,Tortillas,LaCroix (12),120,12.0,5.49
+19,43,Tortillas,Pepsi (12),115,11.5,5.99
+19,44,Tortillas,Seltzer (6),140,14.0,3.99
+19,45,Tortillas,Bottled Water (24),125,12.5,4.99
+19,46,Tortillas,Milk Gallon,120,12.0,3.79
+19,47,Tortillas,Butter Sticks,150,15.0,2.99
+19,48,Tortillas,Cookie Dough,155,15.5,3.99
+19,49,Tortillas,Chobani (4),170,17.0,4.49
+19,50,Tortillas,Eggs (12),140,14.0,3.99
+19,51,Tortillas,Waffles,160,16.0,3.79
+19,52,Tortillas,Taquitos,160,16.0,6.99
+19,53,Tortillas,Breyer's Ice Cream,150,15.0,4.99
+19,54,Tortillas,Lasagna,170,17.0,9.99
+19,55,Tortillas,Bagel Bites,180,18.0,2.79
+19,56,Tortillas,"Pizza (12"")",150,15.0,8.99
+20,0,Tomato Sauce,Start Node,45,4.5,0
+20,1,Tomato Sauce,Coffee Beans,60,6.0,6.99
+20,2,Tomato Sauce,K-Cups,80,8.0,10.99
+20,3,Tomato Sauce,Capt. Crunch,110,11.0,3.99
+20,4,Tomato Sauce,Chewy Bars,135,13.5,3.69
+20,5,Tomato Sauce,Granola,135,13.5,5.49
+20,6,Tomato Sauce,Hershey's,120,12.0,2.69
+20,7,Tomato Sauce,Flour,100,10.0,4.99
+20,8,Tomato Sauce,Syrup,90,9.0,2.49
+20,9,Tomato Sauce,Brownie Mix,60,6.0,2.29
+20,10,Tomato Sauce,Seasoning,45,4.5,3.99
+20,11,Tomato Sauce,Soup,50,5.0,1.99
+20,12,Tomato Sauce,Mac & Cheese,70,7.0,2.69
+20,13,Tomato Sauce,Ketchup,100,10.0,3.49
+20,14,Tomato Sauce,Pickles,105,10.5,2.99
+20,15,Tomato Sauce,Italian Dressing,110,11.0,3.99
+20,16,Tomato Sauce,Soy Sauce,80,8.0,2.49
+20,17,Tomato Sauce,Penne,75,7.5,3.49
+20,18,Tomato Sauce,CapriSun,70,7.0,2.49
+20,19,Tomato Sauce,Tortillas,30,3.0,1.99
+20,20,Tomato Sauce,Tomato Sauce,0,0.0,2.99
+20,21,Tomato Sauce,Ibuprofen,45,4.5,5.49
+20,22,Tomato Sauce,Diapers,60,6.0,25.99
+20,23,Tomato Sauce,Tootpaste,120,12.0,3.99
+20,24,Tomato Sauce,Tampons,110,11.0,5.29
+20,25,Tomato Sauce,Shampoo,115,11.5,8.99
+20,26,Tomato Sauce,Toilet Paper,50,5.0,7.99
+20,27,Tomato Sauce,Paper Towels,60,6.0,9.99
+20,28,Tomato Sauce,Napkins,80,8.0,3.29
+20,29,Tomato Sauce,Solo Cups,100,10.0,5.69
+20,30,Tomato Sauce,Trash Bags,130,13.0,8.99
+20,31,Tomato Sauce,Dish Soap,60,6.0,2.99
+20,32,Tomato Sauce,Detergent,65,6.5,12.99
+20,33,Tomato Sauce,Broom,80,8.0,13.99
+20,34,Tomato Sauce,Dog Treats,110,11.0,3.99
+20,35,Tomato Sauce,Air Freshner,120,12.0,6.99
+20,36,Tomato Sauce,Oreos,140,14.0,3.99
+20,37,Tomato Sauce,Popcorn,110,11.0,3.49
+20,38,Tomato Sauce,Gatorade (12),90,9.0,6.99
+20,39,Tomato Sauce,Redbull (4),85,8.5,7.99
+20,40,Tomato Sauce,Ritz,70,7.0,3.99
+20,41,Tomato Sauce,Coca Cola (12),80,8.0,5.99
+20,42,Tomato Sauce,LaCroix (12),90,9.0,5.49
+20,43,Tomato Sauce,Pepsi (12),85,8.5,5.99
+20,44,Tomato Sauce,Seltzer (6),150,15.0,3.99
+20,45,Tomato Sauce,Bottled Water (24),155,15.5,4.99
+20,46,Tomato Sauce,Milk Gallon,90,9.0,3.79
+20,47,Tomato Sauce,Butter Sticks,120,12.0,2.99
+20,48,Tomato Sauce,Cookie Dough,125,12.5,3.99
+20,49,Tomato Sauce,Chobani (4),140,14.0,4.49
+20,50,Tomato Sauce,Eggs (12),170,17.0,3.99
+20,51,Tomato Sauce,Waffles,170,17.0,3.79
+20,52,Tomato Sauce,Taquitos,130,13.0,6.99
+20,53,Tomato Sauce,Breyer's Ice Cream,120,12.0,4.99
+20,54,Tomato Sauce,Lasagna,140,14.0,9.99
+20,55,Tomato Sauce,Bagel Bites,150,15.0,2.79
+20,56,Tomato Sauce,"Pizza (12"")",180,18.0,8.99
+21,0,Ibuprofen,Start Node,60,6.0,0
+21,1,Ibuprofen,Coffee Beans,75,7.5,6.99
+21,2,Ibuprofen,K-Cups,95,9.5,10.99
+21,3,Ibuprofen,Capt. Crunch,125,12.5,3.99
+21,4,Ibuprofen,Chewy Bars,150,15.0,3.69
+21,5,Ibuprofen,Granola,140,14.0,5.49
+21,6,Ibuprofen,Hershey's,135,13.5,2.69
+21,7,Ibuprofen,Flour,115,11.5,4.99
+21,8,Ibuprofen,Syrup,105,10.5,2.49
+21,9,Ibuprofen,Brownie Mix,75,7.5,2.29
+21,10,Ibuprofen,Seasoning,60,6.0,3.99
+21,11,Ibuprofen,Soup,65,6.5,1.99
+21,12,Ibuprofen,Mac & Cheese,85,8.5,2.69
+21,13,Ibuprofen,Ketchup,115,11.5,3.49
+21,14,Ibuprofen,Pickles,120,12.0,2.99
+21,15,Ibuprofen,Italian Dressing,125,12.5,3.99
+21,16,Ibuprofen,Soy Sauce,115,11.5,2.49
+21,17,Ibuprofen,Penne,120,12.0,3.49
+21,18,Ibuprofen,CapriSun,115,11.5,2.49
+21,19,Ibuprofen,Tortillas,75,7.5,1.99
+21,20,Ibuprofen,Tomato Sauce,45,4.5,2.99
+21,21,Ibuprofen,Ibuprofen,0,0.0,5.49
+21,22,Ibuprofen,Diapers,15,1.5,25.99
+21,23,Ibuprofen,Tootpaste,75,7.5,3.99
+21,24,Ibuprofen,Tampons,65,6.5,5.29
+21,25,Ibuprofen,Shampoo,80,8.0,8.99
+21,26,Ibuprofen,Toilet Paper,45,4.5,7.99
+21,27,Ibuprofen,Paper Towels,55,5.5,9.99
+21,28,Ibuprofen,Napkins,75,7.5,3.29
+21,29,Ibuprofen,Solo Cups,95,9.5,5.69
+21,30,Ibuprofen,Trash Bags,115,11.5,8.99
+21,31,Ibuprofen,Dish Soap,55,5.5,2.99
+21,32,Ibuprofen,Detergent,60,6.0,12.99
+21,33,Ibuprofen,Broom,75,7.5,13.99
+21,34,Ibuprofen,Dog Treats,105,10.5,3.99
+21,35,Ibuprofen,Air Freshner,115,11.5,6.99
+21,36,Ibuprofen,Oreos,135,13.5,3.99
+21,37,Ibuprofen,Popcorn,105,10.5,3.49
+21,38,Ibuprofen,Gatorade (12),85,8.5,6.99
+21,39,Ibuprofen,Redbull (4),80,8.0,7.99
+21,40,Ibuprofen,Ritz,65,6.5,3.99
+21,41,Ibuprofen,Coca Cola (12),75,7.5,5.99
+21,42,Ibuprofen,LaCroix (12),85,8.5,5.49
+21,43,Ibuprofen,Pepsi (12),80,8.0,5.99
+21,44,Ibuprofen,Seltzer (6),145,14.5,3.99
+21,45,Ibuprofen,Bottled Water (24),140,14.0,4.99
+21,46,Ibuprofen,Milk Gallon,85,8.5,3.79
+21,47,Ibuprofen,Butter Sticks,115,11.5,2.99
+21,48,Ibuprofen,Cookie Dough,120,12.0,3.99
+21,49,Ibuprofen,Chobani (4),135,13.5,4.49
+21,50,Ibuprofen,Eggs (12),155,15.5,3.99
+21,51,Ibuprofen,Waffles,165,16.5,3.79
+21,52,Ibuprofen,Taquitos,125,12.5,6.99
+21,53,Ibuprofen,Breyer's Ice Cream,115,11.5,4.99
+21,54,Ibuprofen,Lasagna,135,13.5,9.99
+21,55,Ibuprofen,Bagel Bites,145,14.5,2.79
+21,56,Ibuprofen,"Pizza (12"")",165,16.5,8.99
+22,0,Diapers,Start Node,75,7.5,0
+22,1,Diapers,Coffee Beans,90,9.0,6.99
+22,2,Diapers,K-Cups,110,11.0,10.99
+22,3,Diapers,Capt. Crunch,140,14.0,3.99
+22,4,Diapers,Chewy Bars,135,13.5,3.69
+22,5,Diapers,Granola,125,12.5,5.49
+22,6,Diapers,Hershey's,130,13.0,2.69
+22,7,Diapers,Flour,130,13.0,4.99
+22,8,Diapers,Syrup,120,12.0,2.49
+22,9,Diapers,Brownie Mix,90,9.0,2.29
+22,10,Diapers,Seasoning,75,7.5,3.99
+22,11,Diapers,Soup,80,8.0,1.99
+22,12,Diapers,Mac & Cheese,100,10.0,2.69
+22,13,Diapers,Ketchup,130,13.0,3.49
+22,14,Diapers,Pickles,125,12.5,2.99
+22,15,Diapers,Italian Dressing,120,12.0,3.99
+22,16,Diapers,Soy Sauce,100,10.0,2.49
+22,17,Diapers,Penne,105,10.5,3.49
+22,18,Diapers,CapriSun,110,11.0,2.49
+22,19,Diapers,Tortillas,90,9.0,1.99
+22,20,Diapers,Tomato Sauce,60,6.0,2.99
+22,21,Diapers,Ibuprofen,15,1.5,5.49
+22,22,Diapers,Diapers,0,0.0,25.99
+22,23,Diapers,Tootpaste,60,6.0,3.99
+22,24,Diapers,Tampons,50,5.0,5.29
+22,25,Diapers,Shampoo,65,6.5,8.99
+22,26,Diapers,Toilet Paper,60,6.0,7.99
+22,27,Diapers,Paper Towels,70,7.0,9.99
+22,28,Diapers,Napkins,90,9.0,3.29
+22,29,Diapers,Solo Cups,110,11.0,5.69
+22,30,Diapers,Trash Bags,100,10.0,8.99
+22,31,Diapers,Dish Soap,70,7.0,2.99
+22,32,Diapers,Detergent,75,7.5,12.99
+22,33,Diapers,Broom,90,9.0,13.99
+22,34,Diapers,Dog Treats,120,12.0,3.99
+22,35,Diapers,Air Freshner,130,13.0,6.99
+22,36,Diapers,Oreos,130,13.0,3.99
+22,37,Diapers,Popcorn,120,12.0,3.49
+22,38,Diapers,Gatorade (12),100,10.0,6.99
+22,39,Diapers,Redbull (4),95,9.5,7.99
+22,40,Diapers,Ritz,80,8.0,3.99
+22,41,Diapers,Coca Cola (12),90,9.0,5.99
+22,42,Diapers,LaCroix (12),100,10.0,5.49
+22,43,Diapers,Pepsi (12),95,9.5,5.99
+22,44,Diapers,Seltzer (6),140,14.0,3.99
+22,45,Diapers,Bottled Water (24),125,12.5,4.99
+22,46,Diapers,Milk Gallon,100,10.0,3.79
+22,47,Diapers,Butter Sticks,130,13.0,2.99
+22,48,Diapers,Cookie Dough,135,13.5,3.99
+22,49,Diapers,Chobani (4),150,15.0,4.49
+22,50,Diapers,Eggs (12),140,14.0,3.99
+22,51,Diapers,Waffles,160,16.0,3.79
+22,52,Diapers,Taquitos,140,14.0,6.99
+22,53,Diapers,Breyer's Ice Cream,130,13.0,4.99
+22,54,Diapers,Lasagna,150,15.0,9.99
+22,55,Diapers,Bagel Bites,160,16.0,2.79
+22,56,Diapers,"Pizza (12"")",150,15.0,8.99
+23,0,Tootpaste,Start Node,135,13.5,0
+23,1,Tootpaste,Coffee Beans,150,15.0,6.99
+23,2,Tootpaste,K-Cups,130,13.0,10.99
+23,3,Tootpaste,Capt. Crunch,100,10.0,3.99
+23,4,Tootpaste,Chewy Bars,75,7.5,3.69
+23,5,Tootpaste,Granola,65,6.5,5.49
+23,6,Tootpaste,Hershey's,70,7.0,2.69
+23,7,Tootpaste,Flour,90,9.0,4.99
+23,8,Tootpaste,Syrup,100,10.0,2.49
+23,9,Tootpaste,Brownie Mix,130,13.0,2.29
+23,10,Tootpaste,Seasoning,135,13.5,3.99
+23,11,Tootpaste,Soup,120,12.0,1.99
+23,12,Tootpaste,Mac & Cheese,100,10.0,2.69
+23,13,Tootpaste,Ketchup,70,7.0,3.49
+23,14,Tootpaste,Pickles,65,6.5,2.99
+23,15,Tootpaste,Italian Dressing,60,6.0,3.99
+23,16,Tootpaste,Soy Sauce,40,4.0,2.49
+23,17,Tootpaste,Penne,45,4.5,3.49
+23,18,Tootpaste,CapriSun,50,5.0,2.49
+23,19,Tootpaste,Tortillas,90,9.0,1.99
+23,20,Tootpaste,Tomato Sauce,120,12.0,2.99
+23,21,Tootpaste,Ibuprofen,75,7.5,5.49
+23,22,Tootpaste,Diapers,60,6.0,25.99
+23,23,Tootpaste,Tootpaste,0,0.0,3.99
+23,24,Tootpaste,Tampons,10,1.0,5.29
+23,25,Tootpaste,Shampoo,5,0.5,8.99
+23,26,Tootpaste,Toilet Paper,120,12.0,7.99
+23,27,Tootpaste,Paper Towels,110,11.0,9.99
+23,28,Tootpaste,Napkins,90,9.0,3.29
+23,29,Tootpaste,Solo Cups,70,7.0,5.69
+23,30,Tootpaste,Trash Bags,40,4.0,8.99
+23,31,Tootpaste,Dish Soap,130,13.0,2.99
+23,32,Tootpaste,Detergent,125,12.5,12.99
+23,33,Tootpaste,Broom,110,11.0,13.99
+23,34,Tootpaste,Dog Treats,80,8.0,3.99
+23,35,Tootpaste,Air Freshner,70,7.0,6.99
+23,36,Tootpaste,Oreos,70,7.0,3.99
+23,37,Tootpaste,Popcorn,100,10.0,3.49
+23,38,Tootpaste,Gatorade (12),120,12.0,6.99
+23,39,Tootpaste,Redbull (4),125,12.5,7.99
+23,40,Tootpaste,Ritz,140,14.0,3.99
+23,41,Tootpaste,Coca Cola (12),150,15.0,5.99
+23,42,Tootpaste,LaCroix (12),140,14.0,5.49
+23,43,Tootpaste,Pepsi (12),145,14.5,5.99
+23,44,Tootpaste,Seltzer (6),80,8.0,3.99
+23,45,Tootpaste,Bottled Water (24),65,6.5,4.99
+23,46,Tootpaste,Milk Gallon,160,16.0,3.79
+23,47,Tootpaste,Butter Sticks,130,13.0,2.99
+23,48,Tootpaste,Cookie Dough,125,12.5,3.99
+23,49,Tootpaste,Chobani (4),110,11.0,4.49
+23,50,Tootpaste,Eggs (12),80,8.0,3.99
+23,51,Tootpaste,Waffles,100,10.0,3.79
+23,52,Tootpaste,Taquitos,140,14.0,6.99
+23,53,Tootpaste,Breyer's Ice Cream,150,15.0,4.99
+23,54,Tootpaste,Lasagna,130,13.0,9.99
+23,55,Tootpaste,Bagel Bites,120,12.0,2.79
+23,56,Tootpaste,"Pizza (12"")",90,9.0,8.99
+24,0,Tampons,Start Node,125,12.5,0
+24,1,Tampons,Coffee Beans,140,14.0,6.99
+24,2,Tampons,K-Cups,140,14.0,10.99
+24,3,Tampons,Capt. Crunch,110,11.0,3.99
+24,4,Tampons,Chewy Bars,85,8.5,3.69
+24,5,Tampons,Granola,75,7.5,5.49
+24,6,Tampons,Hershey's,80,8.0,2.69
+24,7,Tampons,Flour,100,10.0,4.99
+24,8,Tampons,Syrup,110,11.0,2.49
+24,9,Tampons,Brownie Mix,140,14.0,2.29
+24,10,Tampons,Seasoning,125,12.5,3.99
+24,11,Tampons,Soup,130,13.0,1.99
+24,12,Tampons,Mac & Cheese,110,11.0,2.69
+24,13,Tampons,Ketchup,80,8.0,3.49
+24,14,Tampons,Pickles,75,7.5,2.99
+24,15,Tampons,Italian Dressing,70,7.0,3.99
+24,16,Tampons,Soy Sauce,50,5.0,2.49
+24,17,Tampons,Penne,55,5.5,3.49
+24,18,Tampons,CapriSun,60,6.0,2.49
+24,19,Tampons,Tortillas,100,10.0,1.99
+24,20,Tampons,Tomato Sauce,110,11.0,2.99
+24,21,Tampons,Ibuprofen,65,6.5,5.49
+24,22,Tampons,Diapers,50,5.0,25.99
+24,23,Tampons,Tootpaste,10,1.0,3.99
+24,24,Tampons,Tampons,0,0.0,5.29
+24,25,Tampons,Shampoo,15,1.5,8.99
+24,26,Tampons,Toilet Paper,110,11.0,7.99
+24,27,Tampons,Paper Towels,120,12.0,9.99
+24,28,Tampons,Napkins,100,10.0,3.29
+24,29,Tampons,Solo Cups,80,8.0,5.69
+24,30,Tampons,Trash Bags,50,5.0,8.99
+24,31,Tampons,Dish Soap,120,12.0,2.99
+24,32,Tampons,Detergent,125,12.5,12.99
+24,33,Tampons,Broom,120,12.0,13.99
+24,34,Tampons,Dog Treats,90,9.0,3.99
+24,35,Tampons,Air Freshner,80,8.0,6.99
+24,36,Tampons,Oreos,80,8.0,3.99
+24,37,Tampons,Popcorn,110,11.0,3.49
+24,38,Tampons,Gatorade (12),130,13.0,6.99
+24,39,Tampons,Redbull (4),135,13.5,7.99
+24,40,Tampons,Ritz,130,13.0,3.99
+24,41,Tampons,Coca Cola (12),140,14.0,5.99
+24,42,Tampons,LaCroix (12),150,15.0,5.49
+24,43,Tampons,Pepsi (12),145,14.5,5.99
+24,44,Tampons,Seltzer (6),90,9.0,3.99
+24,45,Tampons,Bottled Water (24),75,7.5,4.99
+24,46,Tampons,Milk Gallon,150,15.0,3.79
+24,47,Tampons,Butter Sticks,140,14.0,2.99
+24,48,Tampons,Cookie Dough,135,13.5,3.99
+24,49,Tampons,Chobani (4),120,12.0,4.49
+24,50,Tampons,Eggs (12),90,9.0,3.99
+24,51,Tampons,Waffles,110,11.0,3.79
+24,52,Tampons,Taquitos,150,15.0,6.99
+24,53,Tampons,Breyer's Ice Cream,160,16.0,4.99
+24,54,Tampons,Lasagna,140,14.0,9.99
+24,55,Tampons,Bagel Bites,130,13.0,2.79
+24,56,Tampons,"Pizza (12"")",100,10.0,8.99
+25,0,Shampoo,Start Node,140,14.0,0
+25,1,Shampoo,Coffee Beans,145,14.5,6.99
+25,2,Shampoo,K-Cups,125,12.5,10.99
+25,3,Shampoo,Capt. Crunch,95,9.5,3.99
+25,4,Shampoo,Chewy Bars,70,7.0,3.69
+25,5,Shampoo,Granola,60,6.0,5.49
+25,6,Shampoo,Hershey's,65,6.5,2.69
+25,7,Shampoo,Flour,85,8.5,4.99
+25,8,Shampoo,Syrup,95,9.5,2.49
+25,9,Shampoo,Brownie Mix,125,12.5,2.29
+25,10,Shampoo,Seasoning,140,14.0,3.99
+25,11,Shampoo,Soup,115,11.5,1.99
+25,12,Shampoo,Mac & Cheese,95,9.5,2.69
+25,13,Shampoo,Ketchup,65,6.5,3.49
+25,14,Shampoo,Pickles,60,6.0,2.99
+25,15,Shampoo,Italian Dressing,55,5.5,3.99
+25,16,Shampoo,Soy Sauce,35,3.5,2.49
+25,17,Shampoo,Penne,40,4.0,3.49
+25,18,Shampoo,CapriSun,45,4.5,2.49
+25,19,Shampoo,Tortillas,85,8.5,1.99
+25,20,Shampoo,Tomato Sauce,115,11.5,2.99
+25,21,Shampoo,Ibuprofen,80,8.0,5.49
+25,22,Shampoo,Diapers,65,6.5,25.99
+25,23,Shampoo,Tootpaste,5,0.5,3.99
+25,24,Shampoo,Tampons,15,1.5,5.29
+25,25,Shampoo,Shampoo,0,0.0,8.99
+25,26,Shampoo,Toilet Paper,115,11.5,7.99
+25,27,Shampoo,Paper Towels,105,10.5,9.99
+25,28,Shampoo,Napkins,85,8.5,3.29
+25,29,Shampoo,Solo Cups,65,6.5,5.69
+25,30,Shampoo,Trash Bags,35,3.5,8.99
+25,31,Shampoo,Dish Soap,125,12.5,2.99
+25,32,Shampoo,Detergent,120,12.0,12.99
+25,33,Shampoo,Broom,105,10.5,13.99
+25,34,Shampoo,Dog Treats,75,7.5,3.99
+25,35,Shampoo,Air Freshner,65,6.5,6.99
+25,36,Shampoo,Oreos,65,6.5,3.99
+25,37,Shampoo,Popcorn,95,9.5,3.49
+25,38,Shampoo,Gatorade (12),115,11.5,6.99
+25,39,Shampoo,Redbull (4),120,12.0,7.99
+25,40,Shampoo,Ritz,135,13.5,3.99
+25,41,Shampoo,Coca Cola (12),145,14.5,5.99
+25,42,Shampoo,LaCroix (12),135,13.5,5.49
+25,43,Shampoo,Pepsi (12),140,14.0,5.99
+25,44,Shampoo,Seltzer (6),75,7.5,3.99
+25,45,Shampoo,Bottled Water (24),60,6.0,4.99
+25,46,Shampoo,Milk Gallon,155,15.5,3.79
+25,47,Shampoo,Butter Sticks,125,12.5,2.99
+25,48,Shampoo,Cookie Dough,120,12.0,3.99
+25,49,Shampoo,Chobani (4),105,10.5,4.49
+25,50,Shampoo,Eggs (12),75,7.5,3.99
+25,51,Shampoo,Waffles,95,9.5,3.79
+25,52,Shampoo,Taquitos,135,13.5,6.99
+25,53,Shampoo,Breyer's Ice Cream,145,14.5,4.99
+25,54,Shampoo,Lasagna,125,12.5,9.99
+25,55,Shampoo,Bagel Bites,115,11.5,2.79
+25,56,Shampoo,"Pizza (12"")",85,8.5,8.99
+26,0,Toilet Paper,Start Node,65,6.5,0
+26,1,Toilet Paper,Coffee Beans,80,8.0,6.99
+26,2,Toilet Paper,K-Cups,100,10.0,10.99
+26,3,Toilet Paper,Capt. Crunch,130,13.0,3.99
+26,4,Toilet Paper,Chewy Bars,155,15.5,3.69
+26,5,Toilet Paper,Granola,155,15.5,5.49
+26,6,Toilet Paper,Hershey's,140,14.0,2.69
+26,7,Toilet Paper,Flour,120,12.0,4.99
+26,8,Toilet Paper,Syrup,110,11.0,2.49
+26,9,Toilet Paper,Brownie Mix,80,8.0,2.29
+26,10,Toilet Paper,Seasoning,65,6.5,3.99
+26,11,Toilet Paper,Soup,70,7.0,1.99
+26,12,Toilet Paper,Mac & Cheese,90,9.0,2.69
+26,13,Toilet Paper,Ketchup,120,12.0,3.49
+26,14,Toilet Paper,Pickles,125,12.5,2.99
+26,15,Toilet Paper,Italian Dressing,130,13.0,3.99
+26,16,Toilet Paper,Soy Sauce,130,13.0,2.49
+26,17,Toilet Paper,Penne,125,12.5,3.49
+26,18,Toilet Paper,CapriSun,120,12.0,2.49
+26,19,Toilet Paper,Tortillas,80,8.0,1.99
+26,20,Toilet Paper,Tomato Sauce,50,5.0,2.99
+26,21,Toilet Paper,Ibuprofen,45,4.5,5.49
+26,22,Toilet Paper,Diapers,60,6.0,25.99
+26,23,Toilet Paper,Tootpaste,120,12.0,3.99
+26,24,Toilet Paper,Tampons,110,11.0,5.29
+26,25,Toilet Paper,Shampoo,115,11.5,8.99
+26,26,Toilet Paper,Toilet Paper,0,0.0,7.99
+26,27,Toilet Paper,Paper Towels,10,1.0,9.99
+26,28,Toilet Paper,Napkins,30,3.0,3.29
+26,29,Toilet Paper,Solo Cups,50,5.0,5.69
+26,30,Toilet Paper,Trash Bags,80,8.0,8.99
+26,31,Toilet Paper,Dish Soap,40,4.0,2.99
+26,32,Toilet Paper,Detergent,45,4.5,12.99
+26,33,Toilet Paper,Broom,60,6.0,13.99
+26,34,Toilet Paper,Dog Treats,90,9.0,3.99
+26,35,Toilet Paper,Air Freshner,100,10.0,6.99
+26,36,Toilet Paper,Oreos,120,12.0,3.99
+26,37,Toilet Paper,Popcorn,90,9.0,3.49
+26,38,Toilet Paper,Gatorade (12),70,7.0,6.99
+26,39,Toilet Paper,Redbull (4),65,6.5,7.99
+26,40,Toilet Paper,Ritz,50,5.0,3.99
+26,41,Toilet Paper,Coca Cola (12),60,6.0,5.99
+26,42,Toilet Paper,LaCroix (12),70,7.0,5.49
+26,43,Toilet Paper,Pepsi (12),65,6.5,5.99
+26,44,Toilet Paper,Seltzer (6),130,13.0,3.99
+26,45,Toilet Paper,Bottled Water (24),135,13.5,4.99
+26,46,Toilet Paper,Milk Gallon,70,7.0,3.79
+26,47,Toilet Paper,Butter Sticks,100,10.0,2.99
+26,48,Toilet Paper,Cookie Dough,105,10.5,3.99
+26,49,Toilet Paper,Chobani (4),120,12.0,4.49
+26,50,Toilet Paper,Eggs (12),150,15.0,3.99
+26,51,Toilet Paper,Waffles,150,15.0,3.79
+26,52,Toilet Paper,Taquitos,110,11.0,6.99
+26,53,Toilet Paper,Breyer's Ice Cream,100,10.0,4.99
+26,54,Toilet Paper,Lasagna,120,12.0,9.99
+26,55,Toilet Paper,Bagel Bites,130,13.0,2.79
+26,56,Toilet Paper,"Pizza (12"")",160,16.0,8.99
+27,0,Paper Towels,Start Node,75,7.5,0
+27,1,Paper Towels,Coffee Beans,90,9.0,6.99
+27,2,Paper Towels,K-Cups,110,11.0,10.99
+27,3,Paper Towels,Capt. Crunch,140,14.0,3.99
+27,4,Paper Towels,Chewy Bars,155,15.5,3.69
+27,5,Paper Towels,Granola,145,14.5,5.49
+27,6,Paper Towels,Hershey's,150,15.0,2.69
+27,7,Paper Towels,Flour,130,13.0,4.99
+27,8,Paper Towels,Syrup,120,12.0,2.49
+27,9,Paper Towels,Brownie Mix,90,9.0,2.29
+27,10,Paper Towels,Seasoning,75,7.5,3.99
+27,11,Paper Towels,Soup,80,8.0,1.99
+27,12,Paper Towels,Mac & Cheese,100,10.0,2.69
+27,13,Paper Towels,Ketchup,130,13.0,3.49
+27,14,Paper Towels,Pickles,135,13.5,2.99
+27,15,Paper Towels,Italian Dressing,140,14.0,3.99
+27,16,Paper Towels,Soy Sauce,120,12.0,2.49
+27,17,Paper Towels,Penne,125,12.5,3.49
+27,18,Paper Towels,CapriSun,130,13.0,2.49
+27,19,Paper Towels,Tortillas,90,9.0,1.99
+27,20,Paper Towels,Tomato Sauce,60,6.0,2.99
+27,21,Paper Towels,Ibuprofen,55,5.5,5.49
+27,22,Paper Towels,Diapers,70,7.0,25.99
+27,23,Paper Towels,Tootpaste,110,11.0,3.99
+27,24,Paper Towels,Tampons,120,12.0,5.29
+27,25,Paper Towels,Shampoo,105,10.5,8.99
+27,26,Paper Towels,Toilet Paper,10,1.0,7.99
+27,27,Paper Towels,Paper Towels,0,0.0,9.99
+27,28,Paper Towels,Napkins,20,2.0,3.29
+27,29,Paper Towels,Solo Cups,40,4.0,5.69
+27,30,Paper Towels,Trash Bags,70,7.0,8.99
+27,31,Paper Towels,Dish Soap,50,5.0,2.99
+27,32,Paper Towels,Detergent,55,5.5,12.99
+27,33,Paper Towels,Broom,70,7.0,13.99
+27,34,Paper Towels,Dog Treats,100,10.0,3.99
+27,35,Paper Towels,Air Freshner,110,11.0,6.99
+27,36,Paper Towels,Oreos,130,13.0,3.99
+27,37,Paper Towels,Popcorn,100,10.0,3.49
+27,38,Paper Towels,Gatorade (12),80,8.0,6.99
+27,39,Paper Towels,Redbull (4),75,7.5,7.99
+27,40,Paper Towels,Ritz,60,6.0,3.99
+27,41,Paper Towels,Coca Cola (12),70,7.0,5.99
+27,42,Paper Towels,LaCroix (12),80,8.0,5.49
+27,43,Paper Towels,Pepsi (12),75,7.5,5.99
+27,44,Paper Towels,Seltzer (6),140,14.0,3.99
+27,45,Paper Towels,Bottled Water (24),125,12.5,4.99
+27,46,Paper Towels,Milk Gallon,80,8.0,3.79
+27,47,Paper Towels,Butter Sticks,110,11.0,2.99
+27,48,Paper Towels,Cookie Dough,115,11.5,3.99
+27,49,Paper Towels,Chobani (4),130,13.0,4.49
+27,50,Paper Towels,Eggs (12),140,14.0,3.99
+27,51,Paper Towels,Waffles,160,16.0,3.79
+27,52,Paper Towels,Taquitos,120,12.0,6.99
+27,53,Paper Towels,Breyer's Ice Cream,110,11.0,4.99
+27,54,Paper Towels,Lasagna,130,13.0,9.99
+27,55,Paper Towels,Bagel Bites,140,14.0,2.79
+27,56,Paper Towels,"Pizza (12"")",150,15.0,8.99
+28,0,Napkins,Start Node,95,9.5,0
+28,1,Napkins,Coffee Beans,110,11.0,6.99
+28,2,Napkins,K-Cups,130,13.0,10.99
+28,3,Napkins,Capt. Crunch,160,16.0,3.99
+28,4,Napkins,Chewy Bars,135,13.5,3.69
+28,5,Napkins,Granola,125,12.5,5.49
+28,6,Napkins,Hershey's,130,13.0,2.69
+28,7,Napkins,Flour,150,15.0,4.99
+28,8,Napkins,Syrup,140,14.0,2.49
+28,9,Napkins,Brownie Mix,110,11.0,2.29
+28,10,Napkins,Seasoning,95,9.5,3.99
+28,11,Napkins,Soup,100,10.0,1.99
+28,12,Napkins,Mac & Cheese,120,12.0,2.69
+28,13,Napkins,Ketchup,130,13.0,3.49
+28,14,Napkins,Pickles,125,12.5,2.99
+28,15,Napkins,Italian Dressing,120,12.0,3.99
+28,16,Napkins,Soy Sauce,100,10.0,2.49
+28,17,Napkins,Penne,105,10.5,3.49
+28,18,Napkins,CapriSun,110,11.0,2.49
+28,19,Napkins,Tortillas,110,11.0,1.99
+28,20,Napkins,Tomato Sauce,80,8.0,2.99
+28,21,Napkins,Ibuprofen,75,7.5,5.49
+28,22,Napkins,Diapers,90,9.0,25.99
+28,23,Napkins,Tootpaste,90,9.0,3.99
+28,24,Napkins,Tampons,100,10.0,5.29
+28,25,Napkins,Shampoo,85,8.5,8.99
+28,26,Napkins,Toilet Paper,30,3.0,7.99
+28,27,Napkins,Paper Towels,20,2.0,9.99
+28,28,Napkins,Napkins,0,0.0,3.29
+28,29,Napkins,Solo Cups,20,2.0,5.69
+28,30,Napkins,Trash Bags,50,5.0,8.99
+28,31,Napkins,Dish Soap,70,7.0,2.99
+28,32,Napkins,Detergent,75,7.5,12.99
+28,33,Napkins,Broom,90,9.0,13.99
+28,34,Napkins,Dog Treats,120,12.0,3.99
+28,35,Napkins,Air Freshner,110,11.0,6.99
+28,36,Napkins,Oreos,110,11.0,3.99
+28,37,Napkins,Popcorn,120,12.0,3.49
+28,38,Napkins,Gatorade (12),100,10.0,6.99
+28,39,Napkins,Redbull (4),95,9.5,7.99
+28,40,Napkins,Ritz,80,8.0,3.99
+28,41,Napkins,Coca Cola (12),90,9.0,5.99
+28,42,Napkins,LaCroix (12),100,10.0,5.49
+28,43,Napkins,Pepsi (12),95,9.5,5.99
+28,44,Napkins,Seltzer (6),120,12.0,3.99
+28,45,Napkins,Bottled Water (24),105,10.5,4.99
+28,46,Napkins,Milk Gallon,100,10.0,3.79
+28,47,Napkins,Butter Sticks,130,13.0,2.99
+28,48,Napkins,Cookie Dough,135,13.5,3.99
+28,49,Napkins,Chobani (4),150,15.0,4.49
+28,50,Napkins,Eggs (12),120,12.0,3.99
+28,51,Napkins,Waffles,140,14.0,3.79
+28,52,Napkins,Taquitos,140,14.0,6.99
+28,53,Napkins,Breyer's Ice Cream,130,13.0,4.99
+28,54,Napkins,Lasagna,150,15.0,9.99
+28,55,Napkins,Bagel Bites,160,16.0,2.79
+28,56,Napkins,"Pizza (12"")",130,13.0,8.99
+29,0,Solo Cups,Start Node,115,11.5,0
+29,1,Solo Cups,Coffee Beans,130,13.0,6.99
+29,2,Solo Cups,K-Cups,150,15.0,10.99
+29,3,Solo Cups,Capt. Crunch,140,14.0,3.99
+29,4,Solo Cups,Chewy Bars,115,11.5,3.69
+29,5,Solo Cups,Granola,105,10.5,5.49
+29,6,Solo Cups,Hershey's,110,11.0,2.69
+29,7,Solo Cups,Flour,130,13.0,4.99
+29,8,Solo Cups,Syrup,140,14.0,2.49
+29,9,Solo Cups,Brownie Mix,130,13.0,2.29
+29,10,Solo Cups,Seasoning,115,11.5,3.99
+29,11,Solo Cups,Soup,120,12.0,1.99
+29,12,Solo Cups,Mac & Cheese,140,14.0,2.69
+29,13,Solo Cups,Ketchup,110,11.0,3.49
+29,14,Solo Cups,Pickles,105,10.5,2.99
+29,15,Solo Cups,Italian Dressing,100,10.0,3.99
+29,16,Solo Cups,Soy Sauce,80,8.0,2.49
+29,17,Solo Cups,Penne,85,8.5,3.49
+29,18,Solo Cups,CapriSun,90,9.0,2.49
+29,19,Solo Cups,Tortillas,130,13.0,1.99
+29,20,Solo Cups,Tomato Sauce,100,10.0,2.99
+29,21,Solo Cups,Ibuprofen,95,9.5,5.49
+29,22,Solo Cups,Diapers,110,11.0,25.99
+29,23,Solo Cups,Tootpaste,70,7.0,3.99
+29,24,Solo Cups,Tampons,80,8.0,5.29
+29,25,Solo Cups,Shampoo,65,6.5,8.99
+29,26,Solo Cups,Toilet Paper,50,5.0,7.99
+29,27,Solo Cups,Paper Towels,40,4.0,9.99
+29,28,Solo Cups,Napkins,20,2.0,3.29
+29,29,Solo Cups,Solo Cups,0,0.0,5.69
+29,30,Solo Cups,Trash Bags,30,3.0,8.99
+29,31,Solo Cups,Dish Soap,90,9.0,2.99
+29,32,Solo Cups,Detergent,95,9.5,12.99
+29,33,Solo Cups,Broom,110,11.0,13.99
+29,34,Solo Cups,Dog Treats,100,10.0,3.99
+29,35,Solo Cups,Air Freshner,90,9.0,6.99
+29,36,Solo Cups,Oreos,90,9.0,3.99
+29,37,Solo Cups,Popcorn,120,12.0,3.49
+29,38,Solo Cups,Gatorade (12),120,12.0,6.99
+29,39,Solo Cups,Redbull (4),115,11.5,7.99
+29,40,Solo Cups,Ritz,100,10.0,3.99
+29,41,Solo Cups,Coca Cola (12),110,11.0,5.99
+29,42,Solo Cups,LaCroix (12),120,12.0,5.49
+29,43,Solo Cups,Pepsi (12),115,11.5,5.99
+29,44,Solo Cups,Seltzer (6),100,10.0,3.99
+29,45,Solo Cups,Bottled Water (24),85,8.5,4.99
+29,46,Solo Cups,Milk Gallon,120,12.0,3.79
+29,47,Solo Cups,Butter Sticks,150,15.0,2.99
+29,48,Solo Cups,Cookie Dough,145,14.5,3.99
+29,49,Solo Cups,Chobani (4),130,13.0,4.49
+29,50,Solo Cups,Eggs (12),100,10.0,3.99
+29,51,Solo Cups,Waffles,120,12.0,3.79
+29,52,Solo Cups,Taquitos,160,16.0,6.99
+29,53,Solo Cups,Breyer's Ice Cream,150,15.0,4.99
+29,54,Solo Cups,Lasagna,150,15.0,9.99
+29,55,Solo Cups,Bagel Bites,140,14.0,2.79
+29,56,Solo Cups,"Pizza (12"")",110,11.0,8.99
+30,0,Trash Bags,Start Node,145,14.5,0
+30,1,Trash Bags,Coffee Beans,160,16.0,6.99
+30,2,Trash Bags,K-Cups,140,14.0,10.99
+30,3,Trash Bags,Capt. Crunch,110,11.0,3.99
+30,4,Trash Bags,Chewy Bars,85,8.5,3.69
+30,5,Trash Bags,Granola,75,7.5,5.49
+30,6,Trash Bags,Hershey's,80,8.0,2.69
+30,7,Trash Bags,Flour,100,10.0,4.99
+30,8,Trash Bags,Syrup,110,11.0,2.49
+30,9,Trash Bags,Brownie Mix,140,14.0,2.29
+30,10,Trash Bags,Seasoning,145,14.5,3.99
+30,11,Trash Bags,Soup,130,13.0,1.99
+30,12,Trash Bags,Mac & Cheese,110,11.0,2.69
+30,13,Trash Bags,Ketchup,80,8.0,3.49
+30,14,Trash Bags,Pickles,75,7.5,2.99
+30,15,Trash Bags,Italian Dressing,70,7.0,3.99
+30,16,Trash Bags,Soy Sauce,50,5.0,2.49
+30,17,Trash Bags,Penne,55,5.5,3.49
+30,18,Trash Bags,CapriSun,60,6.0,2.49
+30,19,Trash Bags,Tortillas,100,10.0,1.99
+30,20,Trash Bags,Tomato Sauce,130,13.0,2.99
+30,21,Trash Bags,Ibuprofen,115,11.5,5.49
+30,22,Trash Bags,Diapers,100,10.0,25.99
+30,23,Trash Bags,Tootpaste,40,4.0,3.99
+30,24,Trash Bags,Tampons,50,5.0,5.29
+30,25,Trash Bags,Shampoo,35,3.5,8.99
+30,26,Trash Bags,Toilet Paper,80,8.0,7.99
+30,27,Trash Bags,Paper Towels,70,7.0,9.99
+30,28,Trash Bags,Napkins,50,5.0,3.29
+30,29,Trash Bags,Solo Cups,30,3.0,5.69
+30,30,Trash Bags,Trash Bags,0,0.0,8.99
+30,31,Trash Bags,Dish Soap,120,12.0,2.99
+30,32,Trash Bags,Detergent,115,11.5,12.99
+30,33,Trash Bags,Broom,100,10.0,13.99
+30,34,Trash Bags,Dog Treats,70,7.0,3.99
+30,35,Trash Bags,Air Freshner,60,6.0,6.99
+30,36,Trash Bags,Oreos,60,6.0,3.99
+30,37,Trash Bags,Popcorn,90,9.0,3.49
+30,38,Trash Bags,Gatorade (12),110,11.0,6.99
+30,39,Trash Bags,Redbull (4),115,11.5,7.99
+30,40,Trash Bags,Ritz,130,13.0,3.99
+30,41,Trash Bags,Coca Cola (12),140,14.0,5.99
+30,42,Trash Bags,LaCroix (12),130,13.0,5.49
+30,43,Trash Bags,Pepsi (12),135,13.5,5.99
+30,44,Trash Bags,Seltzer (6),70,7.0,3.99
+30,45,Trash Bags,Bottled Water (24),55,5.5,4.99
+30,46,Trash Bags,Milk Gallon,150,15.0,3.79
+30,47,Trash Bags,Butter Sticks,120,12.0,2.99
+30,48,Trash Bags,Cookie Dough,115,11.5,3.99
+30,49,Trash Bags,Chobani (4),100,10.0,4.49
+30,50,Trash Bags,Eggs (12),70,7.0,3.99
+30,51,Trash Bags,Waffles,90,9.0,3.79
+30,52,Trash Bags,Taquitos,130,13.0,6.99
+30,53,Trash Bags,Breyer's Ice Cream,140,14.0,4.99
+30,54,Trash Bags,Lasagna,120,12.0,9.99
+30,55,Trash Bags,Bagel Bites,110,11.0,2.79
+30,56,Trash Bags,"Pizza (12"")",80,8.0,8.99
+31,0,Dish Soap,Start Node,75,7.5,0
+31,1,Dish Soap,Coffee Beans,90,9.0,6.99
+31,2,Dish Soap,K-Cups,110,11.0,10.99
+31,3,Dish Soap,Capt. Crunch,140,14.0,3.99
+31,4,Dish Soap,Chewy Bars,165,16.5,3.69
+31,5,Dish Soap,Granola,165,16.5,5.49
+31,6,Dish Soap,Hershey's,150,15.0,2.69
+31,7,Dish Soap,Flour,130,13.0,4.99
+31,8,Dish Soap,Syrup,120,12.0,2.49
+31,9,Dish Soap,Brownie Mix,90,9.0,2.29
+31,10,Dish Soap,Seasoning,75,7.5,3.99
+31,11,Dish Soap,Soup,80,8.0,1.99
+31,12,Dish Soap,Mac & Cheese,100,10.0,2.69
+31,13,Dish Soap,Ketchup,130,13.0,3.49
+31,14,Dish Soap,Pickles,135,13.5,2.99
+31,15,Dish Soap,Italian Dressing,140,14.0,3.99
+31,16,Dish Soap,Soy Sauce,140,14.0,2.49
+31,17,Dish Soap,Penne,135,13.5,3.49
+31,18,Dish Soap,CapriSun,130,13.0,2.49
+31,19,Dish Soap,Tortillas,90,9.0,1.99
+31,20,Dish Soap,Tomato Sauce,60,6.0,2.99
+31,21,Dish Soap,Ibuprofen,55,5.5,5.49
+31,22,Dish Soap,Diapers,70,7.0,25.99
+31,23,Dish Soap,Tootpaste,130,13.0,3.99
+31,24,Dish Soap,Tampons,120,12.0,5.29
+31,25,Dish Soap,Shampoo,125,12.5,8.99
+31,26,Dish Soap,Toilet Paper,40,4.0,7.99
+31,27,Dish Soap,Paper Towels,50,5.0,9.99
+31,28,Dish Soap,Napkins,70,7.0,3.29
+31,29,Dish Soap,Solo Cups,90,9.0,5.69
+31,30,Dish Soap,Trash Bags,120,12.0,8.99
+31,31,Dish Soap,Dish Soap,0,0.0,2.99
+31,32,Dish Soap,Detergent,5,0.5,12.99
+31,33,Dish Soap,Broom,20,2.0,13.99
+31,34,Dish Soap,Dog Treats,50,5.0,3.99
+31,35,Dish Soap,Air Freshner,60,6.0,6.99
+31,36,Dish Soap,Oreos,110,11.0,3.99
+31,37,Dish Soap,Popcorn,80,8.0,3.49
+31,38,Dish Soap,Gatorade (12),60,6.0,6.99
+31,39,Dish Soap,Redbull (4),55,5.5,7.99
+31,40,Dish Soap,Ritz,40,4.0,3.99
+31,41,Dish Soap,Coca Cola (12),50,5.0,5.99
+31,42,Dish Soap,LaCroix (12),60,6.0,5.49
+31,43,Dish Soap,Pepsi (12),55,5.5,5.99
+31,44,Dish Soap,Seltzer (6),120,12.0,3.99
+31,45,Dish Soap,Bottled Water (24),125,12.5,4.99
+31,46,Dish Soap,Milk Gallon,60,6.0,3.79
+31,47,Dish Soap,Butter Sticks,90,9.0,2.99
+31,48,Dish Soap,Cookie Dough,95,9.5,3.99
+31,49,Dish Soap,Chobani (4),110,11.0,4.49
+31,50,Dish Soap,Eggs (12),140,14.0,3.99
+31,51,Dish Soap,Waffles,140,14.0,3.79
+31,52,Dish Soap,Taquitos,100,10.0,6.99
+31,53,Dish Soap,Breyer's Ice Cream,90,9.0,4.99
+31,54,Dish Soap,Lasagna,110,11.0,9.99
+31,55,Dish Soap,Bagel Bites,120,12.0,2.79
+31,56,Dish Soap,"Pizza (12"")",150,15.0,8.99
+32,0,Detergent,Start Node,80,8.0,0
+32,1,Detergent,Coffee Beans,95,9.5,6.99
+32,2,Detergent,K-Cups,115,11.5,10.99
+32,3,Detergent,Capt. Crunch,145,14.5,3.99
+32,4,Detergent,Chewy Bars,170,17.0,3.69
+32,5,Detergent,Granola,160,16.0,5.49
+32,6,Detergent,Hershey's,155,15.5,2.69
+32,7,Detergent,Flour,135,13.5,4.99
+32,8,Detergent,Syrup,125,12.5,2.49
+32,9,Detergent,Brownie Mix,95,9.5,2.29
+32,10,Detergent,Seasoning,80,8.0,3.99
+32,11,Detergent,Soup,85,8.5,1.99
+32,12,Detergent,Mac & Cheese,105,10.5,2.69
+32,13,Detergent,Ketchup,135,13.5,3.49
+32,14,Detergent,Pickles,140,14.0,2.99
+32,15,Detergent,Italian Dressing,145,14.5,3.99
+32,16,Detergent,Soy Sauce,135,13.5,2.49
+32,17,Detergent,Penne,140,14.0,3.49
+32,18,Detergent,CapriSun,135,13.5,2.49
+32,19,Detergent,Tortillas,95,9.5,1.99
+32,20,Detergent,Tomato Sauce,65,6.5,2.99
+32,21,Detergent,Ibuprofen,60,6.0,5.49
+32,22,Detergent,Diapers,75,7.5,25.99
+32,23,Detergent,Tootpaste,125,12.5,3.99
+32,24,Detergent,Tampons,125,12.5,5.29
+32,25,Detergent,Shampoo,120,12.0,8.99
+32,26,Detergent,Toilet Paper,45,4.5,7.99
+32,27,Detergent,Paper Towels,55,5.5,9.99
+32,28,Detergent,Napkins,75,7.5,3.29
+32,29,Detergent,Solo Cups,95,9.5,5.69
+32,30,Detergent,Trash Bags,115,11.5,8.99
+32,31,Detergent,Dish Soap,5,0.5,2.99
+32,32,Detergent,Detergent,0,0.0,12.99
+32,33,Detergent,Broom,15,1.5,13.99
+32,34,Detergent,Dog Treats,45,4.5,3.99
+32,35,Detergent,Air Freshner,55,5.5,6.99
+32,36,Detergent,Oreos,115,11.5,3.99
+32,37,Detergent,Popcorn,85,8.5,3.49
+32,38,Detergent,Gatorade (12),65,6.5,6.99
+32,39,Detergent,Redbull (4),60,6.0,7.99
+32,40,Detergent,Ritz,45,4.5,3.99
+32,41,Detergent,Coca Cola (12),55,5.5,5.99
+32,42,Detergent,LaCroix (12),65,6.5,5.49
+32,43,Detergent,Pepsi (12),60,6.0,5.99
+32,44,Detergent,Seltzer (6),125,12.5,3.99
+32,45,Detergent,Bottled Water (24),120,12.0,4.99
+32,46,Detergent,Milk Gallon,65,6.5,3.79
+32,47,Detergent,Butter Sticks,95,9.5,2.99
+32,48,Detergent,Cookie Dough,100,10.0,3.99
+32,49,Detergent,Chobani (4),115,11.5,4.49
+32,50,Detergent,Eggs (12),135,13.5,3.99
+32,51,Detergent,Waffles,145,14.5,3.79
+32,52,Detergent,Taquitos,105,10.5,6.99
+32,53,Detergent,Breyer's Ice Cream,95,9.5,4.99
+32,54,Detergent,Lasagna,115,11.5,9.99
+32,55,Detergent,Bagel Bites,125,12.5,2.79
+32,56,Detergent,"Pizza (12"")",145,14.5,8.99
+33,0,Broom,Start Node,95,9.5,0
+33,1,Broom,Coffee Beans,110,11.0,6.99
+33,2,Broom,K-Cups,130,13.0,10.99
+33,3,Broom,Capt. Crunch,160,16.0,3.99
+33,4,Broom,Chewy Bars,155,15.5,3.69
+33,5,Broom,Granola,145,14.5,5.49
+33,6,Broom,Hershey's,150,15.0,2.69
+33,7,Broom,Flour,150,15.0,4.99
+33,8,Broom,Syrup,140,14.0,2.49
+33,9,Broom,Brownie Mix,110,11.0,2.29
+33,10,Broom,Seasoning,95,9.5,3.99
+33,11,Broom,Soup,100,10.0,1.99
+33,12,Broom,Mac & Cheese,120,12.0,2.69
+33,13,Broom,Ketchup,150,15.0,3.49
+33,14,Broom,Pickles,145,14.5,2.99
+33,15,Broom,Italian Dressing,140,14.0,3.99
+33,16,Broom,Soy Sauce,120,12.0,2.49
+33,17,Broom,Penne,125,12.5,3.49
+33,18,Broom,CapriSun,130,13.0,2.49
+33,19,Broom,Tortillas,110,11.0,1.99
+33,20,Broom,Tomato Sauce,80,8.0,2.99
+33,21,Broom,Ibuprofen,75,7.5,5.49
+33,22,Broom,Diapers,90,9.0,25.99
+33,23,Broom,Tootpaste,110,11.0,3.99
+33,24,Broom,Tampons,120,12.0,5.29
+33,25,Broom,Shampoo,105,10.5,8.99
+33,26,Broom,Toilet Paper,60,6.0,7.99
+33,27,Broom,Paper Towels,70,7.0,9.99
+33,28,Broom,Napkins,90,9.0,3.29
+33,29,Broom,Solo Cups,110,11.0,5.69
+33,30,Broom,Trash Bags,100,10.0,8.99
+33,31,Broom,Dish Soap,20,2.0,2.99
+33,32,Broom,Detergent,15,1.5,12.99
+33,33,Broom,Broom,0,0.0,13.99
+33,34,Broom,Dog Treats,30,3.0,3.99
+33,35,Broom,Air Freshner,40,4.0,6.99
+33,36,Broom,Oreos,110,11.0,3.99
+33,37,Broom,Popcorn,100,10.0,3.49
+33,38,Broom,Gatorade (12),80,8.0,6.99
+33,39,Broom,Redbull (4),75,7.5,7.99
+33,40,Broom,Ritz,60,6.0,3.99
+33,41,Broom,Coca Cola (12),70,7.0,5.99
+33,42,Broom,LaCroix (12),80,8.0,5.49
+33,43,Broom,Pepsi (12),75,7.5,5.99
+33,44,Broom,Seltzer (6),120,12.0,3.99
+33,45,Broom,Bottled Water (24),105,10.5,4.99
+33,46,Broom,Milk Gallon,80,8.0,3.79
+33,47,Broom,Butter Sticks,110,11.0,2.99
+33,48,Broom,Cookie Dough,115,11.5,3.99
+33,49,Broom,Chobani (4),130,13.0,4.49
+33,50,Broom,Eggs (12),120,12.0,3.99
+33,51,Broom,Waffles,140,14.0,3.79
+33,52,Broom,Taquitos,120,12.0,6.99
+33,53,Broom,Breyer's Ice Cream,110,11.0,4.99
+33,54,Broom,Lasagna,130,13.0,9.99
+33,55,Broom,Bagel Bites,140,14.0,2.79
+33,56,Broom,"Pizza (12"")",130,13.0,8.99
+34,0,Dog Treats,Start Node,125,12.5,0
+34,1,Dog Treats,Coffee Beans,140,14.0,6.99
+34,2,Dog Treats,K-Cups,160,16.0,10.99
+34,3,Dog Treats,Capt. Crunch,150,15.0,3.99
+34,4,Dog Treats,Chewy Bars,125,12.5,3.69
+34,5,Dog Treats,Granola,115,11.5,5.49
+34,6,Dog Treats,Hershey's,120,12.0,2.69
+34,7,Dog Treats,Flour,140,14.0,4.99
+34,8,Dog Treats,Syrup,150,15.0,2.49
+34,9,Dog Treats,Brownie Mix,140,14.0,2.29
+34,10,Dog Treats,Seasoning,125,12.5,3.99
+34,11,Dog Treats,Soup,130,13.0,1.99
+34,12,Dog Treats,Mac & Cheese,150,15.0,2.69
+34,13,Dog Treats,Ketchup,120,12.0,3.49
+34,14,Dog Treats,Pickles,115,11.5,2.99
+34,15,Dog Treats,Italian Dressing,110,11.0,3.99
+34,16,Dog Treats,Soy Sauce,90,9.0,2.49
+34,17,Dog Treats,Penne,95,9.5,3.49
+34,18,Dog Treats,CapriSun,100,10.0,2.49
+34,19,Dog Treats,Tortillas,140,14.0,1.99
+34,20,Dog Treats,Tomato Sauce,110,11.0,2.99
+34,21,Dog Treats,Ibuprofen,105,10.5,5.49
+34,22,Dog Treats,Diapers,120,12.0,25.99
+34,23,Dog Treats,Tootpaste,80,8.0,3.99
+34,24,Dog Treats,Tampons,90,9.0,5.29
+34,25,Dog Treats,Shampoo,75,7.5,8.99
+34,26,Dog Treats,Toilet Paper,90,9.0,7.99
+34,27,Dog Treats,Paper Towels,100,10.0,9.99
+34,28,Dog Treats,Napkins,120,12.0,3.29
+34,29,Dog Treats,Solo Cups,100,10.0,5.69
+34,30,Dog Treats,Trash Bags,70,7.0,8.99
+34,31,Dog Treats,Dish Soap,50,5.0,2.99
+34,32,Dog Treats,Detergent,45,4.5,12.99
+34,33,Dog Treats,Broom,30,3.0,13.99
+34,34,Dog Treats,Dog Treats,0,0.0,3.99
+34,35,Dog Treats,Air Freshner,10,1.0,6.99
+34,36,Dog Treats,Oreos,80,8.0,3.99
+34,37,Dog Treats,Popcorn,110,11.0,3.49
+34,38,Dog Treats,Gatorade (12),110,11.0,6.99
+34,39,Dog Treats,Redbull (4),105,10.5,7.99
+34,40,Dog Treats,Ritz,90,9.0,3.99
+34,41,Dog Treats,Coca Cola (12),100,10.0,5.99
+34,42,Dog Treats,LaCroix (12),110,11.0,5.49
+34,43,Dog Treats,Pepsi (12),105,10.5,5.99
+34,44,Dog Treats,Seltzer (6),90,9.0,3.99
+34,45,Dog Treats,Bottled Water (24),75,7.5,4.99
+34,46,Dog Treats,Milk Gallon,110,11.0,3.79
+34,47,Dog Treats,Butter Sticks,140,14.0,2.99
+34,48,Dog Treats,Cookie Dough,135,13.5,3.99
+34,49,Dog Treats,Chobani (4),120,12.0,4.49
+34,50,Dog Treats,Eggs (12),90,9.0,3.99
+34,51,Dog Treats,Waffles,110,11.0,3.79
+34,52,Dog Treats,Taquitos,150,15.0,6.99
+34,53,Dog Treats,Breyer's Ice Cream,140,14.0,4.99
+34,54,Dog Treats,Lasagna,140,14.0,9.99
+34,55,Dog Treats,Bagel Bites,130,13.0,2.79
+34,56,Dog Treats,"Pizza (12"")",100,10.0,8.99
+35,0,Air Freshner,Start Node,135,13.5,0
+35,1,Air Freshner,Coffee Beans,150,15.0,6.99
+35,2,Air Freshner,K-Cups,170,17.0,10.99
+35,3,Air Freshner,Capt. Crunch,140,14.0,3.99
+35,4,Air Freshner,Chewy Bars,115,11.5,3.69
+35,5,Air Freshner,Granola,105,10.5,5.49
+35,6,Air Freshner,Hershey's,110,11.0,2.69
+35,7,Air Freshner,Flour,130,13.0,4.99
+35,8,Air Freshner,Syrup,140,14.0,2.49
+35,9,Air Freshner,Brownie Mix,150,15.0,2.29
+35,10,Air Freshner,Seasoning,135,13.5,3.99
+35,11,Air Freshner,Soup,140,14.0,1.99
+35,12,Air Freshner,Mac & Cheese,140,14.0,2.69
+35,13,Air Freshner,Ketchup,110,11.0,3.49
+35,14,Air Freshner,Pickles,105,10.5,2.99
+35,15,Air Freshner,Italian Dressing,100,10.0,3.99
+35,16,Air Freshner,Soy Sauce,80,8.0,2.49
+35,17,Air Freshner,Penne,85,8.5,3.49
+35,18,Air Freshner,CapriSun,90,9.0,2.49
+35,19,Air Freshner,Tortillas,130,13.0,1.99
+35,20,Air Freshner,Tomato Sauce,120,12.0,2.99
+35,21,Air Freshner,Ibuprofen,115,11.5,5.49
+35,22,Air Freshner,Diapers,130,13.0,25.99
+35,23,Air Freshner,Tootpaste,70,7.0,3.99
+35,24,Air Freshner,Tampons,80,8.0,5.29
+35,25,Air Freshner,Shampoo,65,6.5,8.99
+35,26,Air Freshner,Toilet Paper,100,10.0,7.99
+35,27,Air Freshner,Paper Towels,110,11.0,9.99
+35,28,Air Freshner,Napkins,110,11.0,3.29
+35,29,Air Freshner,Solo Cups,90,9.0,5.69
+35,30,Air Freshner,Trash Bags,60,6.0,8.99
+35,31,Air Freshner,Dish Soap,60,6.0,2.99
+35,32,Air Freshner,Detergent,55,5.5,12.99
+35,33,Air Freshner,Broom,40,4.0,13.99
+35,34,Air Freshner,Dog Treats,10,1.0,3.99
+35,35,Air Freshner,Air Freshner,0,0.0,6.99
+35,36,Air Freshner,Oreos,70,7.0,3.99
+35,37,Air Freshner,Popcorn,100,10.0,3.49
+35,38,Air Freshner,Gatorade (12),120,12.0,6.99
+35,39,Air Freshner,Redbull (4),115,11.5,7.99
+35,40,Air Freshner,Ritz,100,10.0,3.99
+35,41,Air Freshner,Coca Cola (12),110,11.0,5.99
+35,42,Air Freshner,LaCroix (12),120,12.0,5.49
+35,43,Air Freshner,Pepsi (12),115,11.5,5.99
+35,44,Air Freshner,Seltzer (6),80,8.0,3.99
+35,45,Air Freshner,Bottled Water (24),65,6.5,4.99
+35,46,Air Freshner,Milk Gallon,120,12.0,3.79
+35,47,Air Freshner,Butter Sticks,130,13.0,2.99
+35,48,Air Freshner,Cookie Dough,125,12.5,3.99
+35,49,Air Freshner,Chobani (4),110,11.0,4.49
+35,50,Air Freshner,Eggs (12),80,8.0,3.99
+35,51,Air Freshner,Waffles,100,10.0,3.79
+35,52,Air Freshner,Taquitos,140,14.0,6.99
+35,53,Air Freshner,Breyer's Ice Cream,150,15.0,4.99
+35,54,Air Freshner,Lasagna,130,13.0,9.99
+35,55,Air Freshner,Bagel Bites,120,12.0,2.79
+35,56,Air Freshner,"Pizza (12"")",90,9.0,8.99
+36,0,Oreos,Start Node,155,15.5,0
+36,1,Oreos,Coffee Beans,170,17.0,6.99
+36,2,Oreos,K-Cups,170,17.0,10.99
+36,3,Oreos,Capt. Crunch,140,14.0,3.99
+36,4,Oreos,Chewy Bars,115,11.5,3.69
+36,5,Oreos,Granola,105,10.5,5.49
+36,6,Oreos,Hershey's,110,11.0,2.69
+36,7,Oreos,Flour,130,13.0,4.99
+36,8,Oreos,Syrup,140,14.0,2.49
+36,9,Oreos,Brownie Mix,170,17.0,2.29
+36,10,Oreos,Seasoning,155,15.5,3.99
+36,11,Oreos,Soup,160,16.0,1.99
+36,12,Oreos,Mac & Cheese,140,14.0,2.69
+36,13,Oreos,Ketchup,110,11.0,3.49
+36,14,Oreos,Pickles,105,10.5,2.99
+36,15,Oreos,Italian Dressing,100,10.0,3.99
+36,16,Oreos,Soy Sauce,80,8.0,2.49
+36,17,Oreos,Penne,85,8.5,3.49
+36,18,Oreos,CapriSun,90,9.0,2.49
+36,19,Oreos,Tortillas,130,13.0,1.99
+36,20,Oreos,Tomato Sauce,140,14.0,2.99
+36,21,Oreos,Ibuprofen,135,13.5,5.49
+36,22,Oreos,Diapers,130,13.0,25.99
+36,23,Oreos,Tootpaste,70,7.0,3.99
+36,24,Oreos,Tampons,80,8.0,5.29
+36,25,Oreos,Shampoo,65,6.5,8.99
+36,26,Oreos,Toilet Paper,120,12.0,7.99
+36,27,Oreos,Paper Towels,130,13.0,9.99
+36,28,Oreos,Napkins,110,11.0,3.29
+36,29,Oreos,Solo Cups,90,9.0,5.69
+36,30,Oreos,Trash Bags,60,6.0,8.99
+36,31,Oreos,Dish Soap,110,11.0,2.99
+36,32,Oreos,Detergent,115,11.5,12.99
+36,33,Oreos,Broom,110,11.0,13.99
+36,34,Oreos,Dog Treats,80,8.0,3.99
+36,35,Oreos,Air Freshner,70,7.0,6.99
+36,36,Oreos,Oreos,0,0.0,3.99
+36,37,Oreos,Popcorn,30,3.0,3.49
+36,38,Oreos,Gatorade (12),50,5.0,6.99
+36,39,Oreos,Redbull (4),55,5.5,7.99
+36,40,Oreos,Ritz,70,7.0,3.99
+36,41,Oreos,Coca Cola (12),110,11.0,5.99
+36,42,Oreos,LaCroix (12),120,12.0,5.49
+36,43,Oreos,Pepsi (12),115,11.5,5.99
+36,44,Oreos,Seltzer (6),60,6.0,3.99
+36,45,Oreos,Bottled Water (24),45,4.5,4.99
+36,46,Oreos,Milk Gallon,120,12.0,3.79
+36,47,Oreos,Butter Sticks,110,11.0,2.99
+36,48,Oreos,Cookie Dough,105,10.5,3.99
+36,49,Oreos,Chobani (4),90,9.0,4.49
+36,50,Oreos,Eggs (12),60,6.0,3.99
+36,51,Oreos,Waffles,80,8.0,3.79
+36,52,Oreos,Taquitos,120,12.0,6.99
+36,53,Oreos,Breyer's Ice Cream,130,13.0,4.99
+36,54,Oreos,Lasagna,110,11.0,9.99
+36,55,Oreos,Bagel Bites,100,10.0,2.79
+36,56,Oreos,"Pizza (12"")",70,7.0,8.99
+37,0,Popcorn,Start Node,125,12.5,0
+37,1,Popcorn,Coffee Beans,140,14.0,6.99
+37,2,Popcorn,K-Cups,160,16.0,10.99
+37,3,Popcorn,Capt. Crunch,170,17.0,3.99
+37,4,Popcorn,Chewy Bars,145,14.5,3.69
+37,5,Popcorn,Granola,135,13.5,5.49
+37,6,Popcorn,Hershey's,140,14.0,2.69
+37,7,Popcorn,Flour,160,16.0,4.99
+37,8,Popcorn,Syrup,170,17.0,2.49
+37,9,Popcorn,Brownie Mix,140,14.0,2.29
+37,10,Popcorn,Seasoning,125,12.5,3.99
+37,11,Popcorn,Soup,130,13.0,1.99
+37,12,Popcorn,Mac & Cheese,150,15.0,2.69
+37,13,Popcorn,Ketchup,140,14.0,3.49
+37,14,Popcorn,Pickles,135,13.5,2.99
+37,15,Popcorn,Italian Dressing,130,13.0,3.99
+37,16,Popcorn,Soy Sauce,110,11.0,2.49
+37,17,Popcorn,Penne,115,11.5,3.49
+37,18,Popcorn,CapriSun,120,12.0,2.49
+37,19,Popcorn,Tortillas,140,14.0,1.99
+37,20,Popcorn,Tomato Sauce,110,11.0,2.99
+37,21,Popcorn,Ibuprofen,105,10.5,5.49
+37,22,Popcorn,Diapers,120,12.0,25.99
+37,23,Popcorn,Tootpaste,100,10.0,3.99
+37,24,Popcorn,Tampons,110,11.0,5.29
+37,25,Popcorn,Shampoo,95,9.5,8.99
+37,26,Popcorn,Toilet Paper,90,9.0,7.99
+37,27,Popcorn,Paper Towels,100,10.0,9.99
+37,28,Popcorn,Napkins,120,12.0,3.29
+37,29,Popcorn,Solo Cups,120,12.0,5.69
+37,30,Popcorn,Trash Bags,90,9.0,8.99
+37,31,Popcorn,Dish Soap,80,8.0,2.99
+37,32,Popcorn,Detergent,85,8.5,12.99
+37,33,Popcorn,Broom,100,10.0,13.99
+37,34,Popcorn,Dog Treats,110,11.0,3.99
+37,35,Popcorn,Air Freshner,100,10.0,6.99
+37,36,Popcorn,Oreos,30,3.0,3.99
+37,37,Popcorn,Popcorn,0,0.0,3.49
+37,38,Popcorn,Gatorade (12),20,2.0,6.99
+37,39,Popcorn,Redbull (4),25,2.5,7.99
+37,40,Popcorn,Ritz,40,4.0,3.99
+37,41,Popcorn,Coca Cola (12),80,8.0,5.99
+37,42,Popcorn,LaCroix (12),90,9.0,5.49
+37,43,Popcorn,Pepsi (12),85,8.5,5.99
+37,44,Popcorn,Seltzer (6),90,9.0,3.99
+37,45,Popcorn,Bottled Water (24),75,7.5,4.99
+37,46,Popcorn,Milk Gallon,90,9.0,3.79
+37,47,Popcorn,Butter Sticks,120,12.0,2.99
+37,48,Popcorn,Cookie Dough,125,12.5,3.99
+37,49,Popcorn,Chobani (4),120,12.0,4.49
+37,50,Popcorn,Eggs (12),90,9.0,3.99
+37,51,Popcorn,Waffles,110,11.0,3.79
+37,52,Popcorn,Taquitos,130,13.0,6.99
+37,53,Popcorn,Breyer's Ice Cream,120,12.0,4.99
+37,54,Popcorn,Lasagna,140,14.0,9.99
+37,55,Popcorn,Bagel Bites,130,13.0,2.79
+37,56,Popcorn,"Pizza (12"")",100,10.0,8.99
+38,0,Gatorade (12),Start Node,105,10.5,0
+38,1,Gatorade (12),Coffee Beans,120,12.0,6.99
+38,2,Gatorade (12),K-Cups,140,14.0,10.99
+38,3,Gatorade (12),Capt. Crunch,170,17.0,3.99
+38,4,Gatorade (12),Chewy Bars,165,16.5,3.69
+38,5,Gatorade (12),Granola,155,15.5,5.49
+38,6,Gatorade (12),Hershey's,160,16.0,2.69
+38,7,Gatorade (12),Flour,160,16.0,4.99
+38,8,Gatorade (12),Syrup,150,15.0,2.49
+38,9,Gatorade (12),Brownie Mix,120,12.0,2.29
+38,10,Gatorade (12),Seasoning,105,10.5,3.99
+38,11,Gatorade (12),Soup,110,11.0,1.99
+38,12,Gatorade (12),Mac & Cheese,130,13.0,2.69
+38,13,Gatorade (12),Ketchup,160,16.0,3.49
+38,14,Gatorade (12),Pickles,155,15.5,2.99
+38,15,Gatorade (12),Italian Dressing,150,15.0,3.99
+38,16,Gatorade (12),Soy Sauce,130,13.0,2.49
+38,17,Gatorade (12),Penne,135,13.5,3.49
+38,18,Gatorade (12),CapriSun,140,14.0,2.49
+38,19,Gatorade (12),Tortillas,120,12.0,1.99
+38,20,Gatorade (12),Tomato Sauce,90,9.0,2.99
+38,21,Gatorade (12),Ibuprofen,85,8.5,5.49
+38,22,Gatorade (12),Diapers,100,10.0,25.99
+38,23,Gatorade (12),Tootpaste,120,12.0,3.99
+38,24,Gatorade (12),Tampons,130,13.0,5.29
+38,25,Gatorade (12),Shampoo,115,11.5,8.99
+38,26,Gatorade (12),Toilet Paper,70,7.0,7.99
+38,27,Gatorade (12),Paper Towels,80,8.0,9.99
+38,28,Gatorade (12),Napkins,100,10.0,3.29
+38,29,Gatorade (12),Solo Cups,120,12.0,5.69
+38,30,Gatorade (12),Trash Bags,110,11.0,8.99
+38,31,Gatorade (12),Dish Soap,60,6.0,2.99
+38,32,Gatorade (12),Detergent,65,6.5,12.99
+38,33,Gatorade (12),Broom,80,8.0,13.99
+38,34,Gatorade (12),Dog Treats,110,11.0,3.99
+38,35,Gatorade (12),Air Freshner,120,12.0,6.99
+38,36,Gatorade (12),Oreos,50,5.0,3.99
+38,37,Gatorade (12),Popcorn,20,2.0,3.49
+38,38,Gatorade (12),Gatorade (12),0,0.0,6.99
+38,39,Gatorade (12),Redbull (4),5,0.5,7.99
+38,40,Gatorade (12),Ritz,20,2.0,3.99
+38,41,Gatorade (12),Coca Cola (12),60,6.0,5.99
+38,42,Gatorade (12),LaCroix (12),70,7.0,5.49
+38,43,Gatorade (12),Pepsi (12),65,6.5,5.99
+38,44,Gatorade (12),Seltzer (6),110,11.0,3.99
+38,45,Gatorade (12),Bottled Water (24),95,9.5,4.99
+38,46,Gatorade (12),Milk Gallon,70,7.0,3.79
+38,47,Gatorade (12),Butter Sticks,100,10.0,2.99
+38,48,Gatorade (12),Cookie Dough,105,10.5,3.99
+38,49,Gatorade (12),Chobani (4),120,12.0,4.49
+38,50,Gatorade (12),Eggs (12),110,11.0,3.99
+38,51,Gatorade (12),Waffles,130,13.0,3.79
+38,52,Gatorade (12),Taquitos,110,11.0,6.99
+38,53,Gatorade (12),Breyer's Ice Cream,100,10.0,4.99
+38,54,Gatorade (12),Lasagna,120,12.0,9.99
+38,55,Gatorade (12),Bagel Bites,130,13.0,2.79
+38,56,Gatorade (12),"Pizza (12"")",120,12.0,8.99
+39,0,Redbull (4),Start Node,100,10.0,0
+39,1,Redbull (4),Coffee Beans,115,11.5,6.99
+39,2,Redbull (4),K-Cups,135,13.5,10.99
+39,3,Redbull (4),Capt. Crunch,165,16.5,3.99
+39,4,Redbull (4),Chewy Bars,170,17.0,3.69
+39,5,Redbull (4),Granola,160,16.0,5.49
+39,6,Redbull (4),Hershey's,165,16.5,2.69
+39,7,Redbull (4),Flour,155,15.5,4.99
+39,8,Redbull (4),Syrup,145,14.5,2.49
+39,9,Redbull (4),Brownie Mix,115,11.5,2.29
+39,10,Redbull (4),Seasoning,100,10.0,3.99
+39,11,Redbull (4),Soup,105,10.5,1.99
+39,12,Redbull (4),Mac & Cheese,125,12.5,2.69
+39,13,Redbull (4),Ketchup,155,15.5,3.49
+39,14,Redbull (4),Pickles,160,16.0,2.99
+39,15,Redbull (4),Italian Dressing,155,15.5,3.99
+39,16,Redbull (4),Soy Sauce,135,13.5,2.49
+39,17,Redbull (4),Penne,140,14.0,3.49
+39,18,Redbull (4),CapriSun,145,14.5,2.49
+39,19,Redbull (4),Tortillas,115,11.5,1.99
+39,20,Redbull (4),Tomato Sauce,85,8.5,2.99
+39,21,Redbull (4),Ibuprofen,80,8.0,5.49
+39,22,Redbull (4),Diapers,95,9.5,25.99
+39,23,Redbull (4),Tootpaste,125,12.5,3.99
+39,24,Redbull (4),Tampons,135,13.5,5.29
+39,25,Redbull (4),Shampoo,120,12.0,8.99
+39,26,Redbull (4),Toilet Paper,65,6.5,7.99
+39,27,Redbull (4),Paper Towels,75,7.5,9.99
+39,28,Redbull (4),Napkins,95,9.5,3.29
+39,29,Redbull (4),Solo Cups,115,11.5,5.69
+39,30,Redbull (4),Trash Bags,115,11.5,8.99
+39,31,Redbull (4),Dish Soap,55,5.5,2.99
+39,32,Redbull (4),Detergent,60,6.0,12.99
+39,33,Redbull (4),Broom,75,7.5,13.99
+39,34,Redbull (4),Dog Treats,105,10.5,3.99
+39,35,Redbull (4),Air Freshner,115,11.5,6.99
+39,36,Redbull (4),Oreos,55,5.5,3.99
+39,37,Redbull (4),Popcorn,25,2.5,3.49
+39,38,Redbull (4),Gatorade (12),5,0.5,6.99
+39,39,Redbull (4),Redbull (4),0,0.0,7.99
+39,40,Redbull (4),Ritz,15,1.5,3.99
+39,41,Redbull (4),Coca Cola (12),55,5.5,5.99
+39,42,Redbull (4),LaCroix (12),65,6.5,5.49
+39,43,Redbull (4),Pepsi (12),60,6.0,5.99
+39,44,Redbull (4),Seltzer (6),115,11.5,3.99
+39,45,Redbull (4),Bottled Water (24),100,10.0,4.99
+39,46,Redbull (4),Milk Gallon,65,6.5,3.79
+39,47,Redbull (4),Butter Sticks,95,9.5,2.99
+39,48,Redbull (4),Cookie Dough,100,10.0,3.99
+39,49,Redbull (4),Chobani (4),115,11.5,4.49
+39,50,Redbull (4),Eggs (12),115,11.5,3.99
+39,51,Redbull (4),Waffles,135,13.5,3.79
+39,52,Redbull (4),Taquitos,105,10.5,6.99
+39,53,Redbull (4),Breyer's Ice Cream,95,9.5,4.99
+39,54,Redbull (4),Lasagna,115,11.5,9.99
+39,55,Redbull (4),Bagel Bites,125,12.5,2.79
+39,56,Redbull (4),"Pizza (12"")",125,12.5,8.99
+40,0,Ritz,Start Node,85,8.5,0
+40,1,Ritz,Coffee Beans,100,10.0,6.99
+40,2,Ritz,K-Cups,120,12.0,10.99
+40,3,Ritz,Capt. Crunch,150,15.0,3.99
+40,4,Ritz,Chewy Bars,175,17.5,3.69
+40,5,Ritz,Granola,175,17.5,5.49
+40,6,Ritz,Hershey's,160,16.0,2.69
+40,7,Ritz,Flour,140,14.0,4.99
+40,8,Ritz,Syrup,130,13.0,2.49
+40,9,Ritz,Brownie Mix,100,10.0,2.29
+40,10,Ritz,Seasoning,85,8.5,3.99
+40,11,Ritz,Soup,90,9.0,1.99
+40,12,Ritz,Mac & Cheese,110,11.0,2.69
+40,13,Ritz,Ketchup,140,14.0,3.49
+40,14,Ritz,Pickles,145,14.5,2.99
+40,15,Ritz,Italian Dressing,150,15.0,3.99
+40,16,Ritz,Soy Sauce,150,15.0,2.49
+40,17,Ritz,Penne,145,14.5,3.49
+40,18,Ritz,CapriSun,140,14.0,2.49
+40,19,Ritz,Tortillas,100,10.0,1.99
+40,20,Ritz,Tomato Sauce,70,7.0,2.99
+40,21,Ritz,Ibuprofen,65,6.5,5.49
+40,22,Ritz,Diapers,80,8.0,25.99
+40,23,Ritz,Tootpaste,140,14.0,3.99
+40,24,Ritz,Tampons,130,13.0,5.29
+40,25,Ritz,Shampoo,135,13.5,8.99
+40,26,Ritz,Toilet Paper,50,5.0,7.99
+40,27,Ritz,Paper Towels,60,6.0,9.99
+40,28,Ritz,Napkins,80,8.0,3.29
+40,29,Ritz,Solo Cups,100,10.0,5.69
+40,30,Ritz,Trash Bags,130,13.0,8.99
+40,31,Ritz,Dish Soap,40,4.0,2.99
+40,32,Ritz,Detergent,45,4.5,12.99
+40,33,Ritz,Broom,60,6.0,13.99
+40,34,Ritz,Dog Treats,90,9.0,3.99
+40,35,Ritz,Air Freshner,100,10.0,6.99
+40,36,Ritz,Oreos,70,7.0,3.99
+40,37,Ritz,Popcorn,40,4.0,3.49
+40,38,Ritz,Gatorade (12),20,2.0,6.99
+40,39,Ritz,Redbull (4),15,1.5,7.99
+40,40,Ritz,Ritz,0,0.0,3.99
+40,41,Ritz,Coca Cola (12),40,4.0,5.99
+40,42,Ritz,LaCroix (12),50,5.0,5.49
+40,43,Ritz,Pepsi (12),45,4.5,5.99
+40,44,Ritz,Seltzer (6),110,11.0,3.99
+40,45,Ritz,Bottled Water (24),115,11.5,4.99
+40,46,Ritz,Milk Gallon,50,5.0,3.79
+40,47,Ritz,Butter Sticks,80,8.0,2.99
+40,48,Ritz,Cookie Dough,85,8.5,3.99
+40,49,Ritz,Chobani (4),100,10.0,4.49
+40,50,Ritz,Eggs (12),130,13.0,3.99
+40,51,Ritz,Waffles,130,13.0,3.79
+40,52,Ritz,Taquitos,90,9.0,6.99
+40,53,Ritz,Breyer's Ice Cream,80,8.0,4.99
+40,54,Ritz,Lasagna,100,10.0,9.99
+40,55,Ritz,Bagel Bites,110,11.0,2.79
+40,56,Ritz,"Pizza (12"")",140,14.0,8.99
+41,0,Coca Cola (12),Start Node,95,9.5,0
+41,1,Coca Cola (12),Coffee Beans,110,11.0,6.99
+41,2,Coca Cola (12),K-Cups,130,13.0,10.99
+41,3,Coca Cola (12),Capt. Crunch,160,16.0,3.99
+41,4,Coca Cola (12),Chewy Bars,185,18.5,3.69
+41,5,Coca Cola (12),Granola,185,18.5,5.49
+41,6,Coca Cola (12),Hershey's,170,17.0,2.69
+41,7,Coca Cola (12),Flour,150,15.0,4.99
+41,8,Coca Cola (12),Syrup,140,14.0,2.49
+41,9,Coca Cola (12),Brownie Mix,110,11.0,2.29
+41,10,Coca Cola (12),Seasoning,95,9.5,3.99
+41,11,Coca Cola (12),Soup,100,10.0,1.99
+41,12,Coca Cola (12),Mac & Cheese,120,12.0,2.69
+41,13,Coca Cola (12),Ketchup,150,15.0,3.49
+41,14,Coca Cola (12),Pickles,155,15.5,2.99
+41,15,Coca Cola (12),Italian Dressing,160,16.0,3.99
+41,16,Coca Cola (12),Soy Sauce,160,16.0,2.49
+41,17,Coca Cola (12),Penne,155,15.5,3.49
+41,18,Coca Cola (12),CapriSun,150,15.0,2.49
+41,19,Coca Cola (12),Tortillas,110,11.0,1.99
+41,20,Coca Cola (12),Tomato Sauce,80,8.0,2.99
+41,21,Coca Cola (12),Ibuprofen,75,7.5,5.49
+41,22,Coca Cola (12),Diapers,90,9.0,25.99
+41,23,Coca Cola (12),Tootpaste,150,15.0,3.99
+41,24,Coca Cola (12),Tampons,140,14.0,5.29
+41,25,Coca Cola (12),Shampoo,145,14.5,8.99
+41,26,Coca Cola (12),Toilet Paper,60,6.0,7.99
+41,27,Coca Cola (12),Paper Towels,70,7.0,9.99
+41,28,Coca Cola (12),Napkins,90,9.0,3.29
+41,29,Coca Cola (12),Solo Cups,110,11.0,5.69
+41,30,Coca Cola (12),Trash Bags,140,14.0,8.99
+41,31,Coca Cola (12),Dish Soap,50,5.0,2.99
+41,32,Coca Cola (12),Detergent,55,5.5,12.99
+41,33,Coca Cola (12),Broom,70,7.0,13.99
+41,34,Coca Cola (12),Dog Treats,100,10.0,3.99
+41,35,Coca Cola (12),Air Freshner,110,11.0,6.99
+41,36,Coca Cola (12),Oreos,110,11.0,3.99
+41,37,Coca Cola (12),Popcorn,80,8.0,3.49
+41,38,Coca Cola (12),Gatorade (12),60,6.0,6.99
+41,39,Coca Cola (12),Redbull (4),55,5.5,7.99
+41,40,Coca Cola (12),Ritz,40,4.0,3.99
+41,41,Coca Cola (12),Coca Cola (12),0,0.0,5.99
+41,42,Coca Cola (12),LaCroix (12),10,1.0,5.49
+41,43,Coca Cola (12),Pepsi (12),5,0.5,5.99
+41,44,Coca Cola (12),Seltzer (6),70,7.0,3.99
+41,45,Coca Cola (12),Bottled Water (24),85,8.5,4.99
+41,46,Coca Cola (12),Milk Gallon,40,4.0,3.79
+41,47,Coca Cola (12),Butter Sticks,70,7.0,2.99
+41,48,Coca Cola (12),Cookie Dough,75,7.5,3.99
+41,49,Coca Cola (12),Chobani (4),90,9.0,4.49
+41,50,Coca Cola (12),Eggs (12),120,12.0,3.99
+41,51,Coca Cola (12),Waffles,120,12.0,3.79
+41,52,Coca Cola (12),Taquitos,80,8.0,6.99
+41,53,Coca Cola (12),Breyer's Ice Cream,70,7.0,4.99
+41,54,Coca Cola (12),Lasagna,90,9.0,9.99
+41,55,Coca Cola (12),Bagel Bites,100,10.0,2.79
+41,56,Coca Cola (12),"Pizza (12"")",130,13.0,8.99
+42,0,LaCroix (12),Start Node,105,10.5,0
+42,1,LaCroix (12),Coffee Beans,120,12.0,6.99
+42,2,LaCroix (12),K-Cups,140,14.0,10.99
+42,3,LaCroix (12),Capt. Crunch,170,17.0,3.99
+42,4,LaCroix (12),Chewy Bars,185,18.5,3.69
+42,5,LaCroix (12),Granola,175,17.5,5.49
+42,6,LaCroix (12),Hershey's,180,18.0,2.69
+42,7,LaCroix (12),Flour,160,16.0,4.99
+42,8,LaCroix (12),Syrup,150,15.0,2.49
+42,9,LaCroix (12),Brownie Mix,120,12.0,2.29
+42,10,LaCroix (12),Seasoning,105,10.5,3.99
+42,11,LaCroix (12),Soup,110,11.0,1.99
+42,12,LaCroix (12),Mac & Cheese,130,13.0,2.69
+42,13,LaCroix (12),Ketchup,160,16.0,3.49
+42,14,LaCroix (12),Pickles,165,16.5,2.99
+42,15,LaCroix (12),Italian Dressing,170,17.0,3.99
+42,16,LaCroix (12),Soy Sauce,150,15.0,2.49
+42,17,LaCroix (12),Penne,155,15.5,3.49
+42,18,LaCroix (12),CapriSun,160,16.0,2.49
+42,19,LaCroix (12),Tortillas,120,12.0,1.99
+42,20,LaCroix (12),Tomato Sauce,90,9.0,2.99
+42,21,LaCroix (12),Ibuprofen,85,8.5,5.49
+42,22,LaCroix (12),Diapers,100,10.0,25.99
+42,23,LaCroix (12),Tootpaste,140,14.0,3.99
+42,24,LaCroix (12),Tampons,150,15.0,5.29
+42,25,LaCroix (12),Shampoo,135,13.5,8.99
+42,26,LaCroix (12),Toilet Paper,70,7.0,7.99
+42,27,LaCroix (12),Paper Towels,80,8.0,9.99
+42,28,LaCroix (12),Napkins,100,10.0,3.29
+42,29,LaCroix (12),Solo Cups,120,12.0,5.69
+42,30,LaCroix (12),Trash Bags,130,13.0,8.99
+42,31,LaCroix (12),Dish Soap,60,6.0,2.99
+42,32,LaCroix (12),Detergent,65,6.5,12.99
+42,33,LaCroix (12),Broom,80,8.0,13.99
+42,34,LaCroix (12),Dog Treats,110,11.0,3.99
+42,35,LaCroix (12),Air Freshner,120,12.0,6.99
+42,36,LaCroix (12),Oreos,120,12.0,3.99
+42,37,LaCroix (12),Popcorn,90,9.0,3.49
+42,38,LaCroix (12),Gatorade (12),70,7.0,6.99
+42,39,LaCroix (12),Redbull (4),65,6.5,7.99
+42,40,LaCroix (12),Ritz,50,5.0,3.99
+42,41,LaCroix (12),Coca Cola (12),10,1.0,5.99
+42,42,LaCroix (12),LaCroix (12),0,0.0,5.49
+42,43,LaCroix (12),Pepsi (12),5,0.5,5.99
+42,44,LaCroix (12),Seltzer (6),60,6.0,3.99
+42,45,LaCroix (12),Bottled Water (24),75,7.5,4.99
+42,46,LaCroix (12),Milk Gallon,50,5.0,3.79
+42,47,LaCroix (12),Butter Sticks,80,8.0,2.99
+42,48,LaCroix (12),Cookie Dough,85,8.5,3.99
+42,49,LaCroix (12),Chobani (4),100,10.0,4.49
+42,50,LaCroix (12),Eggs (12),110,11.0,3.99
+42,51,LaCroix (12),Waffles,130,13.0,3.79
+42,52,LaCroix (12),Taquitos,90,9.0,6.99
+42,53,LaCroix (12),Breyer's Ice Cream,80,8.0,4.99
+42,54,LaCroix (12),Lasagna,100,10.0,9.99
+42,55,LaCroix (12),Bagel Bites,110,11.0,2.79
+42,56,LaCroix (12),"Pizza (12"")",120,12.0,8.99
+43,0,Pepsi (12),Start Node,100,10.0,0
+43,1,Pepsi (12),Coffee Beans,115,11.5,6.99
+43,2,Pepsi (12),K-Cups,135,13.5,10.99
+43,3,Pepsi (12),Capt. Crunch,165,16.5,3.99
+43,4,Pepsi (12),Chewy Bars,190,19.0,3.69
+43,5,Pepsi (12),Granola,180,18.0,5.49
+43,6,Pepsi (12),Hershey's,175,17.5,2.69
+43,7,Pepsi (12),Flour,155,15.5,4.99
+43,8,Pepsi (12),Syrup,145,14.5,2.49
+43,9,Pepsi (12),Brownie Mix,115,11.5,2.29
+43,10,Pepsi (12),Seasoning,100,10.0,3.99
+43,11,Pepsi (12),Soup,105,10.5,1.99
+43,12,Pepsi (12),Mac & Cheese,125,12.5,2.69
+43,13,Pepsi (12),Ketchup,155,15.5,3.49
+43,14,Pepsi (12),Pickles,160,16.0,2.99
+43,15,Pepsi (12),Italian Dressing,165,16.5,3.99
+43,16,Pepsi (12),Soy Sauce,155,15.5,2.49
+43,17,Pepsi (12),Penne,160,16.0,3.49
+43,18,Pepsi (12),CapriSun,155,15.5,2.49
+43,19,Pepsi (12),Tortillas,115,11.5,1.99
+43,20,Pepsi (12),Tomato Sauce,85,8.5,2.99
+43,21,Pepsi (12),Ibuprofen,80,8.0,5.49
+43,22,Pepsi (12),Diapers,95,9.5,25.99
+43,23,Pepsi (12),Tootpaste,145,14.5,3.99
+43,24,Pepsi (12),Tampons,145,14.5,5.29
+43,25,Pepsi (12),Shampoo,140,14.0,8.99
+43,26,Pepsi (12),Toilet Paper,65,6.5,7.99
+43,27,Pepsi (12),Paper Towels,75,7.5,9.99
+43,28,Pepsi (12),Napkins,95,9.5,3.29
+43,29,Pepsi (12),Solo Cups,115,11.5,5.69
+43,30,Pepsi (12),Trash Bags,135,13.5,8.99
+43,31,Pepsi (12),Dish Soap,55,5.5,2.99
+43,32,Pepsi (12),Detergent,60,6.0,12.99
+43,33,Pepsi (12),Broom,75,7.5,13.99
+43,34,Pepsi (12),Dog Treats,105,10.5,3.99
+43,35,Pepsi (12),Air Freshner,115,11.5,6.99
+43,36,Pepsi (12),Oreos,115,11.5,3.99
+43,37,Pepsi (12),Popcorn,85,8.5,3.49
+43,38,Pepsi (12),Gatorade (12),65,6.5,6.99
+43,39,Pepsi (12),Redbull (4),60,6.0,7.99
+43,40,Pepsi (12),Ritz,45,4.5,3.99
+43,41,Pepsi (12),Coca Cola (12),5,0.5,5.99
+43,42,Pepsi (12),LaCroix (12),5,0.5,5.49
+43,43,Pepsi (12),Pepsi (12),0,0.0,5.99
+43,44,Pepsi (12),Seltzer (6),65,6.5,3.99
+43,45,Pepsi (12),Bottled Water (24),80,8.0,4.99
+43,46,Pepsi (12),Milk Gallon,45,4.5,3.79
+43,47,Pepsi (12),Butter Sticks,75,7.5,2.99
+43,48,Pepsi (12),Cookie Dough,80,8.0,3.99
+43,49,Pepsi (12),Chobani (4),95,9.5,4.49
+43,50,Pepsi (12),Eggs (12),115,11.5,3.99
+43,51,Pepsi (12),Waffles,125,12.5,3.79
+43,52,Pepsi (12),Taquitos,85,8.5,6.99
+43,53,Pepsi (12),Breyer's Ice Cream,75,7.5,4.99
+43,54,Pepsi (12),Lasagna,95,9.5,9.99
+43,55,Pepsi (12),Bagel Bites,105,10.5,2.79
+43,56,Pepsi (12),"Pizza (12"")",125,12.5,8.99
+44,0,Seltzer (6),Start Node,165,16.5,0
+44,1,Seltzer (6),Coffee Beans,180,18.0,6.99
+44,2,Seltzer (6),K-Cups,180,18.0,10.99
+44,3,Seltzer (6),Capt. Crunch,150,15.0,3.99
+44,4,Seltzer (6),Chewy Bars,125,12.5,3.69
+44,5,Seltzer (6),Granola,115,11.5,5.49
+44,6,Seltzer (6),Hershey's,120,12.0,2.69
+44,7,Seltzer (6),Flour,140,14.0,4.99
+44,8,Seltzer (6),Syrup,150,15.0,2.49
+44,9,Seltzer (6),Brownie Mix,180,18.0,2.29
+44,10,Seltzer (6),Seasoning,165,16.5,3.99
+44,11,Seltzer (6),Soup,170,17.0,1.99
+44,12,Seltzer (6),Mac & Cheese,150,15.0,2.69
+44,13,Seltzer (6),Ketchup,120,12.0,3.49
+44,14,Seltzer (6),Pickles,115,11.5,2.99
+44,15,Seltzer (6),Italian Dressing,110,11.0,3.99
+44,16,Seltzer (6),Soy Sauce,90,9.0,2.49
+44,17,Seltzer (6),Penne,95,9.5,3.49
+44,18,Seltzer (6),CapriSun,100,10.0,2.49
+44,19,Seltzer (6),Tortillas,140,14.0,1.99
+44,20,Seltzer (6),Tomato Sauce,150,15.0,2.99
+44,21,Seltzer (6),Ibuprofen,145,14.5,5.49
+44,22,Seltzer (6),Diapers,140,14.0,25.99
+44,23,Seltzer (6),Tootpaste,80,8.0,3.99
+44,24,Seltzer (6),Tampons,90,9.0,5.29
+44,25,Seltzer (6),Shampoo,75,7.5,8.99
+44,26,Seltzer (6),Toilet Paper,130,13.0,7.99
+44,27,Seltzer (6),Paper Towels,140,14.0,9.99
+44,28,Seltzer (6),Napkins,120,12.0,3.29
+44,29,Seltzer (6),Solo Cups,100,10.0,5.69
+44,30,Seltzer (6),Trash Bags,70,7.0,8.99
+44,31,Seltzer (6),Dish Soap,120,12.0,2.99
+44,32,Seltzer (6),Detergent,125,12.5,12.99
+44,33,Seltzer (6),Broom,120,12.0,13.99
+44,34,Seltzer (6),Dog Treats,90,9.0,3.99
+44,35,Seltzer (6),Air Freshner,80,8.0,6.99
+44,36,Seltzer (6),Oreos,60,6.0,3.99
+44,37,Seltzer (6),Popcorn,90,9.0,3.49
+44,38,Seltzer (6),Gatorade (12),110,11.0,6.99
+44,39,Seltzer (6),Redbull (4),115,11.5,7.99
+44,40,Seltzer (6),Ritz,110,11.0,3.99
+44,41,Seltzer (6),Coca Cola (12),70,7.0,5.99
+44,42,Seltzer (6),LaCroix (12),60,6.0,5.49
+44,43,Seltzer (6),Pepsi (12),65,6.5,5.99
+44,44,Seltzer (6),Seltzer (6),0,0.0,3.99
+44,45,Seltzer (6),Bottled Water (24),15,1.5,4.99
+44,46,Seltzer (6),Milk Gallon,110,11.0,3.79
+44,47,Seltzer (6),Butter Sticks,100,10.0,2.99
+44,48,Seltzer (6),Cookie Dough,95,9.5,3.99
+44,49,Seltzer (6),Chobani (4),80,8.0,4.49
+44,50,Seltzer (6),Eggs (12),50,5.0,3.99
+44,51,Seltzer (6),Waffles,70,7.0,3.79
+44,52,Seltzer (6),Taquitos,110,11.0,6.99
+44,53,Seltzer (6),Breyer's Ice Cream,120,12.0,4.99
+44,54,Seltzer (6),Lasagna,100,10.0,9.99
+44,55,Seltzer (6),Bagel Bites,90,9.0,2.79
+44,56,Seltzer (6),"Pizza (12"")",60,6.0,8.99
+45,0,Bottled Water (24),Start Node,180,18.0,0
+45,1,Bottled Water (24),Coffee Beans,185,18.5,6.99
+45,2,Bottled Water (24),K-Cups,165,16.5,10.99
+45,3,Bottled Water (24),Capt. Crunch,135,13.5,3.99
+45,4,Bottled Water (24),Chewy Bars,110,11.0,3.69
+45,5,Bottled Water (24),Granola,100,10.0,5.49
+45,6,Bottled Water (24),Hershey's,105,10.5,2.69
+45,7,Bottled Water (24),Flour,125,12.5,4.99
+45,8,Bottled Water (24),Syrup,135,13.5,2.49
+45,9,Bottled Water (24),Brownie Mix,165,16.5,2.29
+45,10,Bottled Water (24),Seasoning,180,18.0,3.99
+45,11,Bottled Water (24),Soup,155,15.5,1.99
+45,12,Bottled Water (24),Mac & Cheese,135,13.5,2.69
+45,13,Bottled Water (24),Ketchup,105,10.5,3.49
+45,14,Bottled Water (24),Pickles,100,10.0,2.99
+45,15,Bottled Water (24),Italian Dressing,95,9.5,3.99
+45,16,Bottled Water (24),Soy Sauce,75,7.5,2.49
+45,17,Bottled Water (24),Penne,80,8.0,3.49
+45,18,Bottled Water (24),CapriSun,85,8.5,2.49
+45,19,Bottled Water (24),Tortillas,125,12.5,1.99
+45,20,Bottled Water (24),Tomato Sauce,155,15.5,2.99
+45,21,Bottled Water (24),Ibuprofen,140,14.0,5.49
+45,22,Bottled Water (24),Diapers,125,12.5,25.99
+45,23,Bottled Water (24),Tootpaste,65,6.5,3.99
+45,24,Bottled Water (24),Tampons,75,7.5,5.29
+45,25,Bottled Water (24),Shampoo,60,6.0,8.99
+45,26,Bottled Water (24),Toilet Paper,135,13.5,7.99
+45,27,Bottled Water (24),Paper Towels,125,12.5,9.99
+45,28,Bottled Water (24),Napkins,105,10.5,3.29
+45,29,Bottled Water (24),Solo Cups,85,8.5,5.69
+45,30,Bottled Water (24),Trash Bags,55,5.5,8.99
+45,31,Bottled Water (24),Dish Soap,125,12.5,2.99
+45,32,Bottled Water (24),Detergent,120,12.0,12.99
+45,33,Bottled Water (24),Broom,105,10.5,13.99
+45,34,Bottled Water (24),Dog Treats,75,7.5,3.99
+45,35,Bottled Water (24),Air Freshner,65,6.5,6.99
+45,36,Bottled Water (24),Oreos,45,4.5,3.99
+45,37,Bottled Water (24),Popcorn,75,7.5,3.49
+45,38,Bottled Water (24),Gatorade (12),95,9.5,6.99
+45,39,Bottled Water (24),Redbull (4),100,10.0,7.99
+45,40,Bottled Water (24),Ritz,115,11.5,3.99
+45,41,Bottled Water (24),Coca Cola (12),85,8.5,5.99
+45,42,Bottled Water (24),LaCroix (12),75,7.5,5.49
+45,43,Bottled Water (24),Pepsi (12),80,8.0,5.99
+45,44,Bottled Water (24),Seltzer (6),15,1.5,3.99
+45,45,Bottled Water (24),Bottled Water (24),0,0.0,4.99
+45,46,Bottled Water (24),Milk Gallon,115,11.5,3.79
+45,47,Bottled Water (24),Butter Sticks,85,8.5,2.99
+45,48,Bottled Water (24),Cookie Dough,80,8.0,3.99
+45,49,Bottled Water (24),Chobani (4),65,6.5,4.49
+45,50,Bottled Water (24),Eggs (12),35,3.5,3.99
+45,51,Bottled Water (24),Waffles,55,5.5,3.79
+45,52,Bottled Water (24),Taquitos,95,9.5,6.99
+45,53,Bottled Water (24),Breyer's Ice Cream,105,10.5,4.99
+45,54,Bottled Water (24),Lasagna,85,8.5,9.99
+45,55,Bottled Water (24),Bagel Bites,75,7.5,2.79
+45,56,Bottled Water (24),"Pizza (12"")",45,4.5,8.99
+46,0,Milk Gallon,Start Node,105,10.5,0
+46,1,Milk Gallon,Coffee Beans,120,12.0,6.99
+46,2,Milk Gallon,K-Cups,140,14.0,10.99
+46,3,Milk Gallon,Capt. Crunch,170,17.0,3.99
+46,4,Milk Gallon,Chewy Bars,195,19.5,3.69
+46,5,Milk Gallon,Granola,195,19.5,5.49
+46,6,Milk Gallon,Hershey's,180,18.0,2.69
+46,7,Milk Gallon,Flour,160,16.0,4.99
+46,8,Milk Gallon,Syrup,150,15.0,2.49
+46,9,Milk Gallon,Brownie Mix,120,12.0,2.29
+46,10,Milk Gallon,Seasoning,105,10.5,3.99
+46,11,Milk Gallon,Soup,110,11.0,1.99
+46,12,Milk Gallon,Mac & Cheese,130,13.0,2.69
+46,13,Milk Gallon,Ketchup,160,16.0,3.49
+46,14,Milk Gallon,Pickles,165,16.5,2.99
+46,15,Milk Gallon,Italian Dressing,170,17.0,3.99
+46,16,Milk Gallon,Soy Sauce,170,17.0,2.49
+46,17,Milk Gallon,Penne,165,16.5,3.49
+46,18,Milk Gallon,CapriSun,160,16.0,2.49
+46,19,Milk Gallon,Tortillas,120,12.0,1.99
+46,20,Milk Gallon,Tomato Sauce,90,9.0,2.99
+46,21,Milk Gallon,Ibuprofen,85,8.5,5.49
+46,22,Milk Gallon,Diapers,100,10.0,25.99
+46,23,Milk Gallon,Tootpaste,160,16.0,3.99
+46,24,Milk Gallon,Tampons,150,15.0,5.29
+46,25,Milk Gallon,Shampoo,155,15.5,8.99
+46,26,Milk Gallon,Toilet Paper,70,7.0,7.99
+46,27,Milk Gallon,Paper Towels,80,8.0,9.99
+46,28,Milk Gallon,Napkins,100,10.0,3.29
+46,29,Milk Gallon,Solo Cups,120,12.0,5.69
+46,30,Milk Gallon,Trash Bags,150,15.0,8.99
+46,31,Milk Gallon,Dish Soap,60,6.0,2.99
+46,32,Milk Gallon,Detergent,65,6.5,12.99
+46,33,Milk Gallon,Broom,80,8.0,13.99
+46,34,Milk Gallon,Dog Treats,110,11.0,3.99
+46,35,Milk Gallon,Air Freshner,120,12.0,6.99
+46,36,Milk Gallon,Oreos,120,12.0,3.99
+46,37,Milk Gallon,Popcorn,90,9.0,3.49
+46,38,Milk Gallon,Gatorade (12),70,7.0,6.99
+46,39,Milk Gallon,Redbull (4),65,6.5,7.99
+46,40,Milk Gallon,Ritz,50,5.0,3.99
+46,41,Milk Gallon,Coca Cola (12),40,4.0,5.99
+46,42,Milk Gallon,LaCroix (12),50,5.0,5.49
+46,43,Milk Gallon,Pepsi (12),45,4.5,5.99
+46,44,Milk Gallon,Seltzer (6),110,11.0,3.99
+46,45,Milk Gallon,Bottled Water (24),115,11.5,4.99
+46,46,Milk Gallon,Milk Gallon,0,0.0,3.79
+46,47,Milk Gallon,Butter Sticks,30,3.0,2.99
+46,48,Milk Gallon,Cookie Dough,35,3.5,3.99
+46,49,Milk Gallon,Chobani (4),50,5.0,4.49
+46,50,Milk Gallon,Eggs (12),80,8.0,3.99
+46,51,Milk Gallon,Waffles,110,11.0,3.79
+46,52,Milk Gallon,Taquitos,70,7.0,6.99
+46,53,Milk Gallon,Breyer's Ice Cream,60,6.0,4.99
+46,54,Milk Gallon,Lasagna,80,8.0,9.99
+46,55,Milk Gallon,Bagel Bites,90,9.0,2.79
+46,56,Milk Gallon,"Pizza (12"")",120,12.0,8.99
+47,0,Butter Sticks,Start Node,135,13.5,0
+47,1,Butter Sticks,Coffee Beans,150,15.0,6.99
+47,2,Butter Sticks,K-Cups,170,17.0,10.99
+47,3,Butter Sticks,Capt. Crunch,200,20.0,3.99
+47,4,Butter Sticks,Chewy Bars,175,17.5,3.69
+47,5,Butter Sticks,Granola,165,16.5,5.49
+47,6,Butter Sticks,Hershey's,170,17.0,2.69
+47,7,Butter Sticks,Flour,190,19.0,4.99
+47,8,Butter Sticks,Syrup,180,18.0,2.49
+47,9,Butter Sticks,Brownie Mix,150,15.0,2.29
+47,10,Butter Sticks,Seasoning,135,13.5,3.99
+47,11,Butter Sticks,Soup,140,14.0,1.99
+47,12,Butter Sticks,Mac & Cheese,160,16.0,2.69
+47,13,Butter Sticks,Ketchup,170,17.0,3.49
+47,14,Butter Sticks,Pickles,165,16.5,2.99
+47,15,Butter Sticks,Italian Dressing,160,16.0,3.99
+47,16,Butter Sticks,Soy Sauce,140,14.0,2.49
+47,17,Butter Sticks,Penne,145,14.5,3.49
+47,18,Butter Sticks,CapriSun,150,15.0,2.49
+47,19,Butter Sticks,Tortillas,150,15.0,1.99
+47,20,Butter Sticks,Tomato Sauce,120,12.0,2.99
+47,21,Butter Sticks,Ibuprofen,115,11.5,5.49
+47,22,Butter Sticks,Diapers,130,13.0,25.99
+47,23,Butter Sticks,Tootpaste,130,13.0,3.99
+47,24,Butter Sticks,Tampons,140,14.0,5.29
+47,25,Butter Sticks,Shampoo,125,12.5,8.99
+47,26,Butter Sticks,Toilet Paper,100,10.0,7.99
+47,27,Butter Sticks,Paper Towels,110,11.0,9.99
+47,28,Butter Sticks,Napkins,130,13.0,3.29
+47,29,Butter Sticks,Solo Cups,150,15.0,5.69
+47,30,Butter Sticks,Trash Bags,120,12.0,8.99
+47,31,Butter Sticks,Dish Soap,90,9.0,2.99
+47,32,Butter Sticks,Detergent,95,9.5,12.99
+47,33,Butter Sticks,Broom,110,11.0,13.99
+47,34,Butter Sticks,Dog Treats,140,14.0,3.99
+47,35,Butter Sticks,Air Freshner,130,13.0,6.99
+47,36,Butter Sticks,Oreos,110,11.0,3.99
+47,37,Butter Sticks,Popcorn,120,12.0,3.49
+47,38,Butter Sticks,Gatorade (12),100,10.0,6.99
+47,39,Butter Sticks,Redbull (4),95,9.5,7.99
+47,40,Butter Sticks,Ritz,80,8.0,3.99
+47,41,Butter Sticks,Coca Cola (12),70,7.0,5.99
+47,42,Butter Sticks,LaCroix (12),80,8.0,5.49
+47,43,Butter Sticks,Pepsi (12),75,7.5,5.99
+47,44,Butter Sticks,Seltzer (6),100,10.0,3.99
+47,45,Butter Sticks,Bottled Water (24),85,8.5,4.99
+47,46,Butter Sticks,Milk Gallon,30,3.0,3.79
+47,47,Butter Sticks,Butter Sticks,0,0.0,2.99
+47,48,Butter Sticks,Cookie Dough,5,0.5,3.99
+47,49,Butter Sticks,Chobani (4),20,2.0,4.49
+47,50,Butter Sticks,Eggs (12),50,5.0,3.99
+47,51,Butter Sticks,Waffles,100,10.0,3.79
+47,52,Butter Sticks,Taquitos,100,10.0,6.99
+47,53,Butter Sticks,Breyer's Ice Cream,90,9.0,4.99
+47,54,Butter Sticks,Lasagna,110,11.0,9.99
+47,55,Butter Sticks,Bagel Bites,120,12.0,2.79
+47,56,Butter Sticks,"Pizza (12"")",90,9.0,8.99
+48,0,Cookie Dough,Start Node,140,14.0,0
+48,1,Cookie Dough,Coffee Beans,155,15.5,6.99
+48,2,Cookie Dough,K-Cups,175,17.5,10.99
+48,3,Cookie Dough,Capt. Crunch,195,19.5,3.99
+48,4,Cookie Dough,Chewy Bars,170,17.0,3.69
+48,5,Cookie Dough,Granola,160,16.0,5.49
+48,6,Cookie Dough,Hershey's,165,16.5,2.69
+48,7,Cookie Dough,Flour,185,18.5,4.99
+48,8,Cookie Dough,Syrup,185,18.5,2.49
+48,9,Cookie Dough,Brownie Mix,155,15.5,2.29
+48,10,Cookie Dough,Seasoning,140,14.0,3.99
+48,11,Cookie Dough,Soup,145,14.5,1.99
+48,12,Cookie Dough,Mac & Cheese,165,16.5,2.69
+48,13,Cookie Dough,Ketchup,165,16.5,3.49
+48,14,Cookie Dough,Pickles,160,16.0,2.99
+48,15,Cookie Dough,Italian Dressing,155,15.5,3.99
+48,16,Cookie Dough,Soy Sauce,135,13.5,2.49
+48,17,Cookie Dough,Penne,140,14.0,3.49
+48,18,Cookie Dough,CapriSun,145,14.5,2.49
+48,19,Cookie Dough,Tortillas,155,15.5,1.99
+48,20,Cookie Dough,Tomato Sauce,125,12.5,2.99
+48,21,Cookie Dough,Ibuprofen,120,12.0,5.49
+48,22,Cookie Dough,Diapers,135,13.5,25.99
+48,23,Cookie Dough,Tootpaste,125,12.5,3.99
+48,24,Cookie Dough,Tampons,135,13.5,5.29
+48,25,Cookie Dough,Shampoo,120,12.0,8.99
+48,26,Cookie Dough,Toilet Paper,105,10.5,7.99
+48,27,Cookie Dough,Paper Towels,115,11.5,9.99
+48,28,Cookie Dough,Napkins,135,13.5,3.29
+48,29,Cookie Dough,Solo Cups,145,14.5,5.69
+48,30,Cookie Dough,Trash Bags,115,11.5,8.99
+48,31,Cookie Dough,Dish Soap,95,9.5,2.99
+48,32,Cookie Dough,Detergent,100,10.0,12.99
+48,33,Cookie Dough,Broom,115,11.5,13.99
+48,34,Cookie Dough,Dog Treats,135,13.5,3.99
+48,35,Cookie Dough,Air Freshner,125,12.5,6.99
+48,36,Cookie Dough,Oreos,105,10.5,3.99
+48,37,Cookie Dough,Popcorn,125,12.5,3.49
+48,38,Cookie Dough,Gatorade (12),105,10.5,6.99
+48,39,Cookie Dough,Redbull (4),100,10.0,7.99
+48,40,Cookie Dough,Ritz,85,8.5,3.99
+48,41,Cookie Dough,Coca Cola (12),75,7.5,5.99
+48,42,Cookie Dough,LaCroix (12),85,8.5,5.49
+48,43,Cookie Dough,Pepsi (12),80,8.0,5.99
+48,44,Cookie Dough,Seltzer (6),95,9.5,3.99
+48,45,Cookie Dough,Bottled Water (24),80,8.0,4.99
+48,46,Cookie Dough,Milk Gallon,35,3.5,3.79
+48,47,Cookie Dough,Butter Sticks,5,0.5,2.99
+48,48,Cookie Dough,Cookie Dough,0,0.0,3.99
+48,49,Cookie Dough,Chobani (4),15,1.5,4.49
+48,50,Cookie Dough,Eggs (12),45,4.5,3.99
+48,51,Cookie Dough,Waffles,95,9.5,3.79
+48,52,Cookie Dough,Taquitos,105,10.5,6.99
+48,53,Cookie Dough,Breyer's Ice Cream,95,9.5,4.99
+48,54,Cookie Dough,Lasagna,115,11.5,9.99
+48,55,Cookie Dough,Bagel Bites,115,11.5,2.79
+48,56,Cookie Dough,"Pizza (12"")",85,8.5,8.99
+49,0,Chobani (4),Start Node,155,15.5,0
+49,1,Chobani (4),Coffee Beans,170,17.0,6.99
+49,2,Chobani (4),K-Cups,190,19.0,10.99
+49,3,Chobani (4),Capt. Crunch,180,18.0,3.99
+49,4,Chobani (4),Chewy Bars,155,15.5,3.69
+49,5,Chobani (4),Granola,145,14.5,5.49
+49,6,Chobani (4),Hershey's,150,15.0,2.69
+49,7,Chobani (4),Flour,170,17.0,4.99
+49,8,Chobani (4),Syrup,180,18.0,2.49
+49,9,Chobani (4),Brownie Mix,170,17.0,2.29
+49,10,Chobani (4),Seasoning,155,15.5,3.99
+49,11,Chobani (4),Soup,160,16.0,1.99
+49,12,Chobani (4),Mac & Cheese,180,18.0,2.69
+49,13,Chobani (4),Ketchup,150,15.0,3.49
+49,14,Chobani (4),Pickles,145,14.5,2.99
+49,15,Chobani (4),Italian Dressing,140,14.0,3.99
+49,16,Chobani (4),Soy Sauce,120,12.0,2.49
+49,17,Chobani (4),Penne,125,12.5,3.49
+49,18,Chobani (4),CapriSun,130,13.0,2.49
+49,19,Chobani (4),Tortillas,170,17.0,1.99
+49,20,Chobani (4),Tomato Sauce,140,14.0,2.99
+49,21,Chobani (4),Ibuprofen,135,13.5,5.49
+49,22,Chobani (4),Diapers,150,15.0,25.99
+49,23,Chobani (4),Tootpaste,110,11.0,3.99
+49,24,Chobani (4),Tampons,120,12.0,5.29
+49,25,Chobani (4),Shampoo,105,10.5,8.99
+49,26,Chobani (4),Toilet Paper,120,12.0,7.99
+49,27,Chobani (4),Paper Towels,130,13.0,9.99
+49,28,Chobani (4),Napkins,150,15.0,3.29
+49,29,Chobani (4),Solo Cups,130,13.0,5.69
+49,30,Chobani (4),Trash Bags,100,10.0,8.99
+49,31,Chobani (4),Dish Soap,110,11.0,2.99
+49,32,Chobani (4),Detergent,115,11.5,12.99
+49,33,Chobani (4),Broom,130,13.0,13.99
+49,34,Chobani (4),Dog Treats,120,12.0,3.99
+49,35,Chobani (4),Air Freshner,110,11.0,6.99
+49,36,Chobani (4),Oreos,90,9.0,3.99
+49,37,Chobani (4),Popcorn,120,12.0,3.49
+49,38,Chobani (4),Gatorade (12),120,12.0,6.99
+49,39,Chobani (4),Redbull (4),115,11.5,7.99
+49,40,Chobani (4),Ritz,100,10.0,3.99
+49,41,Chobani (4),Coca Cola (12),90,9.0,5.99
+49,42,Chobani (4),LaCroix (12),100,10.0,5.49
+49,43,Chobani (4),Pepsi (12),95,9.5,5.99
+49,44,Chobani (4),Seltzer (6),80,8.0,3.99
+49,45,Chobani (4),Bottled Water (24),65,6.5,4.99
+49,46,Chobani (4),Milk Gallon,50,5.0,3.79
+49,47,Chobani (4),Butter Sticks,20,2.0,2.99
+49,48,Chobani (4),Cookie Dough,15,1.5,3.99
+49,49,Chobani (4),Chobani (4),0,0.0,4.49
+49,50,Chobani (4),Eggs (12),30,3.0,3.99
+49,51,Chobani (4),Waffles,80,8.0,3.79
+49,52,Chobani (4),Taquitos,120,12.0,6.99
+49,53,Chobani (4),Breyer's Ice Cream,110,11.0,4.99
+49,54,Chobani (4),Lasagna,110,11.0,9.99
+49,55,Chobani (4),Bagel Bites,100,10.0,2.79
+49,56,Chobani (4),"Pizza (12"")",70,7.0,8.99
+50,0,Eggs (12),Start Node,185,18.5,0
+50,1,Eggs (12),Coffee Beans,200,20.0,6.99
+50,2,Eggs (12),K-Cups,180,18.0,10.99
+50,3,Eggs (12),Capt. Crunch,150,15.0,3.99
+50,4,Eggs (12),Chewy Bars,125,12.5,3.69
+50,5,Eggs (12),Granola,115,11.5,5.49
+50,6,Eggs (12),Hershey's,120,12.0,2.69
+50,7,Eggs (12),Flour,140,14.0,4.99
+50,8,Eggs (12),Syrup,150,15.0,2.49
+50,9,Eggs (12),Brownie Mix,180,18.0,2.29
+50,10,Eggs (12),Seasoning,185,18.5,3.99
+50,11,Eggs (12),Soup,170,17.0,1.99
+50,12,Eggs (12),Mac & Cheese,150,15.0,2.69
+50,13,Eggs (12),Ketchup,120,12.0,3.49
+50,14,Eggs (12),Pickles,115,11.5,2.99
+50,15,Eggs (12),Italian Dressing,110,11.0,3.99
+50,16,Eggs (12),Soy Sauce,90,9.0,2.49
+50,17,Eggs (12),Penne,95,9.5,3.49
+50,18,Eggs (12),CapriSun,100,10.0,2.49
+50,19,Eggs (12),Tortillas,140,14.0,1.99
+50,20,Eggs (12),Tomato Sauce,170,17.0,2.99
+50,21,Eggs (12),Ibuprofen,155,15.5,5.49
+50,22,Eggs (12),Diapers,140,14.0,25.99
+50,23,Eggs (12),Tootpaste,80,8.0,3.99
+50,24,Eggs (12),Tampons,90,9.0,5.29
+50,25,Eggs (12),Shampoo,75,7.5,8.99
+50,26,Eggs (12),Toilet Paper,150,15.0,7.99
+50,27,Eggs (12),Paper Towels,140,14.0,9.99
+50,28,Eggs (12),Napkins,120,12.0,3.29
+50,29,Eggs (12),Solo Cups,100,10.0,5.69
+50,30,Eggs (12),Trash Bags,70,7.0,8.99
+50,31,Eggs (12),Dish Soap,140,14.0,2.99
+50,32,Eggs (12),Detergent,135,13.5,12.99
+50,33,Eggs (12),Broom,120,12.0,13.99
+50,34,Eggs (12),Dog Treats,90,9.0,3.99
+50,35,Eggs (12),Air Freshner,80,8.0,6.99
+50,36,Eggs (12),Oreos,60,6.0,3.99
+50,37,Eggs (12),Popcorn,90,9.0,3.49
+50,38,Eggs (12),Gatorade (12),110,11.0,6.99
+50,39,Eggs (12),Redbull (4),115,11.5,7.99
+50,40,Eggs (12),Ritz,130,13.0,3.99
+50,41,Eggs (12),Coca Cola (12),120,12.0,5.99
+50,42,Eggs (12),LaCroix (12),110,11.0,5.49
+50,43,Eggs (12),Pepsi (12),115,11.5,5.99
+50,44,Eggs (12),Seltzer (6),50,5.0,3.99
+50,45,Eggs (12),Bottled Water (24),35,3.5,4.99
+50,46,Eggs (12),Milk Gallon,80,8.0,3.79
+50,47,Eggs (12),Butter Sticks,50,5.0,2.99
+50,48,Eggs (12),Cookie Dough,45,4.5,3.99
+50,49,Eggs (12),Chobani (4),30,3.0,4.49
+50,50,Eggs (12),Eggs (12),0,0.0,3.99
+50,51,Eggs (12),Waffles,50,5.0,3.79
+50,52,Eggs (12),Taquitos,90,9.0,6.99
+50,53,Eggs (12),Breyer's Ice Cream,100,10.0,4.99
+50,54,Eggs (12),Lasagna,80,8.0,9.99
+50,55,Eggs (12),Bagel Bites,70,7.0,2.79
+50,56,Eggs (12),"Pizza (12"")",40,4.0,8.99
+51,0,Waffles,Start Node,185,18.5,0
+51,1,Waffles,Coffee Beans,200,20.0,6.99
+51,2,Waffles,K-Cups,200,20.0,10.99
+51,3,Waffles,Capt. Crunch,170,17.0,3.99
+51,4,Waffles,Chewy Bars,145,14.5,3.69
+51,5,Waffles,Granola,135,13.5,5.49
+51,6,Waffles,Hershey's,140,14.0,2.69
+51,7,Waffles,Flour,160,16.0,4.99
+51,8,Waffles,Syrup,170,17.0,2.49
+51,9,Waffles,Brownie Mix,200,20.0,2.29
+51,10,Waffles,Seasoning,185,18.5,3.99
+51,11,Waffles,Soup,190,19.0,1.99
+51,12,Waffles,Mac & Cheese,170,17.0,2.69
+51,13,Waffles,Ketchup,140,14.0,3.49
+51,14,Waffles,Pickles,135,13.5,2.99
+51,15,Waffles,Italian Dressing,130,13.0,3.99
+51,16,Waffles,Soy Sauce,110,11.0,2.49
+51,17,Waffles,Penne,115,11.5,3.49
+51,18,Waffles,CapriSun,120,12.0,2.49
+51,19,Waffles,Tortillas,160,16.0,1.99
+51,20,Waffles,Tomato Sauce,170,17.0,2.99
+51,21,Waffles,Ibuprofen,165,16.5,5.49
+51,22,Waffles,Diapers,160,16.0,25.99
+51,23,Waffles,Tootpaste,100,10.0,3.99
+51,24,Waffles,Tampons,110,11.0,5.29
+51,25,Waffles,Shampoo,95,9.5,8.99
+51,26,Waffles,Toilet Paper,150,15.0,7.99
+51,27,Waffles,Paper Towels,160,16.0,9.99
+51,28,Waffles,Napkins,140,14.0,3.29
+51,29,Waffles,Solo Cups,120,12.0,5.69
+51,30,Waffles,Trash Bags,90,9.0,8.99
+51,31,Waffles,Dish Soap,140,14.0,2.99
+51,32,Waffles,Detergent,145,14.5,12.99
+51,33,Waffles,Broom,140,14.0,13.99
+51,34,Waffles,Dog Treats,110,11.0,3.99
+51,35,Waffles,Air Freshner,100,10.0,6.99
+51,36,Waffles,Oreos,80,8.0,3.99
+51,37,Waffles,Popcorn,110,11.0,3.49
+51,38,Waffles,Gatorade (12),130,13.0,6.99
+51,39,Waffles,Redbull (4),135,13.5,7.99
+51,40,Waffles,Ritz,130,13.0,3.99
+51,41,Waffles,Coca Cola (12),120,12.0,5.99
+51,42,Waffles,LaCroix (12),130,13.0,5.49
+51,43,Waffles,Pepsi (12),125,12.5,5.99
+51,44,Waffles,Seltzer (6),70,7.0,3.99
+51,45,Waffles,Bottled Water (24),55,5.5,4.99
+51,46,Waffles,Milk Gallon,110,11.0,3.79
+51,47,Waffles,Butter Sticks,100,10.0,2.99
+51,48,Waffles,Cookie Dough,95,9.5,3.99
+51,49,Waffles,Chobani (4),80,8.0,4.49
+51,50,Waffles,Eggs (12),50,5.0,3.99
+51,51,Waffles,Waffles,0,0.0,3.79
+51,52,Waffles,Taquitos,40,4.0,6.99
+51,53,Waffles,Breyer's Ice Cream,50,5.0,4.99
+51,54,Waffles,Lasagna,30,3.0,9.99
+51,55,Waffles,Bagel Bites,20,2.0,2.79
+51,56,Waffles,"Pizza (12"")",10,1.0,8.99
+52,0,Taquitos,Start Node,145,14.5,0
+52,1,Taquitos,Coffee Beans,160,16.0,6.99
+52,2,Taquitos,K-Cups,180,18.0,10.99
+52,3,Taquitos,Capt. Crunch,210,21.0,3.99
+52,4,Taquitos,Chewy Bars,185,18.5,3.69
+52,5,Taquitos,Granola,175,17.5,5.49
+52,6,Taquitos,Hershey's,180,18.0,2.69
+52,7,Taquitos,Flour,200,20.0,4.99
+52,8,Taquitos,Syrup,190,19.0,2.49
+52,9,Taquitos,Brownie Mix,160,16.0,2.29
+52,10,Taquitos,Seasoning,145,14.5,3.99
+52,11,Taquitos,Soup,150,15.0,1.99
+52,12,Taquitos,Mac & Cheese,170,17.0,2.69
+52,13,Taquitos,Ketchup,180,18.0,3.49
+52,14,Taquitos,Pickles,175,17.5,2.99
+52,15,Taquitos,Italian Dressing,170,17.0,3.99
+52,16,Taquitos,Soy Sauce,150,15.0,2.49
+52,17,Taquitos,Penne,155,15.5,3.49
+52,18,Taquitos,CapriSun,160,16.0,2.49
+52,19,Taquitos,Tortillas,160,16.0,1.99
+52,20,Taquitos,Tomato Sauce,130,13.0,2.99
+52,21,Taquitos,Ibuprofen,125,12.5,5.49
+52,22,Taquitos,Diapers,140,14.0,25.99
+52,23,Taquitos,Tootpaste,140,14.0,3.99
+52,24,Taquitos,Tampons,150,15.0,5.29
+52,25,Taquitos,Shampoo,135,13.5,8.99
+52,26,Taquitos,Toilet Paper,110,11.0,7.99
+52,27,Taquitos,Paper Towels,120,12.0,9.99
+52,28,Taquitos,Napkins,140,14.0,3.29
+52,29,Taquitos,Solo Cups,160,16.0,5.69
+52,30,Taquitos,Trash Bags,130,13.0,8.99
+52,31,Taquitos,Dish Soap,100,10.0,2.99
+52,32,Taquitos,Detergent,105,10.5,12.99
+52,33,Taquitos,Broom,120,12.0,13.99
+52,34,Taquitos,Dog Treats,150,15.0,3.99
+52,35,Taquitos,Air Freshner,140,14.0,6.99
+52,36,Taquitos,Oreos,120,12.0,3.99
+52,37,Taquitos,Popcorn,130,13.0,3.49
+52,38,Taquitos,Gatorade (12),110,11.0,6.99
+52,39,Taquitos,Redbull (4),105,10.5,7.99
+52,40,Taquitos,Ritz,90,9.0,3.99
+52,41,Taquitos,Coca Cola (12),80,8.0,5.99
+52,42,Taquitos,LaCroix (12),90,9.0,5.49
+52,43,Taquitos,Pepsi (12),85,8.5,5.99
+52,44,Taquitos,Seltzer (6),110,11.0,3.99
+52,45,Taquitos,Bottled Water (24),95,9.5,4.99
+52,46,Taquitos,Milk Gallon,70,7.0,3.79
+52,47,Taquitos,Butter Sticks,100,10.0,2.99
+52,48,Taquitos,Cookie Dough,105,10.5,3.99
+52,49,Taquitos,Chobani (4),120,12.0,4.49
+52,50,Taquitos,Eggs (12),90,9.0,3.99
+52,51,Taquitos,Waffles,40,4.0,3.79
+52,52,Taquitos,Taquitos,0,0.0,6.99
+52,53,Taquitos,Breyer's Ice Cream,10,1.0,4.99
+52,54,Taquitos,Lasagna,10,1.0,9.99
+52,55,Taquitos,Bagel Bites,20,2.0,2.79
+52,56,Taquitos,"Pizza (12"")",50,5.0,8.99
+53,0,Breyer's Ice Cream,Start Node,135,13.5,0
+53,1,Breyer's Ice Cream,Coffee Beans,150,15.0,6.99
+53,2,Breyer's Ice Cream,K-Cups,170,17.0,10.99
+53,3,Breyer's Ice Cream,Capt. Crunch,200,20.0,3.99
+53,4,Breyer's Ice Cream,Chewy Bars,195,19.5,3.69
+53,5,Breyer's Ice Cream,Granola,185,18.5,5.49
+53,6,Breyer's Ice Cream,Hershey's,190,19.0,2.69
+53,7,Breyer's Ice Cream,Flour,190,19.0,4.99
+53,8,Breyer's Ice Cream,Syrup,180,18.0,2.49
+53,9,Breyer's Ice Cream,Brownie Mix,150,15.0,2.29
+53,10,Breyer's Ice Cream,Seasoning,135,13.5,3.99
+53,11,Breyer's Ice Cream,Soup,140,14.0,1.99
+53,12,Breyer's Ice Cream,Mac & Cheese,160,16.0,2.69
+53,13,Breyer's Ice Cream,Ketchup,190,19.0,3.49
+53,14,Breyer's Ice Cream,Pickles,185,18.5,2.99
+53,15,Breyer's Ice Cream,Italian Dressing,180,18.0,3.99
+53,16,Breyer's Ice Cream,Soy Sauce,160,16.0,2.49
+53,17,Breyer's Ice Cream,Penne,165,16.5,3.49
+53,18,Breyer's Ice Cream,CapriSun,170,17.0,2.49
+53,19,Breyer's Ice Cream,Tortillas,150,15.0,1.99
+53,20,Breyer's Ice Cream,Tomato Sauce,120,12.0,2.99
+53,21,Breyer's Ice Cream,Ibuprofen,115,11.5,5.49
+53,22,Breyer's Ice Cream,Diapers,130,13.0,25.99
+53,23,Breyer's Ice Cream,Tootpaste,150,15.0,3.99
+53,24,Breyer's Ice Cream,Tampons,160,16.0,5.29
+53,25,Breyer's Ice Cream,Shampoo,145,14.5,8.99
+53,26,Breyer's Ice Cream,Toilet Paper,100,10.0,7.99
+53,27,Breyer's Ice Cream,Paper Towels,110,11.0,9.99
+53,28,Breyer's Ice Cream,Napkins,130,13.0,3.29
+53,29,Breyer's Ice Cream,Solo Cups,150,15.0,5.69
+53,30,Breyer's Ice Cream,Trash Bags,140,14.0,8.99
+53,31,Breyer's Ice Cream,Dish Soap,90,9.0,2.99
+53,32,Breyer's Ice Cream,Detergent,95,9.5,12.99
+53,33,Breyer's Ice Cream,Broom,110,11.0,13.99
+53,34,Breyer's Ice Cream,Dog Treats,140,14.0,3.99
+53,35,Breyer's Ice Cream,Air Freshner,150,15.0,6.99
+53,36,Breyer's Ice Cream,Oreos,130,13.0,3.99
+53,37,Breyer's Ice Cream,Popcorn,120,12.0,3.49
+53,38,Breyer's Ice Cream,Gatorade (12),100,10.0,6.99
+53,39,Breyer's Ice Cream,Redbull (4),95,9.5,7.99
+53,40,Breyer's Ice Cream,Ritz,80,8.0,3.99
+53,41,Breyer's Ice Cream,Coca Cola (12),70,7.0,5.99
+53,42,Breyer's Ice Cream,LaCroix (12),80,8.0,5.49
+53,43,Breyer's Ice Cream,Pepsi (12),75,7.5,5.99
+53,44,Breyer's Ice Cream,Seltzer (6),120,12.0,3.99
+53,45,Breyer's Ice Cream,Bottled Water (24),105,10.5,4.99
+53,46,Breyer's Ice Cream,Milk Gallon,60,6.0,3.79
+53,47,Breyer's Ice Cream,Butter Sticks,90,9.0,2.99
+53,48,Breyer's Ice Cream,Cookie Dough,95,9.5,3.99
+53,49,Breyer's Ice Cream,Chobani (4),110,11.0,4.49
+53,50,Breyer's Ice Cream,Eggs (12),100,10.0,3.99
+53,51,Breyer's Ice Cream,Waffles,50,5.0,3.79
+53,52,Breyer's Ice Cream,Taquitos,10,1.0,6.99
+53,53,Breyer's Ice Cream,Breyer's Ice Cream,0,0.0,4.99
+53,54,Breyer's Ice Cream,Lasagna,20,2.0,9.99
+53,55,Breyer's Ice Cream,Bagel Bites,30,3.0,2.79
+53,56,Breyer's Ice Cream,"Pizza (12"")",60,6.0,8.99
+54,0,Lasagna,Start Node,155,15.5,0
+54,1,Lasagna,Coffee Beans,170,17.0,6.99
+54,2,Lasagna,K-Cups,190,19.0,10.99
+54,3,Lasagna,Capt. Crunch,200,20.0,3.99
+54,4,Lasagna,Chewy Bars,175,17.5,3.69
+54,5,Lasagna,Granola,165,16.5,5.49
+54,6,Lasagna,Hershey's,170,17.0,2.69
+54,7,Lasagna,Flour,190,19.0,4.99
+54,8,Lasagna,Syrup,200,20.0,2.49
+54,9,Lasagna,Brownie Mix,170,17.0,2.29
+54,10,Lasagna,Seasoning,155,15.5,3.99
+54,11,Lasagna,Soup,160,16.0,1.99
+54,12,Lasagna,Mac & Cheese,180,18.0,2.69
+54,13,Lasagna,Ketchup,170,17.0,3.49
+54,14,Lasagna,Pickles,165,16.5,2.99
+54,15,Lasagna,Italian Dressing,160,16.0,3.99
+54,16,Lasagna,Soy Sauce,140,14.0,2.49
+54,17,Lasagna,Penne,145,14.5,3.49
+54,18,Lasagna,CapriSun,150,15.0,2.49
+54,19,Lasagna,Tortillas,170,17.0,1.99
+54,20,Lasagna,Tomato Sauce,140,14.0,2.99
+54,21,Lasagna,Ibuprofen,135,13.5,5.49
+54,22,Lasagna,Diapers,150,15.0,25.99
+54,23,Lasagna,Tootpaste,130,13.0,3.99
+54,24,Lasagna,Tampons,140,14.0,5.29
+54,25,Lasagna,Shampoo,125,12.5,8.99
+54,26,Lasagna,Toilet Paper,120,12.0,7.99
+54,27,Lasagna,Paper Towels,130,13.0,9.99
+54,28,Lasagna,Napkins,150,15.0,3.29
+54,29,Lasagna,Solo Cups,150,15.0,5.69
+54,30,Lasagna,Trash Bags,120,12.0,8.99
+54,31,Lasagna,Dish Soap,110,11.0,2.99
+54,32,Lasagna,Detergent,115,11.5,12.99
+54,33,Lasagna,Broom,130,13.0,13.99
+54,34,Lasagna,Dog Treats,140,14.0,3.99
+54,35,Lasagna,Air Freshner,130,13.0,6.99
+54,36,Lasagna,Oreos,110,11.0,3.99
+54,37,Lasagna,Popcorn,140,14.0,3.49
+54,38,Lasagna,Gatorade (12),120,12.0,6.99
+54,39,Lasagna,Redbull (4),115,11.5,7.99
+54,40,Lasagna,Ritz,100,10.0,3.99
+54,41,Lasagna,Coca Cola (12),90,9.0,5.99
+54,42,Lasagna,LaCroix (12),100,10.0,5.49
+54,43,Lasagna,Pepsi (12),95,9.5,5.99
+54,44,Lasagna,Seltzer (6),100,10.0,3.99
+54,45,Lasagna,Bottled Water (24),85,8.5,4.99
+54,46,Lasagna,Milk Gallon,80,8.0,3.79
+54,47,Lasagna,Butter Sticks,110,11.0,2.99
+54,48,Lasagna,Cookie Dough,115,11.5,3.99
+54,49,Lasagna,Chobani (4),110,11.0,4.49
+54,50,Lasagna,Eggs (12),80,8.0,3.99
+54,51,Lasagna,Waffles,30,3.0,3.79
+54,52,Lasagna,Taquitos,10,1.0,6.99
+54,53,Lasagna,Breyer's Ice Cream,20,2.0,4.99
+54,54,Lasagna,Lasagna,0,0.0,9.99
+54,55,Lasagna,Bagel Bites,10,1.0,2.79
+54,56,Lasagna,"Pizza (12"")",40,4.0,8.99
+55,0,Bagel Bites,Start Node,165,16.5,0
+55,1,Bagel Bites,Coffee Beans,180,18.0,6.99
+55,2,Bagel Bites,K-Cups,200,20.0,10.99
+55,3,Bagel Bites,Capt. Crunch,190,19.0,3.99
+55,4,Bagel Bites,Chewy Bars,165,16.5,3.69
+55,5,Bagel Bites,Granola,155,15.5,5.49
+55,6,Bagel Bites,Hershey's,160,16.0,2.69
+55,7,Bagel Bites,Flour,180,18.0,4.99
+55,8,Bagel Bites,Syrup,190,19.0,2.49
+55,9,Bagel Bites,Brownie Mix,180,18.0,2.29
+55,10,Bagel Bites,Seasoning,165,16.5,3.99
+55,11,Bagel Bites,Soup,170,17.0,1.99
+55,12,Bagel Bites,Mac & Cheese,190,19.0,2.69
+55,13,Bagel Bites,Ketchup,160,16.0,3.49
+55,14,Bagel Bites,Pickles,155,15.5,2.99
+55,15,Bagel Bites,Italian Dressing,150,15.0,3.99
+55,16,Bagel Bites,Soy Sauce,130,13.0,2.49
+55,17,Bagel Bites,Penne,135,13.5,3.49
+55,18,Bagel Bites,CapriSun,140,14.0,2.49
+55,19,Bagel Bites,Tortillas,180,18.0,1.99
+55,20,Bagel Bites,Tomato Sauce,150,15.0,2.99
+55,21,Bagel Bites,Ibuprofen,145,14.5,5.49
+55,22,Bagel Bites,Diapers,160,16.0,25.99
+55,23,Bagel Bites,Tootpaste,120,12.0,3.99
+55,24,Bagel Bites,Tampons,130,13.0,5.29
+55,25,Bagel Bites,Shampoo,115,11.5,8.99
+55,26,Bagel Bites,Toilet Paper,130,13.0,7.99
+55,27,Bagel Bites,Paper Towels,140,14.0,9.99
+55,28,Bagel Bites,Napkins,160,16.0,3.29
+55,29,Bagel Bites,Solo Cups,140,14.0,5.69
+55,30,Bagel Bites,Trash Bags,110,11.0,8.99
+55,31,Bagel Bites,Dish Soap,120,12.0,2.99
+55,32,Bagel Bites,Detergent,125,12.5,12.99
+55,33,Bagel Bites,Broom,140,14.0,13.99
+55,34,Bagel Bites,Dog Treats,130,13.0,3.99
+55,35,Bagel Bites,Air Freshner,120,12.0,6.99
+55,36,Bagel Bites,Oreos,100,10.0,3.99
+55,37,Bagel Bites,Popcorn,130,13.0,3.49
+55,38,Bagel Bites,Gatorade (12),130,13.0,6.99
+55,39,Bagel Bites,Redbull (4),125,12.5,7.99
+55,40,Bagel Bites,Ritz,110,11.0,3.99
+55,41,Bagel Bites,Coca Cola (12),100,10.0,5.99
+55,42,Bagel Bites,LaCroix (12),110,11.0,5.49
+55,43,Bagel Bites,Pepsi (12),105,10.5,5.99
+55,44,Bagel Bites,Seltzer (6),90,9.0,3.99
+55,45,Bagel Bites,Bottled Water (24),75,7.5,4.99
+55,46,Bagel Bites,Milk Gallon,90,9.0,3.79
+55,47,Bagel Bites,Butter Sticks,120,12.0,2.99
+55,48,Bagel Bites,Cookie Dough,115,11.5,3.99
+55,49,Bagel Bites,Chobani (4),100,10.0,4.49
+55,50,Bagel Bites,Eggs (12),70,7.0,3.99
+55,51,Bagel Bites,Waffles,20,2.0,3.79
+55,52,Bagel Bites,Taquitos,20,2.0,6.99
+55,53,Bagel Bites,Breyer's Ice Cream,30,3.0,4.99
+55,54,Bagel Bites,Lasagna,10,1.0,9.99
+55,55,Bagel Bites,Bagel Bites,0,0.0,2.79
+55,56,Bagel Bites,"Pizza (12"")",30,3.0,8.99
+56,0,"Pizza (12"")",Start Node,195,19.5,0
+56,1,"Pizza (12"")",Coffee Beans,210,21.0,6.99
+56,2,"Pizza (12"")",K-Cups,190,19.0,10.99
+56,3,"Pizza (12"")",Capt. Crunch,160,16.0,3.99
+56,4,"Pizza (12"")",Chewy Bars,135,13.5,3.69
+56,5,"Pizza (12"")",Granola,125,12.5,5.49
+56,6,"Pizza (12"")",Hershey's,130,13.0,2.69
+56,7,"Pizza (12"")",Flour,150,15.0,4.99
+56,8,"Pizza (12"")",Syrup,160,16.0,2.49
+56,9,"Pizza (12"")",Brownie Mix,190,19.0,2.29
+56,10,"Pizza (12"")",Seasoning,195,19.5,3.99
+56,11,"Pizza (12"")",Soup,180,18.0,1.99
+56,12,"Pizza (12"")",Mac & Cheese,160,16.0,2.69
+56,13,"Pizza (12"")",Ketchup,130,13.0,3.49
+56,14,"Pizza (12"")",Pickles,125,12.5,2.99
+56,15,"Pizza (12"")",Italian Dressing,120,12.0,3.99
+56,16,"Pizza (12"")",Soy Sauce,100,10.0,2.49
+56,17,"Pizza (12"")",Penne,105,10.5,3.49
+56,18,"Pizza (12"")",CapriSun,110,11.0,2.49
+56,19,"Pizza (12"")",Tortillas,150,15.0,1.99
+56,20,"Pizza (12"")",Tomato Sauce,180,18.0,2.99
+56,21,"Pizza (12"")",Ibuprofen,165,16.5,5.49
+56,22,"Pizza (12"")",Diapers,150,15.0,25.99
+56,23,"Pizza (12"")",Tootpaste,90,9.0,3.99
+56,24,"Pizza (12"")",Tampons,100,10.0,5.29
+56,25,"Pizza (12"")",Shampoo,85,8.5,8.99
+56,26,"Pizza (12"")",Toilet Paper,160,16.0,7.99
+56,27,"Pizza (12"")",Paper Towels,150,15.0,9.99
+56,28,"Pizza (12"")",Napkins,130,13.0,3.29
+56,29,"Pizza (12"")",Solo Cups,110,11.0,5.69
+56,30,"Pizza (12"")",Trash Bags,80,8.0,8.99
+56,31,"Pizza (12"")",Dish Soap,150,15.0,2.99
+56,32,"Pizza (12"")",Detergent,145,14.5,12.99
+56,33,"Pizza (12"")",Broom,130,13.0,13.99
+56,34,"Pizza (12"")",Dog Treats,100,10.0,3.99
+56,35,"Pizza (12"")",Air Freshner,90,9.0,6.99
+56,36,"Pizza (12"")",Oreos,70,7.0,3.99
+56,37,"Pizza (12"")",Popcorn,100,10.0,3.49
+56,38,"Pizza (12"")",Gatorade (12),120,12.0,6.99
+56,39,"Pizza (12"")",Redbull (4),125,12.5,7.99
+56,40,"Pizza (12"")",Ritz,140,14.0,3.99
+56,41,"Pizza (12"")",Coca Cola (12),130,13.0,5.99
+56,42,"Pizza (12"")",LaCroix (12),120,12.0,5.49
+56,43,"Pizza (12"")",Pepsi (12),125,12.5,5.99
+56,44,"Pizza (12"")",Seltzer (6),60,6.0,3.99
+56,45,"Pizza (12"")",Bottled Water (24),45,4.5,4.99
+56,46,"Pizza (12"")",Milk Gallon,120,12.0,3.79
+56,47,"Pizza (12"")",Butter Sticks,90,9.0,2.99
+56,48,"Pizza (12"")",Cookie Dough,85,8.5,3.99
+56,49,"Pizza (12"")",Chobani (4),70,7.0,4.49
+56,50,"Pizza (12"")",Eggs (12),40,4.0,3.99
+56,51,"Pizza (12"")",Waffles,10,1.0,3.79
+56,52,"Pizza (12"")",Taquitos,50,5.0,6.99
+56,53,"Pizza (12"")",Breyer's Ice Cream,60,6.0,4.99
+56,54,"Pizza (12"")",Lasagna,40,4.0,9.99
+56,55,"Pizza (12"")",Bagel Bites,30,3.0,2.79
+56,56,"Pizza (12"")","Pizza (12"")",0,0.0,8.99

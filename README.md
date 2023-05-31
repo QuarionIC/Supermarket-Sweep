@@ -1,2 +1,2 @@
 # Supermarket-Sweep
-Contains the deliverables for the Supermarket Sweep Problem. The team devised a dynamic programming algorithm that solved all problem sizes in less than 17 minutes.
+A report, solution, and presentation for the Supermarket Sweep Problem. The team devised a dynamic programming algorithm that solved all problem sizes in less than 17 minutes, where a naive solutions takes 80+ hours.
